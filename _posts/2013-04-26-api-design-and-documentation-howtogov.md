@@ -1,10 +1,0 @@
----
-layout: post
-title: API Design and Documentation | HowTo.gov
-url: http://www.howto.gov/mobile/apis-in-government/api-design-documentation
-source: http://www.howto.gov/mobile/apis-in-government/api-design-documentation
-domain: www.howto.gov
----
-{% include JB/setup %}<p>At their core, developers want APIs for very straightforward, pragmatic ends.You should always design your APIs and document them with the goal of making it easier for developers to use them.Doing so results in greater adoption and a healthier, more successful API.The least efficient way to support developers would be to work with each interested developer individually on any question or problem that they have.Such a system would be a very inefficient use of your time as well as the developer’s.</p>
-<center><p><a href="http://www.howto.gov/mobile/apis-in-government/api-design-documentation" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
