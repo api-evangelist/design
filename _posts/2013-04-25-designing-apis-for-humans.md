@@ -4,7 +4,7 @@ title: Designing APIs for Humans
 url: http://john-sheehan.com/post/48863654793/designing-apis-for-humans
 source: http://john-sheehan.com/post/48863654793/designing-apis-for-humans
 domain: john-sheehan.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7949_john-sheehan_com.png
 ---
 {% include JB/setup %}<p>Earlier this month I gave a talk at Devs Love Bacon on an API design philosophy I picked up while working at IFTTT I’ve been calling ‘APIs for Humans’.Sadly, it’s not about this:
   OH at @devslovebacon “I thought the “APIs for humans” talk was about controlling humans” #devslovebacon

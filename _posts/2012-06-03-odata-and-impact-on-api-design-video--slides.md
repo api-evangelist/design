@@ -4,7 +4,7 @@ title: OData and Impact on API Design (video & slides)
 url: https://blog.apigee.com/detail/odata_and_impact_on_api_design_video_slides/
 source: https://blog.apigee.com/detail/odata_and_impact_on_api_design_video_slides/
 domain: blog.apigee.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/3484_blog_apigee_com.png
 ---
 {% include JB/setup %}<p>The video and slides for the session are below.Thanks to @gbrail and @jhingran and our moderator @brianpagano.Wed love to continue the discussion on the api-craft forum.(To those who were on the live webcast - our sincere apologies for the audio & technical difficulties.)
  
