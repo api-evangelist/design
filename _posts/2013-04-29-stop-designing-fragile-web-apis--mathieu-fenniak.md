@@ -4,7 +4,7 @@ title: Stop Designing Fragile Web APIs | Mathieu Fenniak
 url: https://mathieu.fenniak.net/stop-designing-fragile-web-apis/
 source: https://mathieu.fenniak.net/stop-designing-fragile-web-apis/
 domain: mathieu.fenniak.net
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/8105_mathieu_fenniak_net.png
 ---
 {% include JB/setup %}<p>When you release your Web API, it’s carved into stone.It’s a scary commitment to never make an incompatible change.If you fail, you’ll have irate customers yelling in your inbox, followed by your boss, and then your boss’s boss.You have to support this API.Forever.</p>
 <center><p><a href="https://mathieu.fenniak.net/stop-designing-fragile-web-apis/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
