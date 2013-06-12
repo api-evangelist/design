@@ -1,0 +1,13 @@
+---
+layout: post
+title: Designing APIs for Humans
+url: http://john-sheehan.com/post/48863654793/designing-apis-for-humans
+source: http://john-sheehan.com/post/48863654793/designing-apis-for-humans
+domain: john-sheehan.com
+image: [Image]
+---
+{% include JB/setup %}<p>Earlier this month I gave a talk at Devs Love Bacon on an API design philosophy I picked up while working at IFTTT I’ve been calling ‘APIs for Humans’.Sadly, it’s not about this:
+  OH at @devslovebacon “I thought the “APIs for humans” talk was about controlling humans” #devslovebacon
+— Julian Cheal (@juliancheal) April 12, 2013  At IFTTT I identified three major areas for how non-developers end up consuming API data in significant numbers.In this talk I cover what those areas are and how you can tailor your API designs to encourage developers to build human-friendly integrations.Since I had extra time I threw in a few points on developer experience too.After all, developers are humans too.</p>
+<center><p><a href="http://john-sheehan.com/post/48863654793/designing-apis-for-humans" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+
