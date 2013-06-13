@@ -1,6 +1,6 @@
 ---
 layout: post
-title: API Design and Documentation | HowTo.gov
+title: API Design and Documentation
 url: http://www.howto.gov/mobile/apis-in-government/api-design-documentation
 source: http://www.howto.gov/mobile/apis-in-government/api-design-documentation
 domain: www.howto.gov

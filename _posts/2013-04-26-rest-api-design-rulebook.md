@@ -1,6 +1,6 @@
 ---
 layout: post
-title: REST API Design Rulebook - O'Reilly Media
+title: REST API Design Rulebook
 url: http://shop.oreilly.com/product/0636920021575.do
 source: http://shop.oreilly.com/product/0636920021575.do
 domain: shop.oreilly.com

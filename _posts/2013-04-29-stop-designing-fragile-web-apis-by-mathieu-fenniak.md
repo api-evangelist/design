@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stop Designing Fragile Web APIs | Mathieu Fenniak
+title: Stop Designing Fragile Web APIs by Mathieu Fenniak
 url: https://mathieu.fenniak.net/stop-designing-fragile-web-apis/
 source: https://mathieu.fenniak.net/stop-designing-fragile-web-apis/
 domain: mathieu.fenniak.net

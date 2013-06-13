@@ -1,6 +1,6 @@
 ---
 layout: post
-title: API Design and Architecture Boot Camp | Layer 7 Technologies
+title: API Design and Architecture Boot Camp from Layer 7
 url: http://www.layer7tech.com/services/api-design-and-architecture-boot-camp
 source: http://www.layer7tech.com/services/api-design-and-architecture-boot-camp
 domain: www.layer7tech.com

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: API Design - Matt Gemmell
+title: API Design by Matt Gemmell
 url: http://mattgemmell.com/2012/05/24/api-design/
 source: http://mattgemmell.com/2012/05/24/api-design/
 domain: mattgemmell.com

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: API Design | Apigee
+title: API Design from Apigee
 url: http://apigee.com/about/api-best-practices/api-design/all
 source: http://apigee.com/about/api-best-practices/api-design/all
 domain: apigee.com

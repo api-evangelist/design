@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WhiteHouse/api-standards · GitHub
+title: White House API Standards
 url: https://github.com/WhiteHouse/api-standards
 source: https://github.com/WhiteHouse/api-standards
 domain: github.com

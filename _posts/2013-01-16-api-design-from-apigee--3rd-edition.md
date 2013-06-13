@@ -1,6 +1,6 @@
 ---
 layout: post
-title: API Design: Third Edition (video & slides) | Apigee
+title: API Design from Apigee - 3rd Edition
 url: https://blog.apigee.com/detail/api_design_third_edition_video_slides
 source: https://blog.apigee.com/detail/api_design_third_edition_video_slides
 domain: blog.apigee.com
