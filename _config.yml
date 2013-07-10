@@ -5,8 +5,8 @@ lsi: false
 pygments: true
 auto: true
 
-source: api-evangelist
-destination: api-evangelist
+source: api-design
+destination: api-design
 
 permalink: /:categories/:year/:month/:day/:title 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
