@@ -4,6 +4,17 @@
 
             <div id="sidebar">
                 
+                {% if page.title == 'API Design' %}
+    
+                {% else %}
+                    <div class="widget widget_recent_entries"> 
+                        <center>      
+                             <p style="font-size: 16px;"><strong>API Design</strong></p>
+                            <img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-design.png" width="275" />
+                        </center>
+                    </div>
+                {% endif %}                
+                
                  <div class="widget widget_recent_entries">  
                  
                      <p align="center"><a href="/network.html"><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/network/API-Evangelist-Network.png" width="215" /></a></p>
