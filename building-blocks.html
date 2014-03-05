@@ -42,14 +42,16 @@ title: Building Blocks
 
 <!--BaaS Full Listing Template--->
 {% raw  %}
-<script id="buildingblockTemplate" type="text/template">       
-    <li><img src="{{image}}" width="50" align="left" style="padding: 15px;" /><strong>{{name}}</strong> - {{summary}}</li>                                                                                               
+<script id="buildingblockTemplate" type="text/template">
+    <tr>       
+        <td width="60" align="center" valign="middle"><img src="{{image}}" width="50" align="left" style="padding: 15px;" /></td>
+        <td align="left" valign="middle"><strong>{{name}}</strong> - {{summary}}</li>                                                                                               
 </script>
 {% endraw %}
 
 <!--Full Listing Container--->
 <div class="buildingblocklistingcontainter">
-     <ul id="buildingblockListing" class="buildingblocklistingul"></ul>
+     <table id="buildingblockListing" class="buildingblocklistingul"></table>
 </div>  
 
 <!--BaaS Full Listing JavaScript--->
