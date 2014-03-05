@@ -5,23 +5,22 @@ title: Building Blocks
 <style>
 
     .buildingblocklistingcontainer{
-        padding-left: 1px; 
-        padding-right: 1px; 
+        padding-left: 10px; 
+        padding-right: 10px; 
         width:550px;
-        border: 1px solid #000;
     }
     .buildingblockcategorylistingul{
-        padding-left: 1px;
+        padding-left: 30px;
     }  
     .buildingblockcategorylistingul li{
         list-style: none; 
-        padding: 1px 1px 1px 1px;
+        padding: 10px 10px 20px 10px;
         border: 0px solid #000;
         font-size: 18px;
         font-weight: bold;
     }  
     .buildingblocklistingul{
-        padding-left: 1px;
+        padding-left: 30px;
     }  
     .buildingblocklistingul li{
         padding: 20px; 
@@ -43,13 +42,8 @@ title: Building Blocks
 
 <!--BaaS Full Listing Template--->
 {% raw  %}
-
-<script id="buildingblockcategoryTemplate" type="text/template">       
-    <li><ul id="{{slug}}" class="buildingblocklistingul"></ul></li>                                                                                               
-</script>
-
 <script id="buildingblockTemplate" type="text/template">       
-    <li><img src="{{image}}" width="50" align="left" style="padding: 25px;" /><strong>{{name}}</strong> - {{summary}}</li>                                                                                               
+    <li><img src="{{image}}" width="50" align="left" style="padding: 15px;" /><strong>{{name}}</strong> - {{summary}}</li>                                                                                               
 </script>
 {% endraw %}
 
@@ -60,29 +54,14 @@ title: Building Blocks
 
 <!--BaaS Full Listing JavaScript--->
 <script type="text/javascript">
-
-// Requires Mustache - http://mustache.github.io/
-
-function listbuidingblockcategories()
-    {
-    $.getJSON('data/buildingblockcategories.json', function(data) {
-         $.each(data['buildingblockcategories'], function(key, val) {
-             
-            var template = $('#buildingblockcategoryTemplate').html();
-            var html = Mustache.to_html(template, val);
-            $('#buildingblockListing').append(html);  
-            });                                   
-        });           
-    } 
     
 function listbuidingblocks()
     {
     $.getJSON('data/buildingblocks.json', function(data) {
          $.each(data['buildingblocks'], function(key, val) {
-            categoryslug = val['categoryslug']; 
             var template = $('#buildingblockTemplate').html();
             var html = Mustache.to_html(template, val);
-            $('#'+categoryslug).append(html);   
+            $('#buildingblockListing').append(html);   
             });                                   
         });        
     }    
@@ -90,6 +69,5 @@ function listbuidingblocks()
 
 <!--Trigger BaaS Full Listing JavaScript onLoad-->
 <script type="text/javascript">
-listbuidingblockcategories();
 listbuidingblocks();
 </script>
