@@ -8,18 +8,18 @@ title: API Evangelist Developer Blog
 <table cellpadding="5" cellspacing="2" width="100%" border="0">
 	<tr><td colspan="2" align="center"><hr style="padding: 1px 1px 1px 1px; margin: 1px 1px 1px 1px;" /></td></tr>
 {% for post in paginator.posts %}
-<tr>    
-    <td width="55" align="center">
-	    {% if post.image != null %}
-	    	<a href="{{ post.sourceurl }}" rel="bookmark" title="{{ post.title }}"><img src="{{ post.image }}" width="50" align="left" /></a>
-	    {% endif %}
-    </td>
-    <td align="left" style="padding-top: 5px;">
-	    <a href="{{ post.sourceurl }}" rel="bookmark" title="{{ post.title }}" style="color:#000; font-size: 16px;"><strong>{{ post.title }}</strong></a>
-	    <br /><i><span class="small">Posted on</span> <span class="post-date">{{ post.date | date:"%m-%d-%Y" }} on <a href="http://{{ post.domain }}"></a>{{ post.domain }}</a></span></i>
-    </td>   
-</tr>
-<tr><td colspan="2" align="center"><hr style="padding: 1px 1px 1px 1px; margin: 1px 1px 1px 1px;" /></td></tr>
+	<tr>    
+	    <td width="55" align="center">
+		    {% if post.image != null %}
+		    	<a href="{{ post.sourceurl }}" rel="bookmark" title="{{ post.title }}"><img src="{{ post.image }}" width="50" align="left" /></a>
+		    {% endif %}
+	    </td>
+	    <td align="left" style="padding-top: 5px;">
+		    <a href="{{ post.sourceurl }}" rel="bookmark" title="{{ post.title }}" style="color:#000; font-size: 16px;"><strong>{{ post.title }}</strong></a>
+		    <br /><i><span class="small">Posted on</span> <span class="post-date">{{ post.date | date:"%m-%d-%Y" }} on <a href="http://{{ post.domain }}"></a>{{ post.domain }}</a></span></i>
+	    </td>   
+	</tr>
+	<tr><td colspan="2" align="center"><hr style="padding: 1px 1px 1px 1px; margin: 1px 1px 1px 1px;" /></td></tr>
 {% endfor %}
 </table>
 
