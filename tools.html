@@ -44,6 +44,7 @@ function listTools()
     $.getJSON('data/tools.json', function(data) {
         toggle = 0;
          $.each(data['tools'], function(key, val) {
+         	
             var template = $('#toolListingTemplate').html();
             var html = Mustache.to_html(template, val);
             $('#toolListing').append(html);
@@ -52,10 +53,7 @@ function listTools()
             
             if(thisid == id)
                 {
-                var template = $('#companyDetailTemplate').html();
-                var html = Mustache.to_html(template, val);
-                $('#companyDetail').append(html);
-                
+                	
                 website = val['website'];
                 if(website.length>0){ document.getElementById("home-icon").href=website; } else { document.getElementById("home-icon-img").style.display='none'; }              
                 
