@@ -494,3 +494,21 @@ a:focus {
 	list-style: none;
 	display: block;
 }
+
+
+.toolbar{
+    float:right; 
+    padding-top: 10px;  
+}
+.toolbar li{
+    display: inline;
+    list-style: none;
+    padding-left: 2px;
+    padding-right: 2px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.toolbar li a{
+    color:#000;
+    font-size: 14px;
+} 
