@@ -12,7 +12,7 @@ layout: default
 		    {% endif %}
 	    </td>
 	    <td align="left">
-		    <a href="{{ post.sourceurl }}" rel="bookmark" title="{{ post.title }}" style="color:#000; font-size: 16px;"><strong>{{ post.title }}</strong></a> <i><span class="post-date">{{ post.date | date:"%m-%d-%Y" }} on <a href="http://{{ post.domain }}"></a>{{ post.domain }}</a></span></i>
+		    <a href="{{ post.sourceurl }}" rel="bookmark" title="{{ post.title }}" style="color:#000; font-size: 16px;"><strong>{{ post.title }}</strong></a><br /><i><span class="post-date">{{ post.date | date:"%m-%d-%Y" }}{% if post.domain != null %} on <a href="http://{{ post.domain }}"></a>{{ post.domain }}</a></span>{% endif %}</i>
 	    </td>   
 	</tr>
 	<tr><td colspan="2" align="center"><hr style="padding: 1px 1px 1px 1px; margin: 1px 1px 1px 1px;" /></td></tr>
