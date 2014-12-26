@@ -75,7 +75,7 @@ function listCompanies()
                         
             id = val['id'];
             website = val['website'];
-            alert(website);
+            //alert(website);
             if(website.length>0){ document.getElementById("home-logo-link-"+id).href=website; }               
             if(website.length>0){ document.getElementById("home-name-link-"+id).href=website; }              
             if(website.length>0){ document.getElementById("home-icon-"+id).href=website; } else { document.getElementById("home-icon-img-"+id).style.display='none'; }              
