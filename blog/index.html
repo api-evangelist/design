@@ -1,73 +1,75 @@
 ---
 layout: default
-title: API Design - News and Analysis
 ---
 
-<h1 class="title">API Design - News and Analysis</h1>
+<p align="center"><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/api-evangelist-logo-400.png" align="center" width="65%" style="padding-bottom: 10px;" /></p>
 
-<table cellpadding="5" cellspacing="2" width="100%" border="0">
-	<tr><td colspan="2" align="center"><hr style="padding: 1px 1px 1px 1px; margin: 1px 1px 1px 1px;" /></td></tr>
-{% for post in paginator.posts %}
-	<tr>    
-	    <td width="55" align="center">
-		    {% if post.image != null %}
-		    	<a href="{{ post.sourceurl }}" rel="bookmark" title="{{ post.title }}"><img src="{{ post.image }}" width="50" align="left" /></a>
-		    {% endif %}
-	    </td>
-	    <td align="left" style="padding-top: 5px;">
-		    <a href="{{ post.sourceurl }}" rel="bookmark" title="{{ post.title }}" style="color:#000; font-size: 16px;"><strong>{{ post.title }}</strong></a>
-		    <br /><i><span class="small">Posted on</span> <span class="post-date">{{ post.date | date:"%m-%d-%Y" }} on <a href="http://{{ post.domain }}"></a>{{ post.domain }}</a></span></i>
-	    </td>   
-	</tr>
-	<tr><td colspan="2" align="center"><hr style="padding: 1px 1px 1px 1px; margin: 1px 1px 1px 1px;" /></td></tr>
-{% endfor %}
-</table>
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1>
+      <a href="{{ site.production_url }}{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
 
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+    
+	<br /><br />
+	<!-- 3scale -->
+	<p align="center">
+	    <a href="http://bit.ly/13esk6Q" target="_blank" title="Empowered By 3Scale">
+	        <img src="https://s3.amazonaws.com/kinlane-productions/api-service-providers/3Scale/empowered-by-3scale.png" width="45%" style="padding-bottom: 15px;" />
+	    </a>        
+	</p>
+	<!-- 3scale -->  
+		
+	<table cellpadding="5" cellspacing="5" align="center" border="0" style="border-bottom: 0px; padding-bottom: 10px;">
+		<tr>
+			<td align="center">
+				<a href="http://twitter.com/home?status={{ post.title }} - {{ site.production_url }}{{ post.url }} via @apievangelist" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/twitter.png" width="25" /></a>				
+			</td>
+			<td align="center">
+				<a href="http://www.facebook.com/share.php?u={{ site.production_url }}{{ post.url }}&title={{ site.production_url }}{{ post.title }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/facebook.png" width="25" /></a>
+			</td>
+			<td align="center">
+				<a href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.production_url }}{{ post.url }}&title={{ post.title }}&source=api.report" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/linkedin.png" width="25" /></a>				
+			</td>
+			<td align="center">
+				<a href="https://plus.google.com/share?url={{ site.production_url }}{{ post.url }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/google-plus.png" width="25" /></a>				
+			</td>	
+			<td align="center">
+				<a href="http://www.tumblr.com/share?v=3&u={{ site.production_url }}{{ post.url }}&t={{ site.production_url }}{{ post.title }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/tumblr.png" width="25" /></a>				
+			</td>
+			<td align="center">
+				<a href="http://www.reddit.com/submit?url={{ site.production_url }}{{ post.url }}&title={{ site.production_url }}{{ post.title }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/reddit.png" width="25" /></a>				
+			</td>
+			<td align="center">
+				<a href="http://news.ycombinator.com/submitlink?u={{ site.production_url }}{{ post.url }}&t={{ site.production_url }}{{ post.title }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/hackernews.jpeg" width="25" /></a>				
+			</td>															
+		</tr>
+	</table>	      
+    
+  </div>
+  {% endfor %}
+</div>
+
+<!-- Pagination links -->
 <div class="pagination">
-  <ul>
-    {% if paginator.previous_page %}
-      {% if paginator.previous_page == 1 %}
-        <li>
-          <a href="/">&laquo;</a>
-        </li>
-      {% else %}
-        <li>
-          <a href="/blog/page{{paginator.previous_page}}">&laquo;</a>
-        </li>
-      {% endif %}
+  {% if paginator.next_page %}
+    <a href="/blog/page{{paginator.next_page}}" class="older">Older</a>
+  {% else %}
+    <span class="next">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a href="/" class="newer">Newer</a>
     {% else %}
-      <li class="disabled">
-        <a href="#">&laquo;</a>
-      </li>
+      <a href="/blog/page{{paginator.previous_page}}" class="newer">Newer</a>
     {% endif %}
-    {% if paginator.page == 1 %}
-      <li class="active">
-        <a href="#">1</a>
-      </li>
-    {% else %}
-      <li>
-        <a href="/">1</a>
-      </li>
-    {% endif %}
-    {% for count in (2...10) %}
-      {% if count == paginator.page %}
-        <li class="active">
-          <a href="#">{{count}}</a>
-        </li>
-      {% else %}
-        <li>
-          <a href="/blog/page{{count}}">{{count}}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-    {% if paginator.next_page %}
-      <li>
-        <a href="/blog/page{{paginator.next_page}}">&raquo;</a>
-      </li>
-    {% else %}
-      <li class="disabled">
-        <a href="#">&raquo;</a>
-      </li>
-    {% endif %}
-  </ul>
+  {% else %}
+    <span class="previous">Newer</span>
+  {% endif %}
 </div>
