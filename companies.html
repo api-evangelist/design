@@ -9,7 +9,7 @@ title: Companies
     }  
     .baaslisting li{
         list-style: none; 
-        padding: 5px; 
+        padding: 1px; 
         border: 0px solid #000;
     }       
 </style>
@@ -46,13 +46,13 @@ title: Companies
 
 <div>
      <p align="center"><hr /></p>
-     <table id="companyListing" style="padding-left: 35px;" width="90%" cellpadding="1" cellspacing="1"></table>
+     <table id="companyListing" style="" width="100%" cellpadding="1" cellspacing="1"></table>
 </div>  
 
 <script type="text/javascript">
 function listCompanies()
     {
-    $.getJSON('data/companies.json', function(data) {
+    $.getJSON('/data/companies.json', function(data) {
         toggle = 0;
          $.each(data['company'], function(key, val) {
             var template = $('#companyListingTemplate').html();
@@ -61,7 +61,7 @@ function listCompanies()
                         
             id = val['id'];
             website = val['website'];
-            
+            alert(website);
             if(website.length>0){ document.getElementById("home-logo-link-"+id).href=website; }               
             if(website.length>0){ document.getElementById("home-name-link-"+id).href=website; }              
             if(website.length>0){ document.getElementById("home-icon-"+id).href=website; } else { document.getElementById("home-icon-img-"+id).style.display='none'; }              
