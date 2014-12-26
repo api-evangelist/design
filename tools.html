@@ -5,8 +5,8 @@ title: Tools
 <!-- Begin List API Design companies--->
 {% raw  %}
 <script id="toolListingTemplate" type="text/template">       
-    <li style="list-style: none; padding: 30px; border: 0px solid #000;">
-        <a href="tools-detail.html?id={{id}}"><img src="{{logo}}" width="200" align="left" style="padding: 15px;" /></a>
+    <li style="list-style: none; padding: 15px; border: 0px solid #000;">
+        <a href="tools-detail.html?id={{id}}"><img src="{{logo}}" width="125" align="left" style="padding: 15px;" /></a>
         <a href="tools-detail.html?id={{id}}" style="color: #000;"><strong>{{name}}</strong></a> - {{summary}}... <a href="tools-detail.html?id={{id}}">details</a>.
     </li>                                                                                               
 </script>
@@ -18,7 +18,7 @@ title: Tools
 </ul>
 <h1>Tools</h1>
 <p>These are some of the tools I'm tracking on in the API design space. I try to focus on open source tools and formats when aggregating tools across the space.</p>
-<ul id="toolListing" style="padding-left: 30px;"></ul>
+<ul id="toolListing"></ul>
 
 <script type="text/javascript">
 function listTools()
