@@ -31,21 +31,6 @@
 			"tags": "API Design,API Discovery,API Management"
 		},
 		{
-			"id": "1684",
-			"name": "Swagger",
-			"summary": "Swagger UI is part of Swagger project. The Swagger project allows you to produce, visualize and consume your OWN RESTful services. No proxy or 3rd party services required. Do it your own way. Swagger UI is a dependency-free collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation and sandbox from a Swagger-compliant API. Because Swagger UI has no dependencie",
-			"details": "Swagger UI is part of Swagger project. The Swagger project allows you to produce, visualize and consume your OWN RESTful services. No proxy or 3rd party services required. Do it your own way. Swagger UI is a dependency-free collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation and sandbox from a Swagger-compliant API. Because Swagger UI has no dependencies, you can host it in any server environment, or on your local machine.",
-			"website": "http://swagger.wordnik.com/",
-			"twitter": "",
-			"github": "https://github.com/Swagger",
-			"blog": "",
-			"blogrss": "",
-			"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Swagger-Logo.png",
-			"logo_width": "150",
-			"screenshot": null,
-			"tags": "API Design"
-		},
-		{
 			"id": "2245",
 			"name": "MuleSoft",
 			"summary": "MuleSoft provides the most widely used integration platform for connecting SaaS and enterprise applications in the cloud and on-premise. With the rise of cloud and mobile, enterprises face a choice: get overwhelmed by the resulting explosion of end points or seize the opportunity to gain competitive advantage. Founded on the idea that connecting applications should not be hard, MuleSoft lets organ",
@@ -74,7 +59,37 @@
 			"logo_width": "150",
 			"screenshot": null,
 			"tags": "API Design,API-Agency"
+		},
+		{
+			"id": "1684",
+			"name": "Swagger",
+			"summary": "Swagger UI is part of Swagger project. The Swagger project allows you to produce, visualize and consume your OWN RESTful services. No proxy or 3rd party services required. Do it your own way. Swagger UI is a dependency-free collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation and sandbox from a Swagger-compliant API. Because Swagger UI has no dependencie",
+			"details": "Swagger UI is part of Swagger project. The Swagger project allows you to produce, visualize and consume your OWN RESTful services. No proxy or 3rd party services required. Do it your own way. Swagger UI is a dependency-free collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation and sandbox from a Swagger-compliant API. Because Swagger UI has no dependencies, you can host it in any server environment, or on your local machine.",
+			"website": "http://swagger.wordnik.com/",
+			"twitter": "https://twitter.com/SwaggerApi",
+			"github": "https://github.com/swagger-api",
+			"blog": "",
+			"blogrss": "",
+			"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Swagger-Logo.png",
+			"logo_width": "150",
+			"screenshot": null,
+			"tags": "API Design"
+		},
+		{
+			"id": "11502",
+			"name": "WaveMaker, Inc.",
+			"summary": "WaveMaker, Inc. provides WaveMaker Enterprise &ndash; An aPaaS software for rapid application delivery of enterprise custom apps. WaveMaker Enterprise provides benefits such as visual rapid application development, out of the box support for security, web services integration and data modelling, high performance cloud platform based on Docker containers, a self service management console that prov",
+			"details": "WaveMaker, Inc. provides WaveMaker Enterprise &ndash; An aPaaS software for rapid application delivery of enterprise custom apps. WaveMaker Enterprise provides benefits such as visual rapid application development, out of the box support for security, web services integration and data modelling, high performance cloud platform based on Docker containers, a self service management console that provides simplified administration and many more such features.",
+			"website": "http://www.wavemaker.com/",
+			"twitter": "https://twitter.com/WaveMaker",
+			"github": "https://github.com/wavemaker",
+			"blog": "http://www.wavemaker.com/blog/",
+			"blogrss": "",
+			"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/wavemaker-logo.png",
+			"logo_width": "150",
+			"screenshot": null,
+			"tags": "API Deployment,API Design,API Management,API-Deployment,API-Management"
 		}
 	],
-	"published": "11/13/2014"
+	"published": "03/13/2015"
 }
