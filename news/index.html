@@ -5,11 +5,11 @@ title: API Design News
 
 <p><a href="http://design.apievangelist.com/blog.xml"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-icon.png" width="25" align="right" style="padding: 25px;" /></a></p>
 <p align="center">Here is what I am reading when it comes to API design, curated and available here</p>
-<table cellpadding="1" cellspacing="1" width="100%" border="0">
+<table cellpadding="0" cellspacing="0" width="100%" border="0">
 	<tr><td colspan="2" align="center"><hr style="padding: 1px 1px 1px 1px; margin: 1px 1px 1px 1px;" /></td></tr>
 {% for post in paginator.posts %}
 	<tr>    
-	    <td width="10%" align="center">
+	    <td width="15%" align="center">
 		    {% if post.image != null %}
 		    	<a href="{{ post.url }}" rel="bookmark" title="{{ post.title }}">
 		    		<img src="{{ post.image }}" width="75" />
@@ -27,7 +27,7 @@ title: API Design News
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a href="/blog/page{{paginator.next_page}}" class="older">Older</a>
+    <a href="/news/page{{paginator.next_page}}" class="older">Older</a>
   {% else %}
     <span class="next">Older</span>
   {% endif %}
@@ -35,7 +35,7 @@ title: API Design News
     {% if paginator.page == 2 %}
       <a href="/" class="newer">Newer</a>
     {% else %}
-      <a href="/blog/page{{paginator.previous_page}}" class="newer">Newer</a>
+      <a href="/news/page{{paginator.previous_page}}" class="newer">Newer</a>
     {% endif %}
   {% else %}
     <span class="previous">Newer</span>
