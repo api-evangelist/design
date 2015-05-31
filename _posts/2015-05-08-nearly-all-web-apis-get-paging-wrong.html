@@ -1,13 +1,7 @@
 ---
 layout: post
 title: 'Nearly all web APIs get paging wrong'
-url: http://vermorel.com/journal/2015/5/8/nearly-all-web-apis-get-paging-wrong.html
-source: http://vermorel.com/journal/2015/5/8/nearly-all-web-apis-get-paging-wrong.html
-domain: vermorel.com
+sourceurl: http://vermorel.com/journal/2015/5/8/nearly-all-web-apis-get-paging-wrong.html
 image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/vermorel-comjournal201558nearly-all-web-apis-get-paging-wrong-html.png
 ---
 
-<p>Data paging, that is, the retrieval of a large amount of data through a series of smaller data retrievals, is a non-trivial problem.Through Lokad, we have implemented about a dozen of extensive API integrations, and reviewed a few dozens of other APIs as well.The conclusion is that as soon as paging is involved, nearly all web APIs get it wrong.Obviously, rock-solid APIs like the ones offered by Azure or AWS are getting it right, but those outstanding APIs are exceptions rather than the norm.The obvious pattern that doesnt work
-I have lost count of the APIs that propose the following broken pattern to page through their data, a purchase order history for example:
-Where page is the page number and pagesize the number of orders to be retrieved.</p>
-
