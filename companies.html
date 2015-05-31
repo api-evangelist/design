@@ -1,9 +1,107 @@
----
-layout: page
-title: Companies
----
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
-<ul class="toolbar">
+  <!DOCTYPE html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+
+  <title>
+    Companies &middot; 
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/css/hyde.css">
+  <link rel="stylesheet" href="/css/syntax.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400italic,400,600,700|Abril+Fatface">
+
+  	<!-- Icons -->
+  	<link rel="shortcut icon" type="image/x-icon" href="http://apievangelist.com/favicon.ico">
+	<link rel="icon" type="image/x-icon" href="http://apievangelist.com/favicon.ico">
+
+  <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script> 
+  <script src="https://s3.amazonaws.com/kinlane-productions/js/mustache.js" type="text/javascript"></script>
+   
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/blog.xml">
+  
+</head>
+
+
+  <body>
+
+    <header class="masthead">
+      <div class="masthead-inner" align="center">  	      	
+		<h2><a href="http://apievangelist.com">{"API Design"}</a></h2>      		
+    	<a href="http://bit.ly/1cHBhd5" target="_blank">
+    		<img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/3scale/Winning-in-the-API-Economy-eBook-3scale.png" width="40%" style="border: 1px solid #FFF; margin-bottom: 25px;" />
+    	</a>                   	      	
+        <div class="colophon">
+          <ul class="colophon-links">
+            <li>
+              <a href="/index.html">Home</a>
+            </li>          	
+            <li>
+              <a href="/news/">News</a>
+            </li>
+            <li>
+              <a href="/companies.html">Companies</a>
+            </li>  
+            <li>
+              <a href="/building-blocks.html">Building Blocks</a>
+            </li>             
+            <li>
+              <a href="/tools.html">Tools</a>
+            </li>    
+            <li style="padding-top: 10px;">
+              <a href="http://apievangelist.com"><< Return to API Evangelist</a>
+            </li>                                                       
+          </ul>
+        </div>        
+        <script id="parterListingTemplate" type="text/template"> 
+              
+            <a href="{{url}}" target="_blank" title="{{title}}">
+           		<img src="{{logo}}" width="{{width}}" style="padding: 2px;" />
+            </a>   
+                                                                                                                                
+        </script>          
+        
+        <script type="text/javascript">
+        function listSponsors()
+            {
+            $.getJSON('https://s3.amazonaws.com/kinlane-productions/json/sponsors.json', function(data) {               
+                $.each(data['sponsors'], function(key, val) {                  
+                var template = $('#parterListingTemplate').html();
+                var html = Mustache.to_html(template, val);
+                $('#partnerListingContainer').append(html);
+                });         
+            });             
+        }    
+        </script>
+
+        <div id="partnerListingContainer" align="center" style="background-color:#FFF; margin-top: 45px; padding-top: 10px; width: 60%; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; border: 3px solid #FFFFFF; margin-bottom: 7px;">
+		
+		</div>
+        
+        <script type="text/javascript">
+            listSponsors();
+        </script>        
+        
+      </div>
+    </header>
+
+    <div class="content container">
+    	
+      <p align="center">
+      	<a href="http://design.apievangelist.com">
+      		<img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-evangelist-design.png" align="center" width="85%" style="padding-bottom: 10px;" />
+      	</a>
+      </p>	
+    	
+      <div class="page">
+  <ul class="toolbar">
     <li>{"<a href="http://design.apievangelist.com/data/companies.json" title="JSON" target="_blank">JSON</a>"}</li>
     <li>{"<a href="https://apievangelist.3scale.net/docs" title="API" target="_blank">API</a>"}</li>
 </ul>
@@ -12,8 +110,98 @@ title: Companies
 <p>These are the companies I am keeping an eye on when it comes to API design. As I see patterns emerge across providers, I will start to breaking companies into smaller groups, but for now I will list them all, with any supporting details for each provider.</p>
 <p><br /></p>
 
-<!--listing-->
-
-<!--listing-->
+<table id="companyListing" style="" width="100%" cellpadding="1" cellspacing="1" border="0"></table>
 
 
+
+</div>
+
+      
+	      
+		<br /><br />
+		<!-- 3scale -->
+		<p align="center">
+		<a href="http://3scale.net" target="_blank" title="APIs From 3Scale">
+		    <img src="https://s3.amazonaws.com/kinlane-productions/api-service-providers/3Scale/empowered-by-3scale.png" width="300" style="padding-bottom: 15px;" />
+		</a>        
+		</p>
+		<!-- 3scale -->  	      
+	      
+	     <div class="footer">
+		    <ul>
+		    	<li><a href="/">Home</a></li>
+		    	<li><a href="/blog/">News</a></li>
+		    	<li><a href="/network">Network</a></li>
+		    	<li><a href="http://kinlane.com/about/">About</a></li>
+		    	<li><a href="http://apicommons.org">API Commons</a></li>
+		    	<li><a href="http://apisjson.org">APIs.json</a></li>
+		    	<li><a href="/branding-guidelines.html">Branding Guidelines</a></li>
+		    	<li><a href="http://kinlane.com/contact/">Contact</a></li>
+		    </ul>
+		</div>      
+      
+    </div>
+	
+	<script type="text/javascript">
+	
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-1119465-51']);
+	  _gaq.push(['_setDomainName', 'apievangelist.com']);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	  
+	  function checkLinkRot()
+	    {
+	    var linkArray = [];
+	    var links = document.getElementsByTagName("a");
+	    for(var i=0; i<links.length; i++) {
+	        linkArray.push(links[i].href);
+	    }
+	    url = "http://linkrot.api.laneworks.net/v1/links/";
+	    var myJsonString = JSON.stringify(linkArray);                
+	    $.ajax({
+	        type: "POST",
+	        url: url,
+	        data: myJsonString,
+	        success: function (data) {            
+	             $.each(data, function($Key,$Value) {                 
+	                $URL = $Value['URL'];
+	                $returnURL = $Value['returnURL'];  
+	                var links = document.getElementsByTagName("a");
+	                for(var i=0; i<links.length; i++) {
+	                    if(links[i].href==$URL)
+	                        {
+	                        document.getElementsByTagName("a")[i].href=$returnURL;    
+	                        }
+	                     }                
+	             });                 
+	        }
+	    });                
+	    }   
+	
+	</script>
+	
+	<!-- Google Code for API Evangelist visitors -->
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var google_conversion_id = 964245031;
+	var google_conversion_label = "U2foCJGT0wkQp-zkywM";
+	var google_custom_params = window.google_tag_params;
+	var google_remarketing_only = true;
+	/* ]]> */
+	</script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+	</script>
+	<noscript>
+	<div style="display:inline;">
+	<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/964245031/?value=1.000000&amp;label=U2foCJGT0wkQp-zkywM&amp;guid=ON&amp;script=0"/>
+	</div>
+	</noscript>	
+	
+  </body>
+</html>
