@@ -5,8 +5,8 @@
   <link href="http://gmpg.org/xfn/11" rel="profile">
 
   <title>
-    {% if page.title %}{{ page.title }} &middot; {% endif %}
-    {{ site.tagline }}
+    {% if page.title %}{{ page.title }} {% endif %}
+    {% if page.title %} &middot; {{ site.tagline }} {% endif %}
   </title>
 
   <!-- CSS -->
