@@ -2,8 +2,8 @@
 	{
 		"id": "19",
 		"name": "Apiary",
-		"summary": "Apiary jumpstarted the modern API design movement, by making API definitions more than just about API documentation, allowing API designers to define APIs in the machine readable API definition format API blueprint, then mock, share, and publish documentation via a cloud platform.",
-		"details": "Apiary jumpstarted the modern API design movement, by making API definitions more than just about API documentation, allowing API designers to define APIs in the machine readable API definition format API blueprint, then mock, share, and publish documentation via a cloud platform.",
+		"summary": "Apiary jump-started the modern API design movement, by making API definitions more than just about API documentation, allowing API designers to define APIs in the machine readable API definition format API blueprint, then mock, share, and publish documentation via a cloud platform.",
+		"details": "Apiary jump-started the modern API design movement, by making API definitions more than just about API documentation, allowing API designers to define APIs in the machine readable API definition format API blueprint, then mock, share, and publish documentation via a cloud platform.",
 		"website": "https://apiary.io",
 		"twitter": "https://twitter.com/apiaryio",
 		"github": "https://github.com/apiaryio",
@@ -12,13 +12,13 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apiary-io-logo.png",
 		"logo_width": "225",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apiary-io-logo.png",
-		"tags": "API Design,API Mocking"
+		"tags": null
 	},
 	{
 		"id": "18757",
 		"name": "Apigee API Studio",
-		"summary": "Apigee launched their API Studio out of their earlier Apigee-127 product, their work on the Swagger platform and editor, and their BaaS offering. Opening up the ability for developers to design, mock, test and share via their online platform.",
-		"details": "Apigee launched their API Studio out of their earlier Apigee-127 product, their work on the Swagger platform and editor, and their BaaS offering. Opening up the ability for developers to design, mock, test and share via their online platform.",
+		"summary": "Apigee launched their API Studio out of their earlier Apigee-127 product, their work on the Swagger platform and editor, and their BaaS offering, opening up the ability for developers to design, mock, test and share via the online platform. While Apigee Studio is part of the larger Apigee line of products, it is a separate standalone, open source based studio.",
+		"details": "Apigee launched their API Studio out of their earlier Apigee-127 product, their work on the Swagger platform and editor, and their BaaS offering, opening up the ability for developers to design, mock, test and share via the online platform. While Apigee Studio is part of the larger Apigee line of products, it is a separate standalone, open source based studio.",
 		"website": "http://apistudio.io/",
 		"twitter": "",
 		"github": "",
@@ -27,7 +27,7 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-studio-logo.png",
 		"logo_width": "225",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-studio-logo.png",
-		"tags": "API Design,API Mocking,API Testing"
+		"tags": null
 	},
 	{
 		"id": "2939",
@@ -42,13 +42,13 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apimatic-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apimatic-logo.png",
-		"tags": "API Design,API Integration,SDKs"
+		"tags": null
 	},
 	{
 		"id": "11784",
-		"name": "deployd",
-		"summary": "Deployd is an open source API design, and deployment platform that allows developers to quickly design, customize, and deploy an API, with supporting application interface via a downloadable app, and command line utilities. ",
-		"details": "Deployd is an open source API design, and deployment platform that allows developers to quickly design, customize, and deploy an API, with supporting application interface via a downloadable app, and command line utilities. ",
+		"name": "Deployd",
+		"summary": "Deployd is an open source API design, and deployment platform that allows developers to quickly design, customize, and deploy an API, with supporting application interface via a downloadable app, and command line utilities.  Deployd is a downloadable solution, you can use on your desktop.",
+		"details": "Deployd is an open source API design, and deployment platform that allows developers to quickly design, customize, and deploy an API, with supporting application interface via a downloadable app, and command line utilities.  Deployd is a downloadable solution, you can use on your desktop.",
 		"website": "http://deployd.com/",
 		"twitter": "https://twitter.com/deploydapp",
 		"github": "https://github.com/deployd",
@@ -57,13 +57,28 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/deployd-logo.jpeg",
 		"logo_width": "200",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/deployd-logo.jpeg",
-		"tags": "API Deployment,API Design,API Management"
+		"tags": null
+	},
+	{
+		"id": "18858",
+		"name": "Gelato",
+		"summary": false,
+		"details": "",
+		"website": null,
+		"twitter": null,
+		"github": null,
+		"blog": null,
+		"blogrss": null,
+		"logo": null,
+		"logo_width": null,
+		"screenshot": null,
+		"tags": null
 	},
 	{
 		"id": "9",
 		"name": "Mashape",
-		"summary": "Mashape provides an API editor, as part of their API management and discovery platform, allowing API providers to add, edit, and manage the details of an API design, while also managing the rest of API operations--from design to discovery and integraiton.",
-		"details": "Mashape provides an API editor, as part of their API management and discovery platform, allowing API providers to add, edit, and manage the details of an API design, while also managing the rest of API operations--from design to discovery and integraiton.",
+		"summary": "Mashape provides an API editor, as part of their API management and discovery platform, allowing API providers to add, edit, and manage the details of an API design, while also managing the rest of API operations--from design to discovery and integration. Mashape editor is just a piece of the overall Mashape suite of API lifecycle management tooling.",
+		"details": "Mashape provides an API editor, as part of their API management and discovery platform, allowing API providers to add, edit, and manage the details of an API design, while also managing the rest of API operations--from design to discovery and integration. Mashape editor is just a piece of the overall Mashape suite of API lifecycle management tooling.",
 		"website": "http://mashape.com",
 		"twitter": "https://twitter.com/mashape",
 		"github": "https://github.com/Mashape",
@@ -72,7 +87,7 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/mashape-logo.png",
 		"logo_width": "175",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/mashape-logo.png",
-		"tags": "API Design,API Directory,API Discovery,API Integration,API Management,API Operations"
+		"tags": null
 	},
 	{
 		"id": "2245",
@@ -87,13 +102,13 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mulesoft-logo.jpeg",
 		"logo_width": "225",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mulesoft-logo.jpeg",
-		"tags": "API Deployment,API Deployment,API Design,API Management"
+		"tags": null
 	},
 	{
 		"id": "90",
 		"name": "Restlet",
-		"summary": "The Restlet Studio allows you to design APIs, and add, edit, and manage the details via cloud based API editor, import and export in Swagger and RAML, then also generate server, and client side code, as well as interactive documentation.",
-		"details": "The Restlet Studio allows you to design APIs, and add, edit, and manage the details via cloud based API editor, import and export in Swagger and RAML, then also generate server, and client side code, as well as interactive documentation.",
+		"summary": "The Restlet Studio allows you to design APIs, and add, edit, and manage the details via cloud based API editor, import and export in Swagger and RAML, then also generate server, and client side code, as well as interactive documentation. Restlet Studio is a separate open source project, but is bundled alongside the Restlet framework, and API Spark cloud platform.",
+		"details": "The Restlet Studio allows you to design APIs, and add, edit, and manage the details via cloud based API editor, import and export in Swagger and RAML, then also generate server, and client side code, as well as interactive documentation. Restlet Studio is a separate open source project, but is bundled alongside the Restlet framework, and API Spark cloud platform.",
 		"website": "https://apispark.com/",
 		"twitter": "https://twitter.com/apispark",
 		"github": "https://github.com/apispark",
@@ -102,13 +117,13 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apispark-logo",
 		"logo_width": "275",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apispark-logo",
-		"tags": "API Deployment,API Design,API Management,Spreadsheets"
+		"tags": null
 	},
 	{
 		"id": "18608",
 		"name": "Sandbox",
-		"summary": "Sandbox provides an environment for users to quickly mock APIs that are generated from common API definition formats like API Blueprint, and Swagger, then deploy, collaboratively build, and debug APIs using an online platform.",
-		"details": "Sandbox provides an environment for users to quickly mock APIs that are generated from common API definition formats like API Blueprint, and Swagger, then deploy, collaboratively build, and debug APIs using an online platform.",
+		"summary": "Sandbox provides an environment for users to quickly mock APIs that are generated from common API definition formats like API Blueprint, and Swagger, then deploy, collaboratively build, and debug APIs using an online platform. Sandbox reflects a new type of API definition driven service providers who use Swagger and API Blueprint to onboard APIs.",
+		"details": "Sandbox provides an environment for users to quickly mock APIs that are generated from common API definition formats like API Blueprint, and Swagger, then deploy, collaboratively build, and debug APIs using an online platform. Sandbox reflects a new type of API definition driven service providers who use Swagger and API Blueprint to onboard APIs.",
 		"website": "https://getsandbox.com/",
 		"twitter": "https://twitter.com/_getsandbox",
 		"github": "",
@@ -117,14 +132,14 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/get-sandbox-logo.png",
 		"logo_width": "250",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/get-sandbox-logo.png",
-		"tags": "API Deployment,API Design,API Mocking"
+		"tags": null
 	},
 	{
 		"id": "1684",
 		"name": "Swagger",
 		"summary": "Swagger is a machine readable API definition format that has built a number of tools around the specification, including an open source API design editor that allows you to design, import, and export APIs in JSON and YAML, then also generate server, and client side code, as well as interactive documentation.",
 		"details": "Swagger is a machine readable API definition format that has built a number of tools around the specification, including an open source API design editor that allows you to design, import, and export APIs in JSON and YAML, then also generate server, and client side code, as well as interactive documentation.",
-		"website": "http://swagger.io/",
+		"website": "http://swagger.io",
 		"twitter": "https://twitter.com/SwaggerApi",
 		"github": "https://github.com/swagger-api",
 		"blog": "http://swagger.io/blog/",
@@ -132,6 +147,6 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/swagger-logo-bw.png",
 		"logo_width": "225",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/swagger-logo-bw.png",
-		"tags": "API Definitions,API Design"
+		"tags": null
 	}
 ]
