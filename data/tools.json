@@ -64,6 +64,22 @@
 		"watchers": 0
 	},
 	{
+		"tool_id": "839",
+		"name": "Australian Government Digital Transformation Office (AusDTO) API Design Guide",
+		"user": "",
+		"details": "The DTO is working to release draft API design guide describing contemporary best practices in API design and developer empathy. The final document will be mandatory policy that all Commonwealth agencies must follow, and that citizens could be entitled to expect. The agency has published a version control version on Github with a public ticket system for issues and support, and invited our users to help make it better.",
+		"post_date": "2015-09-01 18:31:42",
+		"url": "http://apiguide.readthedocs.org/en/latest/",
+		"blog_url": "http://apiguide.readthedocs.org/en/latest/",
+		"blog_rss_url": "",
+		"twitter_url": "",
+		"github_url": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/dto-logo.png",
+		"forks": 0,
+		"followers": 0,
+		"watchers": 0
+	},
+	{
 		"tool_id": "834",
 		"name": "Cisco API Design Guide",
 		"user": "",
