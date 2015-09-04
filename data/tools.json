@@ -96,6 +96,22 @@
 		"watchers": 0
 	},
 	{
+		"tool_id": "840",
+		"name": "Cloud Foundry Cloud Controller API Style Guide",
+		"user": "",
+		"details": "This document serves as a style guide for the Cloud Controller API. It is intended to act as a repository for patterns and best practices when designing and developing new API endpoints. This is a living document; It will change over time as we learn more about our users and develop features.",
+		"post_date": "2015-09-04 11:32:51",
+		"url": "https://github.com/cloudfoundry/cc-api-v3-style-guide",
+		"blog_url": "https://github.com/cloudfoundry/cc-api-v3-style-guide",
+		"blog_rss_url": "",
+		"twitter_url": "",
+		"github_url": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/cloud-foundry-logo.png",
+		"forks": 0,
+		"followers": 0,
+		"watchers": 0
+	},
+	{
 		"tool_id": "813",
 		"name": "Deployd",
 		"user": "deployd",
