@@ -4,8 +4,161 @@ title: 'Building Blocks'
 ---
 <p>These are the common building blocks I have pullled from my research so far.
 <table width="100%" border="0"><tr>
-<td>
-<hr>
+<td align="left" valign="top" style="padding-left:10px; padding-bottom:5px; background-color: #E0E0E0;">
+<h2>Best Practices</h2>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<ul>
+<li><strong>Use the Web</strong> - The web brings a lot of tools to the table, make sure and learn about web technologies, and put them to use across API design.</li>
+<li><strong>Simplicity</strong> - Consider simplicity at ever turn when designing APIs, providing the small possible unit of value you possibly can.</li>
+<li><strong>Consistency</strong> - Employ consistent approaches to all aspects of API design, providing a familiar approach across all APIs published.</li>
+<li><strong>Easy to Read</strong> - While APIs are for computers, they should be easy to read by humans, making documentation more accessible.</li>
+<li><strong>Easy to Learn</strong> - Keeping APIs simple, and consistent, will contribute to them being easy to learn about for any potential API consumer.</li>
+<li><strong>Hard to Misuse</strong> - When APIs do one thing, and does it well, you reduce the opportunity for misuse, and people putting them to work in unintended ways.</li>
+<li><strong>Audience Focused</strong> - APIs should be designed with a specific audience in mind, providing a solution to a problem they are having.</li>
+<li><strong>Experience Over Resource</strong> - Make APIs reflect how they will be used, and experienced, over where the API came from and the resource it was derived from.</li>
+<li><strong>Use Your Own APIs</strong> - Always use your own APIs, allowing you to understand the challenges with integrating, as well as the pain of operations and outages.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" style="padding-left:10px; padding-bottom:5px; background-color: #E0E0E0;">
+<h2>Core Design</h2>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<ul>
+<li><strong>SSL</strong> - Always support SSL by default when it comes to API operations.</li>
+<li><strong>Host</strong> - Put sufficient thought into what the baseURL will be for making API calls.</li>
+<li><strong>Resource</strong> - Consider how you craft your resources across all API operations.</li>
+<li><strong>Action</strong> - Allow for standard actions to be taken across resource, but also reflect how APIs will be experienced.</li>
+<li><strong>Verbs</strong> - Learn about, and put all HTTP verbs to use when designing APIs.</li>
+<li><strong>Parameters</strong> - Standardize how parameters are crafted as part of API operations, using intuitive and consistent approaches.</li>
+<li><strong>Headers</strong> - Learn about, and use common headers for API requests.</li>
+<li><strong>Body</strong> - Use the body of each request in a consistent way across API operations.</li>
+<li><strong>Versioning</strong> - Establish, and stick to a common versioning strategy, and use throughout API evolutions.</li>
+<li><strong>Pagination</strong> - Learn about common ways to paginate, and establish a single way to handle across API operations.</li>
+<li><strong>Filtering</strong> - Consider how filtering will happen across all APIs, and establish a single way to filter API resources.</li>
+<li><strong>Time Selection</strong> - Consider how time selection and series will be handled, and establish a single way for working with time in API operations.</li>
+<li><strong>Sorting</strong> - Establish a single approach to how API responses can be sorted, and use across all API resources.</li>
+<li><strong>Field Selection</strong> - Consider providing a way that API consumers can select which fields are included in API responses.</li>
+<li><strong>Granularity</strong> - Always be aware of the granularity of your API endpoints, and each resource being exposed, keeping everything as small as possible.</li>
+<li><strong>Relationship</strong> - Consider how relationships between resources will be handled, and establish a single approach for doing across API operations.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" style="padding-left:10px; padding-bottom:5px; background-color: #E0E0E0;">
+<h2>Response</h2>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<ul>
+<li><strong>Status Codes</strong> - Learn about, and use HTTP status codes in a consistent way across all API operations.</li>
+<li><strong>Error Handling</strong> - Establish a single error handling strategy, and apply consistently across all API operations.</li>
+<li><strong>Rate Limits</strong> - Establish a single approach to rate limiting of API resources, and apply consistently across all API operations.</li>
+<li><strong>Caching</strong> - Learn about common approaches to caching, and make sure it is applied through API operations.</li>
+<li><strong>eTags</strong> - Learn about etags (https://en.wikipedia.org/wiki/HTTP_ETag), and employ them as part of your caching strategy, and usage of HTTP elements.</li>
+<li><strong>Request-Ids</strong> - Employ Request-Ids if possible providing added details for logging, auditing, and reporting on API usage.</li>
+<li><strong>UTF-8</strong> - Make sure you use UTF-8 encoding for your API responses, supporting proper encoding.</li>
+<li><strong>CORS</strong> - Enable CORS for your API endpoints, providing the most flexibility possible in making API calls.</li>
+<li><strong>JSONP</strong> - Provide JSONP if you are unable to enable CORS, allowing for easier integrations.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" style="padding-left:10px; padding-bottom:5px; background-color: #E0E0E0;">
+<h2>Media Types</h2>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<ul>
+<li><strong>application/json</strong> - Provide JSON media types for API responses.</li>
+<li><strong>application/xml</strong> - Provide XML media types for API responses.</li>
+<li><strong>application/csv</strong> - Provide CSV media types for API responses.</li>
+<li><strong>text/html</strong> - Provide HTML media types for API responses.</li>
+<li><strong>application/atom+xml</strong> - Provide ATOM media types for API responses.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" style="padding-left:10px; padding-bottom:5px; background-color: #E0E0E0;">
+<h2>Open Standards</h2>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<ul>
+<li><strong>JSON Schema</strong> - Use JSON schema when possible to standardize and validate your JSON structure.</li>
+<li><strong>iCalendar</strong> - Use iCalendar when representing date / time formats in your API responses.</li>
+<li><strong>vCard</strong> - Use vCard when representing contact data in your API responses.</li>
+<li><strong>KML</strong> - When working with mapping data, represent it using KML when possible.</li>
+<li><strong>geoRSS</strong> - Also consider geoRSS when representing you geographic data.</li>
+<li><strong>m3u</strong> - When providing formatted data for media formats, consider using m3u.</li>
+<li><strong>UUID</strong> - Use a universally unique identifier (UUID) when possible. </li>
+<li><strong>ISO 8601</strong> - Use ISO 8601 data elements and interchange formats for the representation dates and times.</li>
+<li><strong>ISO 4217</strong> - Use ISO 427 data elements and interchange formats for the representation currency codes.</li>
+<li><strong>ISO 3166</strong> - Use ISO 3166 data elements and interchange formats for the representation country codes.</li>
+<li><strong>RDFa</strong> - Consider using RDFa for adding rich meta data to HTML representations.</li>
+<li><strong>Schema.org</strong> - Consider using Schema.org representations for common data elements.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" style="padding-left:10px; padding-bottom:5px; background-color: #E0E0E0;">
+<h2>Design Process</h2>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<ul>
+<li><strong>Definitions</strong> - Usage of common API definition formats like Swagger, API Blueprint, RAML, and others for describing and defining APIs.</li>
+<li><strong>Editor</strong> - An IDE for editing API definitions, as well as possible GUI interface for editing all of API details through desktop or web tooling.</li>
+<li><strong>Forkable</strong> - Allow an API definition to be forked, and built upon using a common API definition format.</li>
+<li><strong>Sharing</strong> - Allow for API definitions to be shared amongst team members through links, chat, email, and other channels.</li>
+<li><strong>Collaboration</strong> - Enable the collaboration between users, both technical, as well as business stakeholders.</li>
+<li><strong>Annotation</strong> - Provide tooling for annotating API definitions that the design it represents, leaving notes and comments at all layers.</li>
+<li><strong>Translation</strong> - Allowing for the translation of API designs between common API definition formats, allowing users to speak in any format.</li>
+<li><strong>Highlighting</strong> - Enable highlighting of specific aspects of an API design to differentiate it from other areas, and establishing common patterns.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" style="padding-left:10px; padding-bottom:5px; background-color: #E0E0E0;">
+<h2>Organization</h2>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<ul>
+<li><strong>Guide</strong> - Pull together a common API design guide for use across an organization and sharing with the public to demonstrate a standard approach is being used.</li>
+<li><strong>Notebook</strong> - A notebook for storing of API definitions into a single, potentially shareable location that can be used by an individual or group throughout the API lifecycle.</li>
+<li><strong>Collections</strong> - A folder or collection of API definitions mean to represent a single or multiple API descriptions and definitions, for use throughout API lifecycle.</li>
+<li><strong>Dictionary</strong> - A common set of API values to help provide consistent naming and patterns to be used at different layers of the API design process.</li>
+<li><strong>Contact</strong> - A common approach to defining and providing relevant contact information for each API resource crafted.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" style="padding-left:10px; padding-bottom:5px; background-color: #E0E0E0;">
+<h2>Other</h2>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<ul>
+<li><strong>Parser</strong> - An API definition parser, available in multiple languages and open up the programmatic generation of API definitions as localized object.</li>
+<li><strong>Interactive Documentation / Console</strong> - Generated API documentation allowing developers to make calls against APIs as they are learning about the interface, turning API education into a hands on experience.</li>
+<li><strong>Validator</strong> - Tools for validating API calls, enabling developers to determine which types of calls will be valid, using central API definition and schema.</li>
+<li><strong>Github Sync</strong> - The ability to store and sync API definitions with Github, providing a central public or private repository for the definition of an API resource.</li>
+<li><strong>Command Line</strong> - Command line tooling for use as part of the API design process, allowing developers to use single commands at the prompt.</li>
+<li><strong>Translator</strong> -  Tools for translating between various API definitions, allowing the transformation from RAML to Swagger, and between each API definition format.</li>
+</ul>
 </td>
 </tr>
 </table>
