@@ -64,5 +64,16 @@
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-translation.png",
 		"image_width": "0",
 		"sort_order": "0"
+	},
+	{
+		"building_block_id": "X1kR116oiX05tN2Ce123q3a0ixqMAMY12A8z75hY1AU123Vtko19l8RWgZBgHq1233hQdz5OdnFZ7rdMVCcsgbE7C116wM2g117117",
+		"building_block_category_id": "mCyE5EykVq3qNWUpCBlOxdUgncrJVLz8trskcA116xP0s8susVLAYxRXBu6EP40gDypLY6xzUeMoIssU123eMTfefA117117",
+		"name": "Accept-Language",
+		"about": "Set the language the API should be speaking using&nbsp;Accept-Language.d",
+		"category_id": "238",
+		"category": "Internationalization",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "0"
 	}
 ]
