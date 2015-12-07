@@ -1,0 +1,379 @@
+---
+layout: page
+title: 'Subway'
+---
+
+<script type="text/javascript">
+
+	var $this_line = "monetization";
+	var $current_area = "";
+	var $current_stop = "";
+
+	var $previous_stop = 0;
+	var $current_stop = 0;
+	var $next_stop = 0;
+
+	var $full_line = "";
+	var $full_area = "";
+	var $full_stops = "";
+
+	function loadareastops($area)
+		{
+		$current_area = $area;
+		$("#line-area").html('{"' + $area + '"}');
+		$stops_url = "http://buildingblock.api.kinlane.com/buildingblocks/subway/lines/" + $this_line + "/areas/" + $area + "/stops/";
+		//console.log("loading..." + $stops_url);
+
+		$.ajax({
+		  	url: $stops_url,
+		  	type:"GET",
+		  	contentType:"application/vnd.siren+json",
+			success:function($stopdata) {
+
+				$full_stops = $stopdata
+
+				$previous_stop = 0;
+				$current_stop = 0;
+				$next_stop = 1;
+
+				loadstops('');
+
+		  		$stops_links = $stopdata['links'];
+		  		}
+			});
+		}
+
+	function loadstops($movestop)
+		{
+
+		if($movestop=='prev')
+			{
+			$thisstop = $previous_stop;
+			}
+		else if($movestop=='next')
+			{
+			$thisstop = $next_stop;
+			}
+		else
+			{
+			$thisstop = $current_stop;
+			}
+
+  		$stops_properties = $full_stops['properties'];
+  		$stops_entities = $full_stops['entities'];
+
+  		//console.log("This Top: " + $thisstop);
+
+		if($thisstop==0)
+			{
+			//280px & 295px
+
+			//330px & 342px
+
+			//380px & 395px
+
+			$circle_image = "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-subway-circle.png";
+			$('#prev-circle').attr("src",$circle_image);
+			$('#prev-circle').attr("width","50");
+
+			$("#stop-one-name").hide();
+			$("#stop-one-circle").hide();
+
+			$("#stop-two-circle").css('top', '280px');
+			$("#stop-two-name").css('top', '292px');
+			$("#stop-two-name").show();
+			$("#stop-two-circle").show();
+
+			$("#stop-three-circle").css('top', '330px');
+			$("#stop-three-name").css('top', '342px');
+			$("#stop-three-name").show();
+			$("#stop-three-circle").show();
+
+			$("#stop-four-circle").css('top', '380px');
+			$("#stop-four-name").css('top', '395px');
+			$("#stop-four-name").show();
+			$("#stop-four-circle").show();
+
+	  		$stop_one_name = $stops_entities[$thisstop]['properties']['name'];
+	  		$stop_one_about = $stops_entities[$thisstop]['properties']['about'];
+
+	  		$("#stop-two-name").html($stop_one_name);
+
+	  		$("#line-stop-title").html($stop_one_name);
+	  		$("#line-stop-about").html($stop_one_about);
+
+	  		$stop_two_name =$stops_entities[$thisstop+1]['properties']['name'];
+	  		$("#stop-three-name").html($stop_two_name);
+
+	  		$stop_three_name =$stops_entities[$thisstop+2]['properties']['name'];
+	  		$("#stop-four-name").html($stop_three_name);
+
+			}
+		else
+			{
+			//280px & 295px
+
+			//330px & 342px
+
+			//380px & 395px
+
+			$circle_image = "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-subway-circle-previous.png";
+			$('#prev-circle').attr("src",$circle_image);
+			$('#prev-circle').attr("width","175");
+
+			$("#stop-one-circle").css('top', '280px');
+			$("#stop-one-name").css('top', '295px');
+			$("#stop-one-name").show();
+			$("#stop-one-circle").show();
+
+			$("#stop-two-circle").css('top', '330px');
+			$("#stop-two-name").css('top', '342px');
+			$("#stop-two-name").show();
+			$("#stop-two-circle").show();
+
+			$("#stop-three-circle").css('top', '380px');
+			$("#stop-three-name").css('top', '395px');
+			$("#stop-three-name").show();
+			$("#stop-three-circle").show();
+
+			$("#stop-four-name").hide();
+			$("#stop-four-circle").hide();
+
+	  		$stop_one_name = $stops_entities[$thisstop-1]['properties']['name'];
+	  		$stop_one_about = $stops_entities[$thisstop-1]['properties']['about'];
+
+	  		$("#stop-one-name").html($stop_one_name);
+
+	  		$stop_two_name = $stops_entities[$thisstop]['properties']['name'];
+	  		$stop_two_about = $stops_entities[$thisstop]['properties']['about'];
+
+	  		$("#stop-two-name").html($stop_two_name);
+	  		$("#line-stop-title").html($stop_two_name);
+	  		$("#line-stop-about").html($stop_two_about);
+
+	  		if($stops_entities[$thisstop+1])
+	  			{
+	  			$stop_three_name = $stops_entities[$thisstop+1]['properties']['name'];
+	  			$stop_three_about = $stops_entities[$thisstop+1]['properties']['about'];
+	  			$("#stop-three-name").html($stop_three_name);
+	  			}
+
+			$previous_stop = $thisstop - 1;
+			$current_stop = $thisstop;
+			$next_stop = $thisstop + 1;
+
+			if($thisstop == $full_stops['entities'].length-1)
+				{
+				//console.log('END');
+				//$("#stop-three-name").hide();
+				//$("#stop-three-circle").hide();
+
+				//$circle_image = "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-subway-circle.png";
+				//$('#next-circle').attr("src",$circle_image);
+				//$('#next-circle').attr("width","50");
+
+				//console.log($full_area);
+				$loadNextArea = "";
+				$nextArea = 0;
+				$.each($full_area, function($areaKey, $areaValue) {
+					$thisName = $areaValue['name'];
+					//console.log($thisName + ' == ' + $current_area);
+					if($thisName==$current_area)
+						{
+						$nextArea = 1;
+						}
+					else if($nextArea == 1)
+						{
+						$loadNextArea = $thisName;
+						$nextArea = 3;
+						}
+					});
+
+				//console.log($loadNextArea);
+				loadareastops($loadNextArea)
+
+				}
+			else
+				{
+				$circle_image = "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-subway-circle-next.png";
+				$('#next-circle').attr("src",$circle_image);
+				$('#next-circle').attr("width","175");
+				}
+
+			}
+
+		}
+
+	$subway_url = "http://buildingblock.api.kinlane.com/buildingblocks/subway/lines/" + $this_line + "/";
+	//console.log("loading..." + $subway_url);
+
+	$.ajax({
+	  url: $subway_url,
+	  type:"GET",
+	  contentType:"application/vnd.siren+json",
+	  success:function(data) {
+
+	  	$full_line = data;
+
+		// What are the properties?
+      	$rel = data['rel'];
+      	//console.log("rel: " + $rel);
+
+		// What are the properties?
+      	$properties = data['properties'];
+
+      	// What are the entities?
+      	$entities = data['entities'];
+
+  		$line_name = $properties['line'];
+  		$("#line-name").html($line_name);
+
+  		$line_sort_order = $properties['sort_order'];
+
+  		$line_hex = $properties['hex'];
+  		$("#line-hex-1").css('background-color', $line_hex);
+  		$("#line-hex-2").css('background-color', $line_hex);
+
+  		$line_image = $properties['image'];
+  		$('#line-image').attr("src",$line_image);
+
+  		//console.log($line_name, "(" + $line_sort_order + ") - #" + $line_hex + " - " + $line_image);
+
+  		$line_areas= $properties['areas'];
+
+  		$full_area = $line_areas;
+
+		$.each($line_areas, function($areaKey, $areaValue) {
+
+			$name = $areaValue['name'];
+			$sort_order = $areaValue['sort_order'];
+
+			if($current_area=="")
+				{
+				$current_area = $name;
+				loadareastops($current_area);
+				}
+
+			});
+
+      	// What links are available to us?
+      	$links = data['links'];
+      	//console.log("links: " + $links);
+
+    	}
+	});
+
+</script>
+
+<table width="100%" cellpadding="1" cellslpacing="1" border="0">
+	<tr>
+		<td width="20%" valign="top">
+			<table cellpadding="0" cellspacing="0" align="center" border="0" width="100%">
+				<tr>
+					<td style="height: 30px;" align="center">
+						<img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-round-black-circle.png" width="50" align="left" style="display: inline; position: absolute; z-index: 100; left: 1%; top: 1%;" />
+						<div style="width: 17%; height: 23px; padding: 2px; top: 3%; left: 3%; display: inline; position: absolute; color: #FFF; font-size: 20px; z-index: 50; padding-left: 10px;" id="line-hex-1">API Life Cycle</div>
+						<img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-round-black-circle.png" width="50" align="right" style="display: inline; position: absolute; z-index: 100; left: 19%; top: 1%; float:right;" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<table cellpading="0" cellspacing="0" align="center" width="100%">
+							<tr>
+								<td style="vertical-align: middle; padding: 5px;" width="75">
+									<img src="" width="75" style="padding: 5px;" id="line-image" />
+								</td>
+								<td style="font-size: 35px; font-weight: bold; vertical-align: middle;" id="line-name"></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td style="font-size: 24px; height: 50px; font-weight: bold; color:#000; background-color: #FFF; padding: 5px;" align="center" id="line-area">
+						{"Area"}
+					</td>
+				</tr>
+				<tr>
+					<td style="padding-left: 30px;">
+
+						<a href="#" onclick="loadstops('prev'); return false;"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-subway-circle-previous.png" width="175" style="position: absolute; z-index: 100; left: 2.5%;" id="prev-circle" /></a>
+
+						<div style="width: 30px; height: 300px; margin-top:5px; background-color: #00933C; position: absolute; z-index: 50; left: 3.55%;" id="line-hex-2"></div>
+
+						<img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-round-black-circle.png" width="50" style="position: absolute; z-index: 100; left: 2.75%; top:280px; display: none;" id="stop-one-circle" />
+						<div style="font-size: 18px; font-weight: bold; position: absolute; z-index: 100; left: 7%; top:295px; display: none;" id="stop-one-name">Stop One</div>
+
+						<img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-round-black-circle-red-center.png" width="50" style="position: absolute; z-index: 100; left: 2.75%; top:330px; display: none;" id="stop-two-circle" />
+						<div style="font-size: 24px; font-weight: bold; position: absolute; z-index: 100; left: 7%; top:342px; display: none;" id="stop-two-name">Stop Two</div>
+
+						<img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-round-black-circle.png" width="50" style="position: absolute; z-index: 100; left: 2.75%; top:380px; display: none;" id="stop-three-circle" />
+						<div style="font-size: 18px; font-weight: bold; position: absolute; z-index: 100; left: 7%; top:395px; display: none;" id="stop-three-name">Stop Three</div>
+
+						<img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-round-black-circle.png" width="50" style="position: absolute; z-index: 100; left: 2.75%; top:430px; display: none;" id="stop-four-circle" />
+						<div style="font-size: 18px; font-weight: bold; position: absolute; z-index: 100; left: 7%; top:445px; display: none;" id="stop-four-name">Stop Four</div>
+
+						<a href="#" onclick="loadstops('next'); return false;"><img id="next-circle" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-subway-circle-next.png" width="175" style="position: absolute; z-index: 100; left: 2.5%; top: 460px;" /></a>
+					</td>
+				</tr>
+			</table>
+		</td>
+		<td width="70%" valign="top">
+			<table cellpading="3" cellspacing="2" align="center" width="95%" border="0">
+				<tr>
+					<td id="line-stop-title" style="font-size: 22px; font-weight: bold; padding: 5px;"></td>
+				</tr>
+				<tr>
+					<td id="line-stop-about" style="font-size: 14px; padding: 5px;"></td>
+				</tr>
+				<tr>
+					<td id="line-stop-links-title" style="font-size: 16px; font-weight: bold; padding: 5px;">Links</td>
+				</tr>
+				<tr>
+					<td id="line-stop-links-title">
+						<ul>
+							<li>Link One</li>
+							<li>Link Two</li>
+							<li>Link Three</li>
+						</ul>
+					</td>
+				</tr>
+				<tr>
+					<td id="line-stop-organizations-title" style="font-size: 16px; font-weight: bold; padding: 5px;">Organizations</td>
+				</tr>
+				<tr>
+					<td id="line-stop-organizations-title">
+						<ul>
+							<li>Organization One</li>
+							<li>Organization Two</li>
+							<li>Organization Three</li>
+						</ul>
+					</td>
+				</tr>
+				<tr>
+					<td id="line-stop-tools-title" style="font-size: 16px; font-weight: bold; padding: 5px;">Tools</td>
+				</tr>
+				<tr>
+					<td id="line-stop-organizations-title">
+						<ul>
+							<li>Tool One</li>
+							<li>Tool Two</li>
+							<li>Tool Three</li>
+						</ul>
+					</td>
+				</tr>
+				<tr>
+					<td id="line-stop-questions-title" style="font-size: 16px; font-weight: bold; padding: 5px;">Questions</td>
+				</tr>
+				<tr>
+					<td id="line-stop-organizations-title">
+						<ul>
+							<li>Question One</li>
+							<li>Question Two</li>
+							<li>Question Three</li>
+						</ul>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
