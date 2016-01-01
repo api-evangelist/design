@@ -1,5 +1,9 @@
 title:        API Design
 url:          http://design.apievangelist.com
+logo:         https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-evangelist-design.png
+logo_width:   80
+logo_bottom_padding: 10
+
 version:      1.1.1
 author:
   name:       'Kin Lane'
