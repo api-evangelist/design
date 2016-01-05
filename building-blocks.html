@@ -11,8 +11,8 @@ title: 'Building Blocks'
 <tr>
 <td align="left" valign="top">
 <ul>
-<li><strong>Use the Web</strong> - The web brings a lot of tools to the table, make sure and learn about web technologies, and put them to use across API design.</li>
-<li><strong>Simplicity</strong> - Consider simplicity at ever turn when designing APIs, providing the small possible unit of value you possibly can.</li>
+<li><strong>Use the Web</strong> - The web brings a lot of tools to the table, make sure and learn about existing web technologies, and put them to use across the API design process.</li>
+<li><strong>Simplicity</strong> - Consider simplicity at ever turn when designing APIs, providing the small possible unit of value you possibly can--simplicity goes a long way.</li>
 <li><strong>Consistency</strong> - Employ consistent approaches to all aspects of API design, providing a familiar approach across all APIs published.</li>
 <li><strong>Easy to Read</strong> - While APIs are for computers, they should be easy to read by humans, making documentation more accessible.</li>
 <li><strong>Easy to Learn</strong> - Keeping APIs simple, and consistent, will contribute to them being easy to learn about for any potential API consumer.</li>
@@ -25,21 +25,21 @@ title: 'Building Blocks'
 </tr>
 <tr>
 <td align="left" valign="top" style="padding-left:10px; padding-bottom:5px; background-color: #E0E0E0;">
-<h2>Core Design</h2>
+<h2>Requests</h2>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <ul>
 <li><strong>SSL</strong> - Always support SSL by default when it comes to API operations.</li>
-<li><strong>Host</strong> - Put sufficient thought into what the baseURL will be for making API calls.</li>
-<li><strong>Resource</strong> - Consider how you craft your resources across all API operations.</li>
-<li><strong>Action</strong> - Allow for standard actions to be taken across resource, but also reflect how APIs will be experienced.</li>
-<li><strong>Verbs</strong> - Learn about, and put all HTTP verbs to use when designing APIs.</li>
+<li><strong>Host</strong> - Put sufficient thought into what the baseURL will be for making API calls. Increasingly this element can also be dynamic, like other aspects of API design.</li>
+<li><strong>Resource</strong> - Consider how you craft your resources across all API operations. I do not subscribe to specific philosophies around this, just trying to provide a framework to think about this in.</li>
+<li><strong>Action</strong> - Allow for standard actions to be taken across resource, but also reflect how APIs will be experienced, providing meaningful action to be taken around any API.</li>
+<li><strong>Verbs</strong> - Learn about, and put all HTTP verbs to use when designing APIs.There is more than just GET, and even more than just POST, PUT, and DELETE. </li>
 <li><strong>Parameters</strong> - Standardize how parameters are crafted as part of API operations, using intuitive and consistent approaches.</li>
-<li><strong>Headers</strong> - Learn about, and use common headers for API requests.</li>
-<li><strong>Body</strong> - Use the body of each request in a consistent way across API operations.</li>
-<li><strong>Versioning</strong> - Establish, and stick to a common versioning strategy, and use throughout API evolutions.</li>
+<li><strong>Headers</strong> - Learn about, and use common headers for API requests. Study how the APIs you consumer put headers to work.</li>
+<li><strong>Body</strong> - Use the body of each request in a consistent way across API operations. The body provides much more room for more structured data and content.</li>
+<li><strong>Versioning</strong> - Establish, and stick to a common versioning strategy, and use throughout API evolutions. Consider putting all versioning information within headers.</li>
 <li><strong>Pagination</strong> - Learn about common ways to paginate, and establish a single way to handle across API operations.</li>
 <li><strong>Filtering</strong> - Consider how filtering will happen across all APIs, and establish a single way to filter API resources.</li>
 <li><strong>Time Selection</strong> - Consider how time selection and series will be handled, and establish a single way for working with time in API operations.</li>
@@ -62,7 +62,7 @@ title: 'Building Blocks'
 <li><strong>Error Handling</strong> - Establish a single error handling strategy, and apply consistently across all API operations.</li>
 <li><strong>Rate Limits</strong> - Establish a single approach to rate limiting of API resources, and apply consistently across all API operations.</li>
 <li><strong>Caching</strong> - Learn about common approaches to caching, and make sure it is applied through API operations.</li>
-<li><strong>eTags</strong> - Learn about etags (https://en.wikipedia.org/wiki/HTTP_ETag), and employ them as part of your caching strategy, and usage of HTTP elements.</li>
+<li><strong>eTags</strong> - Learn about etags are used as part of caching and operations, and employ them as part of your caching strategy, and usage of HTTP elements.</li>
 <li><strong>Request-Ids</strong> - Employ Request-Ids if possible providing added details for logging, auditing, and reporting on API usage.</li>
 <li><strong>UTF-8</strong> - Make sure you use UTF-8 encoding for your API responses, supporting proper encoding.</li>
 <li><strong>CORS</strong> - Enable CORS for your API endpoints, providing the most flexibility possible in making API calls.</li>
@@ -101,9 +101,9 @@ title: 'Building Blocks'
 <li><strong>geoRSS</strong> - Also consider geoRSS when representing you geographic data.</li>
 <li><strong>m3u</strong> - When providing formatted data for media formats, consider using m3u.</li>
 <li><strong>UUID</strong> - Use a universally unique identifier (UUID) when possible. </li>
-<li><strong>ISO 8601</strong> - Use ISO 8601 data elements and interchange formats for the representation dates and times.</li>
-<li><strong>ISO 4217</strong> - Use ISO 427 data elements and interchange formats for the representation currency codes.</li>
-<li><strong>ISO 3166</strong> - Use ISO 3166 data elements and interchange formats for the representation country codes.</li>
+<li><strong>ISO 8601 (Date / Time)</strong> - Use ISO 8601 data elements and interchange formats for the representation dates and times.</li>
+<li><strong>ISO 4217 (Currency)</strong> - Use ISO 427 data elements and interchange formats for the representation currency codes.</li>
+<li><strong>ISO 3166 (Country)</strong> - Use ISO 3166 data elements and interchange formats for the representation country codes.</li>
 <li><strong>RDFa</strong> - Consider using RDFa for adding rich meta data to HTML representations.</li>
 <li><strong>Schema.org</strong> - Consider using Schema.org representations for common data elements.</li>
 </ul>
@@ -146,6 +146,18 @@ title: 'Building Blocks'
 </tr>
 <tr>
 <td align="left" valign="top" style="padding-left:10px; padding-bottom:5px; background-color: #E0E0E0;">
+<h2>Internationalization</h2>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<ul>
+<li><strong>Accept-Language</strong> - Set the language the API should be speaking using&nbsp;Accept-Language.d</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top" style="padding-left:10px; padding-bottom:5px; background-color: #E0E0E0;">
 <h2>Other</h2>
 </td>
 </tr>
@@ -158,18 +170,6 @@ title: 'Building Blocks'
 <li><strong>Github Sync</strong> - The ability to store and sync API definitions with Github, providing a central public or private repository for the definition of an API resource.</li>
 <li><strong>Command Line</strong> - Command line tooling for use as part of the API design process, allowing developers to use single commands at the prompt.</li>
 <li><strong>Translator</strong> -  Tools for translating between various API definitions, allowing the transformation from RAML to Swagger, and between each API definition format.</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top" style="padding-left:10px; padding-bottom:5px; background-color: #E0E0E0;">
-<h2>Internationalization</h2>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<ul>
-<li><strong>Accept-Language</strong> - Set the language the API should be speaking using&nbsp;Accept-Language.d</li>
 </ul>
 </td>
 </tr>
