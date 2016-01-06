@@ -89,7 +89,7 @@ navigation:
     decorate: 0
   - label1: (View as PDF Guide)
     link1: http://bit.ly/1Jk6NOx
-    size1: 50
+    size1: 60
     extend: 0
     label2:
     link2:
@@ -98,12 +98,12 @@ navigation:
     decorate: 0
   - label1: (Take a Journey)
     link1: http://design.apievangelist.com/journey/index.html
-    size1: 50
+    size1: 60
     extend: 0
     label2:
     link2:
     size2: 0
-    padding: 2
+    padding: 0
     decorate: 0
   - label1: Return to API Evangelist
     link1: http://apievangelist.com
