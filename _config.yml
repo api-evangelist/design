@@ -8,11 +8,11 @@ version:      1.1.1
 author:
   name:       'Kin Lane'
   email:      'info@apievangelist.com'
-markdown:     rdiscount
+markdown:     kramdown
 permalink:    pretty
 pygments:     true
 
-permalink: /:categories/:year/:month/:day/:title
+permalink: /:categories/:year/:month/:day/:title/
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 
 paginate: 150
@@ -85,24 +85,6 @@ navigation:
     label2: JSON
     link2: /data/tools.json
     size2: 60
-    padding: 0
-    decorate: 0
-  - label1: (View as PDF Guide)
-    link1: http://bit.ly/1Jk6NOx
-    size1: 70
-    extend: 0
-    label2:
-    link2:
-    size2: 0
-    padding: 2
-    decorate: 0
-  - label1: (Take a Journey)
-    link1: /journey/index.html
-    size1: 70
-    extend: 0
-    label2:
-    link2:
-    size2: 0
     padding: 0
     decorate: 0
   - label1: Return to API Evangelist
