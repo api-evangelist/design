@@ -89,7 +89,7 @@ navigation:
     decorate: 0
   - label1: (View as PDF Guide)
     link1: http://bit.ly/1Jk6NOx
-    size1: 60
+    size1: 70
     extend: 0
     label2:
     link2:
@@ -97,8 +97,8 @@ navigation:
     padding: 2
     decorate: 0
   - label1: (Take a Journey)
-    link1: http://design.apievangelist.com/journey/index.html
-    size1: 60
+    link1: /journey/index.html
+    size1: 70
     extend: 0
     label2:
     link2:
