@@ -26,7 +26,7 @@ title: API Design
     <p><strong><span style="font-size: 20px;">&#8620;</span>&nbsp;&nbsp;Latest News</strong><a href="/blog.xml"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-icon.png" width="15" style="padding-left: 5px;" /></a></p>
 
       {% for post in site.posts limit:5 %}
-        {{ post.title }}>
+        -{{ post.title }}-<br />
       {% endfor %}
 
 
