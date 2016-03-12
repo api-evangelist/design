@@ -8,7 +8,7 @@ layout: none
 		<description>{{ site.project_summary }}</description>
 		<link>{{ site.url }}</link>
 		<language>en-us</language>
-		<atom:link href="{{ site.url }}/blog.xml" rel="self" type="application/rss+xml" />
+		<link href="{{ site.url }}/blog.xml" rel="self" type="application/rss+xml" />
 		{% for post in site.posts limit:75 %}{% if post.title != null %}<item>
 				<title>{{ post.title }}</title>
 				<description>{{ post.content | xml_escape }}</description>
