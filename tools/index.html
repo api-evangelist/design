@@ -5,12 +5,13 @@ title: 'Tools'
 <p>As I do my regular monitoring of the API space, these are the common tools tools that I have identified so far. If there are tools or other resources that you think should be listed, let me know.
 
 <table width="100%" border="0">
+  <tr>
+    <td align="left" valign="top" style="padding-left:10px; margin-bottom:15px; background-color: #E0E0E0;">
+      <h2>Definitions</h2>
+    </td>
+  </tr>  
   {% for tool in site.data.tools %}
-    <tr>
-      <td align="left" valign="top" style="padding-left:10px; margin-bottom:15px; background-color: #E0E0E0;">
-        <h2>Definitions</h2>
-      </td>
-    </tr>
+    {% if tool.tags contains 'Definitions' %}
     <tr>
       <td align="left" valign="top">
         <a href="{{ tool.url }}"><img src="{{  }}" width="150" align="left" style="padding: 15px;" /></a>
@@ -23,5 +24,6 @@ title: 'Tools'
         <hr>
       </td>
     </tr>
+    {% endif %}
   {% endfor %}
 </table>
