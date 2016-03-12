@@ -72,7 +72,7 @@ navigation:
     size2: 60
     padding: 0
     decorate: 0
-  - label1: Tools
+  - label1: Tooling
     link1: /tools/
     size1: 80
     extend: 1
