@@ -5,20 +5,23 @@ title: 'Tools'
 <p>As I do my regular monitoring of the API space, these are the common tools tools that I have identified so far. If there are tools or other resources that you think should be listed, let me know.
 
 <table width="100%" border="0">
-  <tr>
-    <td align="left" valign="top" style="padding-left:10px; margin-bottom:15px; background-color: #E0E0E0;">
-      <h2>API Blueprint</h2>
-    </td>
-  </tr>
-  <tr>
-    <td align="left" valign="top">
-      <a href="https://github.com/apiaryio/api-blueprint/" id="home-logo-link-727"><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/bw-api-blueprint-icon.png" width="150" align="left" style="padding: 15px;" /></a>
-      <a href="https://github.com/apiaryio/api-blueprint/" id="home-name-link-727" style="color: #000;"><strong>API Blueprint</strong></a><p>API Blueprint is a documentation-oriented API description language. A couple of semantic assumptions over the plain Markdown. API Blueprint is perfect for designing your Web API and its comprehensive documentation but also for quick prototyping and collaboration. It is easy to learn and even easier to read &ndash; after all it is just a form of plain text. API Blueprint, its parser, and most of its tools are completely open sourced so you dont have to worry about vendor lock-in. This also means you can freely integrate API Blueprint into any type of product, commercial or not.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <hr>
-    </td>
-  </tr>
+  {% for tool in site.data.tools %}
+    {% if tool.title != null %}
+    <tr>
+      <td align="left" valign="top" style="padding-left:10px; margin-bottom:15px; background-color: #E0E0E0;">
+        <h2>Definitions</h2>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+        <a href="{{ tool.url }}"><img src="{{  }}" width="150" align="left" style="padding: 15px;" /></a>
+        <a href="{{ tool.url }}" style="color: #000;"><strong>{{ tool.name }}</strong></a><p>{{ tool.details }}</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <hr>
+      </td>
+    </tr>
+  {% endfor %}
 </table>
