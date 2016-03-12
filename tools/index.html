@@ -1,31 +1,28 @@
 ---
 layout: page
-title: 'Tools'
+title: 'API Design Editors'
 ---
-<p>As I do my regular monitoring of the API space, these are the common tools tools that I have identified so far. If there are tools or other resources that you think should be listed, let me know.
-
+<p>These are the open source tools that I am tracking on as part my API design research, that can be applied throughout the API design cycle.</p>
 <table width="100%" border="0">
-  <tr>
-    <td align="left" valign="top" style="padding-left:10px; margin-bottom:15px; background-color: #E0E0E0;">
-      <h2>Definition Formats</h2>
-    </td>
-  </tr>
-  {% for tool in site.data.tools %}
-    {% if tool.tags contains 'Definitions' %}
     <tr>
-      <td align="left" valign="top">
-        <a href="{{ tool.url }}"><img src="{{ tool.logo }}" width="150" align="left" style="padding: 15px;" /></a>
-        <a href="{{ tool.url }}" style="color: #000;">
-          <strong>{{ tool.name }}</strong>
-        </a>
-        <p>{{ tool.details }}</p>
+      <td align="center" valign="top">
+        <p><a href="definition-formats/"><img src="https://s3.amazonaws.com/kinlane-productions/api-commons/api-commons-a.png" width="150" /></a></p>
+        <p><a href="definition-formats/"><strong>API Definition Formats</strong></a></p>
+      </td>
+      <td align="center" valign="top">
+        <p><a href="design-editors/"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-ide-api.png" width="150" /></a></p>
+        <p><a href="design-editors/"><strong>API Design Editors</strong></a></p>
       </td>
     </tr>
     <tr>
-      <td>
-        <hr>
+      <td align="center" valign="top">
+        <p><a href="design-notebooks/"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-notebook.png" width="150" /></a></p>
+        <p><a href="design-notebooks/"><strong>API Design Notebooks</strong></a></p>
+      </td>
+      <td align="center" valign="top">
+        <p><a href="ide-plugins/"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-puzzle-round.png" width="150" /></a></p>
+        <p><a href="ide-plugins/"><strong>IDE Plugins</strong></a></p>
       </td>
     </tr>
-    {% endif %}
-  {% endfor %}
 </table>
+<p>If there is an open source tool that should be listed here, <a href="https://github.com/api-evangelist/design/issues">submit as a Github Issue, and I will consider adding</a>.</p>

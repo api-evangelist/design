@@ -1,0 +1,31 @@
+---
+layout: page
+title: 'IDE Plugins'
+---
+<p>These are the open source API definition formats that I am tracking on as part of my research, and can be used as part of the API design process.</p>
+<table width="100%" border="0">
+  <tr>
+    <td align="left" valign="top" style="padding-left:10px; margin-bottom:15px; background-color: #E0E0E0;">
+      <h2>IDE Plugins</h2>
+    </td>
+  </tr>
+  {% for tool in site.data.tools %}
+    {% if tool.tags contains 'IDE' %}
+    <tr>
+      <td align="left" valign="top">
+        <a href="{{ tool.url }}"><img src="{{ tool.logo }}" width="150" align="left" style="padding: 15px;" /></a>
+        <a href="{{ tool.url }}" style="color: #000;">
+          <strong>{{ tool.name }}</strong>
+        </a>
+        <p>{{ tool.details }}</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <hr>
+      </td>
+    </tr>
+    {% endif %}
+  {% endfor %}
+</table>
+<p>If there is an open source tool that should be listed here, <a href="https://github.com/api-evangelist/design/issues">submit as a Github Issue, and I will consider adding</a>.</p>
