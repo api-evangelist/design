@@ -2,33 +2,29 @@
 layout: page
 title: 'IDE Plugins'
 ---
+<h1>IDE Plugins</h1>
 <p>These are the open source API definition formats that I am tracking on as part of my research, and can be used as part of the API design process.</p>
 <table width="100%" border="0">
-  <tr>
-    <td align="left" valign="top" style="padding-left:10px; padding-bottom: 15px; margin-bottom:15px; background-color: #E0E0E0;">
-      <h2>IDE Plugins</h2>
-    </td>
-  </tr>
   {% for tool in site.data.tools %}
     {% if tool.tags contains 'IDE' %}
     <tr>
-      <td align="center" valign="middle">
+      <td align="center" valign="middle" width="160">
         <a href="{{ tool.url }}"><img src="{{ tool.logo }}" width="150" align="left" style="padding: 15px;" /></a>
       </td>
-      <td align="left">
+      <td align="left" width="75%">
         <a href="{{ tool.url }}" style="color: #000;">
           <strong>{{ tool.name }}</strong>
         </a>
         <p>{{ tool.details }}</p>
       </td>
-      <td width="60" align="center" valign="middle">
+      <td width="75" align="center" valign="middle">
           <a href="{{ tool.url }}" target="_blank" title="Website">
             <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-home-icon.jpeg" width="50" />
           </a>
       </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="3">
         <hr>
       </td>
     </tr>
