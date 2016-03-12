@@ -44,7 +44,7 @@
 	},
 	{
 		"tool_id": "tM3sCmqkVzJkq8kScyA9ztPm3AnX4shEIiXgiXpZs7NsivokVGH9vq1236whtW60KkMoozrtQXvEgCt1YuysfEpg117117",
-		"name": "api-blueprint-sublime-plugin",
+		"name": "API Blueprint Sublime Plugin",
 		"user": "apiaryio",
 		"details": "API Blueprint Sublime Text plugin",
 		"post_date": "2015-05-14 12:42:47",
@@ -67,28 +67,6 @@
 		]
 	},
 	{
-		"tool_id": "DYbI4KEKr5Nx0E5SNLPBCCz9P74XahwWGu5VyoLq8k11677AsjKOe9d116oZL1IfPZv70Zb0duHxbfd1rZb5z4Rz8Q117117",
-		"name": "Apiary Blueprint Parser",
-		"user": "",
-		"details": "A JavaScript parser of&nbsp;Apiary API blueprints. Uses Node.js then in browser, include the browser version of the parser in your web page or application using the &lt;script&gt; tag. To parse an API blueprint, just call the parse method and pass the blueprint as a parameter. The method will return an object representing the parsed blueprint or throw an exception if the input is invalid.",
-		"post_date": "2013-06-12 18:42:12",
-		"url": "https://github.com/apiaryio/blueprint-parser",
-		"blog_url": "",
-		"blog_rss_url": "",
-		"twitter_url": "",
-		"github_url": "",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/bw-api-blueprint-icon.png",
-		"forks": 0,
-		"followers": 0,
-		"watchers": 0,
-		"tags": [
-			"Parser",
-			"Design",
-			"Definitions",
-			"API Blueprint"
-		]
-	},
-	{
 		"tool_id": "PVQ6sFWyjEsqHszCVrjgtt2sL7YvFoUj0zSSCp123bK5P5Qkbf5m2Fa0WCUOyBlsomz4dUCJXYJ116RZHEtGx76iaQ117117",
 		"name": "Atom Editor API Blueprint Preview",
 		"user": "",
@@ -104,6 +82,7 @@
 		"followers": 0,
 		"watchers": 0,
 		"tags": [
+			"IDE",
 			"Design",
 			"Design",
 			"API Blueprint"
@@ -186,25 +165,6 @@
 		"watchers": "3342",
 		"tags": [
 			"Design",
-			"Design"
-		]
-	},
-	{
-		"tool_id": "9IAK6AmjsPIxxSW0ku4z7RuG1pfIUgmbpyt8Z8u1SHpz8nVv123i7WLT93dduuZPA9qsM123bAZdsheN0ZabO4uAhQ117117",
-		"name": "Enunciate",
-		"user": "",
-		"details": "Enunciate is an engine for dramatically enhancing your Java Web service API. Its simple. You develop your Web service API using standard Java technologies and attach Enunciate to your build process. Suddenly, your Web service API is boasting some pretty impressive features. Enunciate is an open-source project, licenced under the Apache License, version 2.0.&nbsp;Provides ull HTML documentation of your services, scraped from your JavaDocs. Client-side libraries (e.g. Java, .NET, iPhone, Ruby, Flex, AJAX, GWT, etc.) for developers who want to interface with your API, as well as interface Definition Documents (e.g. WSDL, WADL, XML-Schema, etc.)",
-		"post_date": "2013-06-12 19:05:46",
-		"url": "http://enunciate.codehaus.org/",
-		"blog_url": "",
-		"blog_rss_url": "",
-		"twitter_url": "",
-		"github_url": "",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/enunciate-logo.png",
-		"forks": 0,
-		"followers": 0,
-		"watchers": 0,
-		"tags": [
 			"Design"
 		]
 	},
@@ -304,6 +264,7 @@
 		"followers": 0,
 		"watchers": 0,
 		"tags": [
+			"Design Notebook",
 			"Design"
 		]
 	},
@@ -345,6 +306,7 @@
 		"followers": 0,
 		"watchers": 0,
 		"tags": [
+			"Design Editor",
 			"Design"
 		]
 	},
@@ -369,25 +331,6 @@
 		]
 	},
 	{
-		"tool_id": "OcvweWajvcYNRJndT1fR3123BpE116bXZp4l5116DDRJiUnUEsxUyR3123uIwRvqS2U6l9g116Mx4VFmwRDq0xVV2hO8pbnQ117117",
-		"name": "Rspec APIBlueprint",
-		"user": "",
-		"details": "Autogeneration of API documentation using the Blueprint format from request specs.",
-		"post_date": "2014-06-15 13:13:42",
-		"url": "https://github.com/playround/rspec_api_blueprint",
-		"blog_url": "",
-		"blog_rss_url": "",
-		"twitter_url": "",
-		"github_url": "",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/api-blueprint.png",
-		"forks": 0,
-		"followers": 0,
-		"watchers": 0,
-		"tags": [
-			"Design"
-		]
-	},
-	{
 		"tool_id": "53oCYUICBD7Ofsqn8D5mDRqXl123yEajbT116NHBigtJEPk26i0UTorgw5123sd81HaxRceysEbQXHSRoS3123ApDmIycw117117",
 		"name": "Swagger Editor",
 		"user": "",
@@ -403,9 +346,8 @@
 		"followers": 0,
 		"watchers": 0,
 		"tags": [
-			"Design",
-			"Design",
-			"Definitions"
+			"Design Editor",
+			"Design"
 		]
 	},
 	{
