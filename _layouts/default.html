@@ -12,8 +12,8 @@
         <h2><a href="{{ site.masthead_link }}" style="font-size: {{ site.masthead_font_size }}%;">{{ site.masthead_title }}</a></h2>
 
         <!-- Feature -->
-        <a href="{{ site.feature_link }}" target="_blank">
-          <img src="{{ site.feature_image_source }}" width="{{ site.feature_image_width }}%" style="border: 1px solid #FFF;" title="{{ site.feature_title }}" />
+        <a href="{{ site.feature_link }}" target="_blank" id="feature_project_link">
+          <img id="feature_project_image" src="{{ site.feature_image_source }}" width="{{ site.feature_image_width }}%" style="border: 1px solid #FFF;" title="{{ site.feature_title }}" />
         </a>
 
         <div class="colophon">
@@ -150,6 +150,26 @@
     // project view log
   	$url = "http://project.api.kinlane.com/project/view/";
   	$vlog = $.post($url, function() {});
+
+    // Feature Projects
+    function featureProjects()
+        {
+        $get_feature_project_url = "http://project.api.kinlane.com/project/feature/";
+        $.ajax({
+          url: $get_feature_project_url,
+          type:"GET",
+          success:function(data) {
+              $feature_title = data['feature_title'];
+              $feature_image = data['feature_image'];
+              $feature_url = data['feature_url'];
+              $("#feature_project_link").attr("href", $feature_url);
+              $("#feature_project_image").attr("src", $feature_image);
+              $("#feature_project_image").attr("title", $feature_title);
+            }
+        });
+        }
+    featureProjects();
+
   </script>
 
   </body>
