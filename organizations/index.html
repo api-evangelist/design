@@ -3,10 +3,11 @@ layout: page
 title: Organizations
 ---
 
-<table width="100%" border="0" cellpadding="3" cellspacing="2">
+<center>
+<table width="70%" border="0" cellpadding="3" cellspacing="2">
   {% for org in site.data.organizations %}
   <tr>
-    <td align="center" width="20%" style="border-top: 1px solid #CCC; padding-top:18px;">
+    <td align="center" width="5%" style="border-top: 1px solid #CCC; padding-top:18px;">
       <a href="{{ org.website }}"><img src="{{ org.logo }}" width="90%" align="center" /></a>
     </td>
     <td align="left" width="55%" style="border-top: 1px solid #CCC; padding-top:18px;">
@@ -69,3 +70,4 @@ title: Organizations
   </tr>
   {% endfor %}
 </table>
+</center>
