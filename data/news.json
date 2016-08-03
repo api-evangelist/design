@@ -9,5 +9,5 @@ layout: none
 		"url": "{{ curated.url }}",
 		"domain": "{{ curated.domain }}",
 		"image": "{{ curated.image }}"
-{% endfor %}}{% if forloop.last != true %},{% endif %}
+{% endfor %}}{% if curated.last != true %},{% endif %}
 ]

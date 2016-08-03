@@ -16,5 +16,5 @@ layout: none
 	"logo_width": "{{ org.logo_width }}",
 	"screenshot": "{{ org.screenshot }}",
 	"tags": {{ org.tags }}
-{% endfor %}}{% if forloop.last != true %},{% endif %}
+{% endfor %}}{% if org.last != true %},{% endif %}
 ]
