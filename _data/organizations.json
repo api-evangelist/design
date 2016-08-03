@@ -14,13 +14,13 @@
 		"base_url": "",
 		"blog": "http://blog.apiary.io/",
 		"blogrss": "http://blog.apiary.io/feed.xml",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apiary-logo.jpeg",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apiary-logo.png",
 		"logo_width": "150",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apiary-logo.jpeg",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apiary-logo.png",
 		"tags": [
 			"Virtualization",
+			"Virtualization",
 			"Design",
-			"API Mocking",
 			"API LIfeycle"
 		]
 	},
@@ -46,7 +46,7 @@
 			"Virtualization",
 			"Testing",
 			"Design",
-			"Client"
+			"Clients"
 		]
 	},
 	{
@@ -56,29 +56,30 @@
 		"details": "When you use APIMATIC to manage SDKs, they provide you with an editor for adding, editing, and deleting the details of each API. When you bundles this with their multi-format API definition format import and export, the platform quickly becomes an API design tool as well as a platform for generating your SDKs.",
 		"website": "https://www.apimatic.io/",
 		"twitter": "https://twitter.com/apimatic",
-		"github": "",
+		"github": "https://github.com/apimatic",
 		"apisjson_url": "",
 		"sdksio_url": "",
 		"postman_url": "",
-		"portal_url": "",
+		"portal_url": "https://github.com/apimatic",
 		"base_url": "",
-		"blog": "",
+		"blog": "https://apimatic.io/blog",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apimatic-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apimatic-logo.png",
 		"tags": [
 			"SDK",
+			"My API Stack",
 			"Design"
 		]
 	},
 	{
 		"id": "JXeZzGegE123JEYq3QBS7GctT116890SnfkcOuP09cNnxAQNnMLF123E29Z6FOdjqWtuRra7QFm5iSvsn2116N46nZT5PQ117117",
-		"name": "Gelato",
+		"name": "Gelato.io",
 		"summary": "Gelato.io is a tool focused on creating API Documentation and Developer Portals. You can describe your API, import and sync with Swagger or API Blueprint, have your developers register and get updates when things change, get an automatic API Explorer.",
 		"details": "Gelato.io is a tool focused on creating API Documentation and Developer Portals. You can describe your API, import and sync with Swagger or API Blueprint, have your developers register and get updates when things change, get an automatic API Explorer.",
 		"website": "https://gelato.io/",
-		"twitter": "",
+		"twitter": "https://twitter.com/gelatodocs",
 		"github": "",
 		"apisjson_url": "",
 		"sdksio_url": "",
@@ -91,11 +92,34 @@
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gelato-io-logo.png",
 		"tags": [
+			"Portal",
+			"Portal",
 			"Management",
 			"Documentation",
 			"Design",
-			"API Management Portal",
 			"API Management Documentation"
+		]
+	},
+	{
+		"id": "TBpTV0A5SNFKuHdkxRxkpuB25u1E3OcYtaZzPPD37clumt1S16W3osEZXDb3nXZTcppTSzYnF4w0eU123DAiGHzg117117",
+		"name": "Goa",
+		"summary": "goa provides a novel approach for developing microservices that saves time when working on independent services and helps with keeping the overall system consistent.",
+		"details": "goa provides a novel approach for developing microservices that saves time when working on independent services and helps with keeping the overall system consistent.",
+		"website": "https://goa.design/",
+		"twitter": "https://twitter.com/goadesign",
+		"github": "https://github.com/goadesign",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/goadesign",
+		"base_url": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/goa-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/goa-logo.png",
+		"tags": [
+			"Design"
 		]
 	},
 	{
@@ -122,8 +146,7 @@
 			"Discovery",
 			"Design",
 			"API Management Other",
-			"API LIfeycle",
-			"API Integration"
+			"API LIfeycle"
 		]
 	},
 	{
@@ -171,7 +194,7 @@
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/reprezen-logo.jpg",
 		"tags": [
 			"Design",
-			"Client"
+			"Clients"
 		]
 	},
 	{
@@ -202,6 +225,28 @@
 			"API Deployment Spreadsheets",
 			"API Deployment Frameworks",
 			"API Deployment Cloud"
+		]
+	},
+	{
+		"id": "Bxp8sOFf123sYzT0VU4Y07frN01bdPrxT1163jE8mF4dQ123h116ujO6vgmJklAAitu8PPbpcV5JD1oIbTXDvqLSl88SGQ117117",
+		"name": "Visual Paradigm",
+		"summary": "Visual Paradigm supports modeling the underlying communication model of REST API, as well as the generation of REST APIs and API documents.",
+		"details": "Visual Paradigm supports modeling the underlying communication model of REST API, as well as the generation of REST APIs and API documents.",
+		"website": "https://www.visual-paradigm.com/",
+		"twitter": "https://twitter.com/visualparadigm",
+		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/visual-paradigm.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/visual-paradigm.png",
+		"tags": [
+			"Design"
 		]
 	}
 ]
