@@ -38,16 +38,25 @@ project_summary: Research project to keep track of established, and emerging bes
 navigation:
   - label1: Home
     link1: /index.html
-    size1: 70
+    size1: 60
     extend: 0
     label2:
     link2:
     size2: 0
     padding: 0
     decorate: 0
+  - label1: Blog
+    link1: /blog/
+    size1: 60
+    extend: 1
+    label2: RSS
+    link2: /blog.xml
+    size2: 60
+    padding: 2
+    decorate: 0
   - label1: News
     link1: /news/
-    size1: 70
+    size1: 60
     extend: 1
     label2: RSS
     link2: /news.xml
@@ -56,7 +65,7 @@ navigation:
     decorate: 0
   - label1: Organizations
     link1: /organizations/
-    size1: 70
+    size1: 60
     extend: 1
     label2: JSON
     link2: /data/organizations.json
@@ -65,7 +74,7 @@ navigation:
     decorate: 0
   - label1: Tooling
     link1: /tools/
-    size1: 70
+    size1: 60
     extend: 1
     label2: JSON
     link2: /data/tools.json
@@ -74,7 +83,7 @@ navigation:
     decorate: 0
   - label1: Return to API Evangelist
     link1: http://apievangelist.com
-    size1: 70
+    size1: 60
     extend: 0
     label2:
     link2:
