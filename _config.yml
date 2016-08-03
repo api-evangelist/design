@@ -50,7 +50,7 @@ navigation:
     size1: 70
     extend: 1
     label2: RSS
-    link2: /blog.xml
+    link2: /news.xml
     size2: 60
     padding: 2
     decorate: 0
