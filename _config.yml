@@ -28,7 +28,7 @@ masthead_title: '{"API Design"}'
 feature_title: API Guide
 feature_link: http://apievangelist.com
 feature_image_source: https://s3.amazonaws.com/kinlane-productions/whitepapers/api-guides-loading.jpg
-feature_image_width: 40
+feature_image_width: 50
 
 # Project
 project_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
