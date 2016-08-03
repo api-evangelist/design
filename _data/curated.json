@@ -1,0 +1,2585 @@
+[
+	{
+		"curated_id": "v4Nvl9lWN4J7Int4yYDsTh38yTdxosle50116q116MnYof5Xq0GJs123WAkSN3Z5MZep66zfbrhNjTHX2Bw8r123tRle8A117117",
+		"title": "Microsoft Publishes REST API Guidelines 2.3",
+		"url": "http:\/\/www.programmableweb.com\/news\/microsoft-publishes-rest-api-guidelines-2.3\/brief\/2016\/07\/21",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "EQ3nD4KJh116yUZ8x123a4dw68KbWIAlRIWpVoXe4NM116m123PnhtJXVhpn0iIompIRwZBwO6X123dCHv6vknVF1mS1qnSA117117",
+		"title": "Microsoft REST API Guidelines Are Not RESTful",
+		"url": "https:\/\/www.infoq.com\/news\/2016\/07\/microsoft-rest-api",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5ZBeNv7yYPmJA5lSoMOXyRkaEU3AzmMIq5JT123oxooz92v123123UT6zodKohxWbMI5ueEKtkMmah8116q25GXWEzVCGA117117",
+		"title": "GitHub - Microsoft\/api-guidelines: Microsoft REST API Guidelines",
+		"url": "https:\/\/github.com\/Microsoft\/api-guidelines",
+		"domain": "github.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YGOENuqcNc7YQ7CnUkUKtUe6ZLisIqJFzJ0UHAb6JMKmVmyUHF8fcZ2eY7UaUnExvLsChdM46116quLQkpn6ZpWg117117",
+		"title": "Scaling Your API Design Workflow",
+		"url": "https:\/\/blog.apiary.io\/2016\/07\/10\/Scaling-Your-API-Design-Workflow",
+		"domain": "blog.apiary.io",
+		"image": ""
+	},
+	{
+		"curated_id": "mXwGZAfk11624F0sJ8qBcQbFNRycTfizNzZpX6DbemLpzZwT0nogM3PCNwzKb72YBpy9XvRNFwPjdxYHZ5QqCLmg117117",
+		"title": "API Errors Are First Class Citizens",
+		"url": "https:\/\/dzone.com\/articles\/api-errors-are-first-class-citizens",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "gQAqK3X30IwWfdaZk0fJcikkqxyPDTPUOSu9jWRYaVAoeqiyms2Hvb5je1fbSB4Bk123eABFjZhc15nvHYEGwVlA117117",
+		"title": "Presentation: REST Considered Harmful",
+		"url": "https:\/\/www.infoq.com\/presentations\/rest-streaming-api",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
+		"curated_id": "OTFSv0KzM3UiAZ7ZxgrVcCWa123G9HN76BfvMPwv0zJ12gd123F1CRSOGyzufyURsg7zXyUg0ZFOTlclQMzaSrNNTA117117",
+		"title": "World\u2019s First API Design Hackathon",
+		"url": "https:\/\/blog.apiary.io\/2016\/04\/21\/API-Design-Hackaton",
+		"domain": "blog.apiary.io",
+		"image": ""
+	},
+	{
+		"curated_id": "dV5AAU116MTJHyrmJ8JpAbK5afZQPBGFdMXLhu1168jEpC6HE2gzAnegkoV6ADXhUc3fJJoKwtlwkmLKjD116H2XILYA117117",
+		"title": "Building a great API: Lessons learned from working with dozens of REST APIs",
+		"url": "http:\/\/blog.bugsnag.com\/building-great-apis",
+		"domain": "blog.bugsnag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "sPcF6w116aArj5Z0W95ijQRDh01Fahm1xbXFXDjtRi61lzhj123uhFaI4AWEO2cXqatSPLrljo2d62oSdnSsS26LCA117117",
+		"title": "RAMLing Again With API Workbench: From Setup to Design",
+		"url": "https:\/\/dzone.com\/articles\/ramling-again-with-api-workbench-from-setup-to-des",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "gLQ4pBj2cdQVqOrNtK561WnqGnA51llQIUJCJPR2XOGzd7hoUKM123jALzpVOVn9uGizJn1ETlKRxAIEF116L20iYw117117",
+		"title": "A Consumer of a Properly Designed RESTful API Is Writing to an Interface, Not an Implementation",
+		"url": "https:\/\/dzone.com\/articles\/a-consumer-of-a-properly-designed-restful-api-is-w",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "nE9BFDozn116lvCSqX6AAj9pJbKXSeYdYijpEH123XejamfZCwjYBFiGMYsIiRmfGRZMA3M3HDupSZuFXgIOXhc7kw117117",
+		"title": "The Most Important Thing When Picking HTTP Status\u00a0Codes",
+		"url": "https:\/\/dzone.com\/articles\/the-most-important-thing-when-picking-http-statusc",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "aLHR0xOc7T1d7r4TSoq5PyLvIdxHu1pHmxRZkkSIDHMQK7huIiZ123U3fe123vHSv5amiVw9NmuG2o123ulZxTGz0b8A117117",
+		"title": "The Basics of REST and RESTful API Development",
+		"url": "http:\/\/www.hongkiat.com\/blog\/rest-restful-api-dev\/",
+		"domain": "www.hongkiat.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YYeMZ2eqvtI4SkEAp3cMm8g8pI2DieUmzDKi6qdJVajxuMVvqldL60n7PjB8226i0y34pxJzzFJQd5jLDEbn116Q117117",
+		"title": "JSON-LD: Building Meaningful Data APIs",
+		"url": "https:\/\/dzone.com\/articles\/json-ld-building-meaningful-data-apis-via-codeship",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "WN369VvsErxTut1161zbexBP74JQMgLu5lgc9Dg2xPdc89hDQdoh1NHEmLcFuepIizlT7aNfvTcZGKBmN116xlWVpg117117",
+		"title": "How API First Design Could Have Avoided These Failures",
+		"url": "http:\/\/www.programmableweb.com\/news\/how-api-first-design-could-have-avoided-these-failures\/analysis\/2016\/06\/14",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "dY37b123xzBaJrTaQc6ghpw323ilw6NmHPPSuB5kYZai2Sg116RFEosSgoXFqo116otvSzC60qdyt3TUkx123XyRW116xv1Q117117",
+		"title": "Why Your API&#039;s End-Usage Context Matters To Great API Design",
+		"url": "http:\/\/www.programmableweb.com\/news\/why-your-apis-end-usage-context-matters-to-great-api-design\/analysis\/2016\/06\/21",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "K2IKGvQwG7hV4ghiEZHtFWQv1Hq3Fu4Zh5DSFvTLFn4N123bySdq8kWkdXjznagGQkXY28CZjOmGfi0tDrxKZTfA117117",
+		"title": "Why Your API&#039;s End-Usage Context Matters To Great Developer Experiences",
+		"url": "http:\/\/www.programmableweb.com\/news\/why-your-apis-end-usage-context-matters-to-great-developer-experiences\/analysis\/2016\/06\/21",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "RkICMNZ5t123oKyx4xdQkhMtOLZe0OpYXFV7b3123rI6VAXK7KK9WfazCwmqE5R6zbXSTb7WO1mLmYjxDv63GmnW1Q117117",
+		"title": "HTTP-RPC 3.0 Released [Announcement]",
+		"url": "https:\/\/dzone.com\/articles\/http-rpc-30-released",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "FLhg7V9xfY3YdCkZzFd116yupGsGb123KsXHf3bWMp8CdlcoHy4HGuLvQ2gbNzsalX0AewM36u1OQ44oEjipDxiIUA117117",
+		"title": "Three APIs Making the Case Against Building It Yourself",
+		"url": "http:\/\/everydeveloper.com\/apis-against-building-yourself\/",
+		"domain": "everydeveloper.com",
+		"image": ""
+	},
+	{
+		"curated_id": "BgArctzlYsZvKG9wAxI88MwffuGAIQLuVQiqp3E3XPuKK0AjCLOCMQrcAWumWdpOwsa9f123lhnY888E4EOKxoCQ117117",
+		"title": "API Design in Node.js with Express",
+		"url": "http:\/\/shop.oreilly.com\/product\/0636920054160.do",
+		"domain": "shop.oreilly.com",
+		"image": ""
+	},
+	{
+		"curated_id": "g0qPr9jGn5OhCDnlI5Fp4zY7ItAxtecCJz3Adr6bmYjjKsa15iYEaFxGucDznvSmtL3gSbwTqAeKQtj39LmbnA117117",
+		"title": "Thinking About An API Proxy To Add Link Header To Each API Response",
+		"url": "http:\/\/apievangelist.com\/2016\/05\/02\/thinking-about-an-api-proxy-to-add-link-header-to-each-api-response\/",
+		"domain": "apievangelist.com",
+		"image": ""
+	},
+	{
+		"curated_id": "MXdwQKnCy89eom8UQS2AfqVJrobTVllI75nAQgDhQNGcvLq5qZCxBKz7fgN1164Edos123C5AH9gQz116rbXFpI76tMQ117117",
+		"title": "HTTP Header Awareness: Using The Link Header For Pagination",
+		"url": "http:\/\/apievangelist.com\/2016\/05\/02\/http-header-awareness-using-the-link-header-for-pagination\/",
+		"domain": "apievangelist.com",
+		"image": ""
+	},
+	{
+		"curated_id": "bgeAoVRkzyRCMODP0di0SyJkdddCEyZZKBpIX2uiCo116pWEf8kZlvNq4pV1DsGT4774P5WyRzhkQfyXEqtdhAZg117117",
+		"title": "Never Put Secrets in URLs and Query Parameters",
+		"url": "https:\/\/www.fullcontact.com\/blog\/never-put-secrets-urls-query-parameters\/",
+		"domain": "www.fullcontact.com",
+		"image": ""
+	},
+	{
+		"curated_id": "e116CnufXYV2WKEYh2kObdX3oitVZ1163AJnGwQR1Ff2qnsZOZiv1nT4PxbO8g8NVkLjbsKaqAXSFfctjrcX8pQvKA117117",
+		"title": "Introducing API Templates",
+		"url": "http:\/\/www.socketlabs.com\/blog\/introducing-api-templates\/",
+		"domain": "www.socketlabs.com",
+		"image": ""
+	},
+	{
+		"curated_id": "NVH9EtbozZdzueIvjnPrXzNWHa1237TV0rFZUE123nwvcmWE116BcQM2a123EJtyiyGnDoBUxcNL116c116XTuKO76IzhuStOw117117",
+		"title": "What is a well-designed API?",
+		"url": "http:\/\/api-university.com\/blog\/what-is-a-well-designed-api\/",
+		"domain": "api-university.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1hcciMGhqaWLwEn2BnkUPDiivWTMzrb0T1JZVSPbepzW27tqm5DGjtn6hv6YfYjRH63rMMXVmvnveuQy0A0fuw117117",
+		"title": "Consumer-oriented API Design",
+		"url": "http:\/\/api-university.com\/blog\/consumer-oriented-api-design\/",
+		"domain": "api-university.com",
+		"image": ""
+	},
+	{
+		"curated_id": "J123F073y4BGT9116FITflnWsjh4TcU10JUsuFZ123dv123w7G3T9JBeHMA5ziKi123PCBi7Clo4pSNdC3LPXK1y7U46qCOw117117",
+		"title": "REST API Design at Devoxx France",
+		"url": "http:\/\/restlet.com\/blog\/2016\/04\/25\/rest-api-design-at-devoxx-france\/",
+		"domain": "restlet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "picbMlrYU35LX86cTL0H26Be123BhaEGEJEtVR6py5iF123v25RnWnZbOS123z7cQOCRV0ozrCtN2K2fVJhjmLYfp98A117117",
+		"title": "Build a REST API with XML Payload",
+		"url": "https:\/\/dzone.com\/articles\/build-a-rest-api-with-xml-payload",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "GQZ2YNcE3oaixEwp123hvfKEYYiFNCYtJ7wTCGRvL5FQlXAn9DdBpIwdosb1116uqOjqEfZT123sDxxCqgJixiFUPI8A117117",
+		"title": "API Names and Begging the Negatives",
+		"url": "https:\/\/dzone.com\/articles\/api-names-and-begging-the-negatives",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "n1239IRU1116nUVY5w17gdar4efuaY4Bs11662mwmOgO9SCZ10Fj123enMxyx0gH123qE9LcAfJkWFz63tYHVpqlz5NqtOZg117117",
+		"title": "The Relationship Between BDD and API Design",
+		"url": "https:\/\/dzone.com\/articles\/the-relationship-between-bdd-and-api-design",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "doBhRMxX8Nd5116QLuQNVMPi4NVlgU4vklv1230IB6OFvvNyy1TwAo116ylefZZwsTtfCL7jAQaAxY4Afv532LmWDRzg117117",
+		"title": "Build Better Mobile Apps: Data and API Best Practices",
+		"url": "http:\/\/www.builtinchicago.org\/blog\/build-better-mobile-apps-data-and-api-best-practices",
+		"domain": "www.builtinchicago.org",
+		"image": ""
+	},
+	{
+		"curated_id": "896xLXykI6STmz116UwBGB3hJOcirLJmuFx7chDTIEUTrX1p0zduUEA4n9H64vQ7YkczxkZdnh5UWUysUAQgEjig117117",
+		"title": "How to Improve API Errors With Defensive Design",
+		"url": "http:\/\/www.programmableweb.com\/news\/how-to-improve-api-errors-defensive-design\/elsewhere-web\/2016\/04\/16",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "HDh4lvjowSvKnkBW0fVo5U720oeGT2h9Ao2ZRNJQAACVrJF8et123ykLpok0nqLyClkNm0nZ3jV42aCq59zQ41MA117117",
+		"title": "RFC 7807 - Problem Details for HTTP APIs",
+		"url": "http:\/\/tools.ietf.org\/html\/rfc7807",
+		"domain": "tools.ietf.org",
+		"image": ""
+	},
+	{
+		"curated_id": "116Y123UnRp6IWaN2RykJAZ0dGP5ksI123FZlWkMg90rsRgEUzLbXM3iNRlO116jOctp3re123u0Vh58rkqJt5tQ4fyvGkgA117117",
+		"title": "Screencast: Design a web API from scratch with Restlet Studio",
+		"url": "http:\/\/restlet.com\/blog\/2016\/04\/01\/screencast-design-a-web-api-from-scratch-with-restlet-studio\/",
+		"domain": "restlet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116OiAf8L8DxXS6H123123pZp4KAdGcG5ELxWQWIxvl4N116DgUcKWFGeGmZw1CJm5rcoNjcEUbYDPSCGyQqYqHnX2xRpg117117",
+		"title": "What Skills Do Your APIs Offer?",
+		"url": "http:\/\/launchany.com\/what-skills-do-your-apis-offer\/",
+		"domain": "launchany.com",
+		"image": ""
+	},
+	{
+		"curated_id": "84ocULlhQ116J6sBN1230OEyA37U123m14OjfC0A5Z4sRwbMosUqz123fBaRmNC116QQm2hpLD8EbvMGMUdheNz9Wh5Tcd6g117117",
+		"title": "A Tale of Two Chatbots - Internet Ethics: Views From Silicon Valley",
+		"url": "https:\/\/www.scu.edu\/ethics\/internet-ethics-blog\/a-tale-of-two-chatbots\/",
+		"domain": "www.scu.edu",
+		"image": ""
+	},
+	{
+		"curated_id": "R9ksv6ma0iT4aXK1233TsO0p7EAN6YR116bOyMCrhlDdf20mQiV123tYN24yRk6UyTYGZZwJTDHTXznpYMExPjvQaNYw117117",
+		"title": "Quality API Design and Implementation through RepreZen and SmartBear",
+		"url": "http:\/\/www.reprezen.com\/blog\/quality-api-design-and-implementation-through-reprezen-and-smartbear",
+		"domain": "www.reprezen.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Xf3Va64ixpu8m07pEWAsFm1GykuzQk32Vvb6WnHHVJMhrURShosAfMTxMQF0EhEVBuz5SOTydMs1IYwquA4123xw117117",
+		"title": "Designing APIs With Customers in Mind",
+		"url": "http:\/\/www.builtinaustin.com\/blog\/designing-apis-customers-mind",
+		"domain": "www.builtinaustin.com",
+		"image": ""
+	},
+	{
+		"curated_id": "LnpHAPdiB123di5L8FWxJM19GmsJUgq2oYcfAXqtF116KTsnvIjhJwZq1Pu9E1acnxZnO3pplQ1Tro2NKMLO6yzLaw117117",
+		"title": "Discover the attention surrounding URNs: support for a new identifier",
+		"url": "https:\/\/www.altmetric.com\/blog\/discover-the-attention-surrounding-urns-support-for-a-new-identifier\/",
+		"domain": "www.altmetric.com",
+		"image": ""
+	},
+	{
+		"curated_id": "vzonrHfz123UlJDq0ZRq116DF116PgxdKsPq1nbpFdGV0Ta7iKx4yeKxbEZWP123Z116hn123ZZR123h8CqgGMszQcjoQYuwwExw117117",
+		"title": "Well wishes and warnings in the Web API",
+		"url": "https:\/\/medium.com\/slack-developer-blog\/well-wishes-and-warnings-in-the-web-api-489456837220",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "piBv0a1169TPyQhZfs2aP5ENm5BcPKjkTX5lsu7eZqCTUY7zn8ay8yDKUew8rJK1fLiQ0SsWD04I7A1IvojMyjLQ117117",
+		"title": "Great APIs Have One Thing in Common",
+		"url": "http:\/\/everydeveloper.com\/great-apis-one-thing\/",
+		"domain": "everydeveloper.com",
+		"image": ""
+	},
+	{
+		"curated_id": "9klKW7sSAhXxIgGkquBV5E47AlVm633i116TLj80aX5a123jdXHZDnqwjW72GANpWqiE1af69123LTV65zuUgf1TRMVA117117",
+		"title": "One API, many facades",
+		"url": "http:\/\/restlet.com\/blog\/2016\/03\/16\/one-api-many-facades\/",
+		"domain": "restlet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ojqkLG36eQ5116nhgQEYTY5iIW6Rvo0Sgs20JcpXgjfjh116HsxkfDS1164sQAiaTrU5XYFsh3pUmLt2pBlAY690gtAQ117117",
+		"title": "Do My APIs Have The Skills They Need To Compete In A Voice And Bot Enabled World?",
+		"url": "http:\/\/apievangelist.com\/2016\/03\/14\/do-my-apis-have-the-skills-they-need-to-compete-in-a-voice-and-bot-enabled-world\/",
+		"domain": "apievangelist.com",
+		"image": ""
+	},
+	{
+		"curated_id": "8L2RnPolyM4DTANpCF2cpr5Lq0Tl2Pno1v3HaUP2demffO123r123hp2vB23Mg4qtnZJ18I7VZNDC8AKiyXbkEh1PA117117",
+		"title": "3 Approaches to Monadic API Design in Haskell",
+		"url": "https:\/\/blog.pusher.com\/3-approaches-to-monadic-api-design-in-haskell\/",
+		"domain": "blog.pusher.com",
+		"image": ""
+	},
+	{
+		"curated_id": "SSBciHckHuHa1231O123S768oLlKzsxw9IwtoRFjohsTL3CTcm6ukutGuBmLUMnXCEOqFF19sfFeGHnAuzMAs2sn4Q117117",
+		"title": "Article: One API, Many Facades?",
+		"url": "http:\/\/www.infoq.com\/articles\/api-facades",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1qtg116dNGONJDMAfr6RBcMywq8NNEfo862egiyRICcR1MH6I0ThM4Ffyli8lHeWP09zaN51169hdb8iRyw123tnK1wg117117",
+		"title": "API Design Challenges: Competing Demands",
+		"url": "http:\/\/www.biske.com\/blog\/",
+		"domain": "www.biske.com",
+		"image": ""
+	},
+	{
+		"curated_id": "7ewtTDCGD116b0hFJhKE4oQmaHMtggBPLu1DF5XTCKvvtYQ5QFjxPNZJ3kWH4IJNf12319116116GZL5123i8m5qrMkSfnXg117117",
+		"title": "Designing Web APIs with Restlet Studio",
+		"url": "http:\/\/restlet.com\/blog\/2016\/03\/04\/designing-web-apis-with-restlet-studio-web-api-concepts\/",
+		"domain": "restlet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Hrld1gctiCN2ZtNwilKf8FlCi9v3FJDe3Bs6GP9ORewsHW7xB31DByo45Zvu9mt0Lcg2M5d1PJg5C8eXOeO123eA117117",
+		"title": "Designing a Web API with Restlet Studio \u2013 Visual API editor",
+		"url": "http:\/\/restlet.com\/blog\/2016\/03\/09\/designing-a-web-api-with-restlet-studio-visual-api-editor\/",
+		"domain": "restlet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "N1sbeXgH8CXvyirRvsjhTYY04miiSpZJOQZA116QAid123nkBy0nE1238pdj3WZtlCDEYMyMGUrqo57JkYEv7GSjNE5w117117",
+		"title": "StopLight Launches Visual API Design Tools",
+		"url": "http:\/\/www.infoq.com\/news\/2016\/03\/spotlight-api-designer",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
+		"curated_id": "XwPS116lrATdrb05BBoBJcxy5kMHo2ae4Tl1116QyB5JJDXyptDpoUy9ZO9tfVmejoWSLsBdNBlhsxAiKVtFrYL116IQ117117",
+		"title": "Visual Modeling Made Easy with the RASON\u00ae API and D3.js",
+		"url": "http:\/\/www.codeproject.com\/Articles\/1082105\/Visual-Modeling-Made-Easy-with-the-RASON-API-and-D",
+		"domain": "www.codeproject.com",
+		"image": ""
+	},
+	{
+		"curated_id": "4zSWbn2NP7iqe0epektIbUWBmd8AFmlllB4TJoDwWwjxkOAfzsi0i2rkYH4qmz116mz7jE7z1230nYx8ILFfFV116wZw117117",
+		"title": "Presentation: 5 Anti-Patterns in Designing APIs",
+		"url": "http:\/\/www.infoq.com\/presentations\/5-api-design-anti-patterns",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
+		"curated_id": "123rwTYfFbf53qBZ5ncGAJYezNUoYbd1M5V123LoQy123116ExV1hOUVgiblErr0B6jNIc0TTQ5xj5Jrw123qSVNhzNnKGpA117117",
+		"title": "Interview: John Sheehan on Web API Quality",
+		"url": "http:\/\/www.infoq.com\/interviews\/sheehan-api-quality",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
+		"curated_id": "osVw1gFKugfHVMaC8zTw9Ya116ho123n4ic3FC9sFeUK28BZSaypdwnbmhRMt7z99GtHDv116s1yWNL3KPT123xvadlZJg117117",
+		"title": "Why Github&#039;s Scientist 1.0 Could Be Great for API Versioning",
+		"url": "http:\/\/www.programmableweb.com\/news\/why-githubs-scientist-1.0-could-be-great-api-versioning\/analysis\/2016\/02\/17",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "0OSxMK09116K3SCioB0NMqBXstRka123czJIG7eBex00tkXiUfx6kcramPTB123NSNIJ7ZN39UjsZxfHX6jFgUyA123b123A117117",
+		"title": "Resolving the Frontend\/Backend API Design Conflict",
+		"url": "http:\/\/launchany.com\/resolving-the-frontendbackend-api-design-conflict\/",
+		"domain": "launchany.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hiLirbaQ4NlZkTXhYQhipgDJg116pqSEQzbf123DYPMRUGrD5123TZb1anvAoXlJwgsuZWHDY6p116JkDa4kZMBDtNFSrg117117",
+		"title": "Resolving the Frontend\/Backend API Design Conflict",
+		"url": "http:\/\/launchany.com\/resolving-the-frontendbackend-api-design-conflict\/",
+		"domain": "launchany.com",
+		"image": ""
+	},
+	{
+		"curated_id": "bcMBFo123E61DH5Rw73UpJWr4o123qWhqbajzzrbRjOCFGgjtDFby8nHl4qgydbDUhNCQi3O3RTD9Ty5116P7aAKmkXQ117117",
+		"title": "Dear API Designer: Are You Sure, You Want to Return a Primitive?",
+		"url": "https:\/\/dzone.com\/articles\/dear-api-designer-are-you-sure-you-want-to-return",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "CdWJtyhwhUwoXzK4kBzqSULod5kwIPUL123oqT8ByIqBb07WEgh3wX123116TJgmXGbFicdkwlyBHpFK1237cWBTBElqbw117117",
+		"title": "Sharing and saving your Web API design project in the cloud",
+		"url": "http:\/\/restlet.com\/blog\/2016\/02\/15\/sharing-and-saving-your-web-api-design-project-in-the-cloud\/",
+		"domain": "restlet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YOtJWZueqcOugEZriOVA9pLJ5BDiMQGdvlTGFozXpUJULbm123DHm5ltV8W9OBP116FsHJduBsWHgc123nSc6jpbMDjg117117",
+		"title": "Using a Prototype as an API Product Specification",
+		"url": "https:\/\/sendgrid.com\/blog\/using-a-prototype-as-an-api-product-specification\/",
+		"domain": "sendgrid.com",
+		"image": ""
+	},
+	{
+		"curated_id": "PPjH1162YporJRL80EZvxzo4uuhMbTxIM0yePUYhaiuFZnk5vjdA116Ja3SjXCjwXjotdb36b7Zbhc9pkbiUNfUKyg117117",
+		"title": "REST essentials for the QuickBooks API",
+		"url": "https:\/\/developer.intuit.com\/hub\/blog\/2016\/02\/04\/rest-essentials-for-the-quickbooks-api",
+		"domain": "developer.intuit.com",
+		"image": ""
+	},
+	{
+		"curated_id": "9YCL116RKS0oVl116aeycZkK0hVGZSoQNpyiy1rk2c5KBKNjeYR5VE8WAPndmAZB5BKih123HrmrveeiSi9MT6isoiyw117117",
+		"title": "an online tutorial -- with friends",
+		"url": "http:\/\/www.amundsen.com\/blog\/archives\/1166",
+		"domain": "www.amundsen.com",
+		"image": ""
+	},
+	{
+		"curated_id": "IhQnnSVBhItcXQoEUkWagdFAq4tIZ8TMfYBNmd97n9HQ123gQgxZPML5cQbt7X0P2h2zdToW7zaVlFu60Xry8JKg117117",
+		"title": "Apiary.io Now Features Swagger Support",
+		"url": "http:\/\/www.programmableweb.com\/news\/apiary.io-now-features-swagger-support\/brief\/2016\/01\/19",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YauG649ieqeXAfAuqprEfrOJbLev04bHr0NXavNHN14I62IOK3CZplGsjx0fUiNiYv3Jpx0fX3Kd7FuSkc6123Hg117117",
+		"title": "Lessons From Training 1400+ People in Web API Design",
+		"url": "http:\/\/launchany.com\/lessons-from-training-1400-people-in-web-api-design\/",
+		"domain": "launchany.com",
+		"image": ""
+	},
+	{
+		"curated_id": "6x0ztLyB292jv7qV5HPc2E123H62DrT4z7bu3wGTKHg5ai0f7KAdXeJ1wb86S0Xn3kR3l9kHJsfWmZv1UwZk0jOw117117",
+		"title": "How CloudRail Handles the \u201cSeven Deadly Annoyances of API Design\u201d",
+		"url": "http:\/\/cloudrail.com\/how-cloudrail-handles-the-seven-deadly-annoyances-of-api-design\/",
+		"domain": "cloudrail.com",
+		"image": ""
+	},
+	{
+		"curated_id": "s2123UxfpiR5ezjCr0MTu0cPwOyKIayR2TvGoW123hmc7jgBu9ndpYA9ilE0FsSHfx6siP20B3IJlhCoe123x2SIdWhQ117117",
+		"title": "Reverse Engineering APIs From The Common APIs Models We Know",
+		"url": "http:\/\/apievangelist.com\/2016\/01\/25\/reverse-engineering-apis-from-the-common-apis-models-we-know\/",
+		"domain": "apievangelist.com",
+		"image": ""
+	},
+	{
+		"curated_id": "LdEjivBOKDGP6fyrgDbtpSMKX5Vn3iKzWMVYX1168UW116aP06giaaYrQkG4X3lCnrHHQ0hDqouYNCsI8rPdWRfDYA117117",
+		"title": "Paging in ASP.NET Web API",
+		"url": "http:\/\/www.codeproject.com\/Articles\/1073488\/Paging-in-ASP-NET-Web-API",
+		"domain": "www.codeproject.com",
+		"image": ""
+	},
+	{
+		"curated_id": "BUtvz8UbFcqkDcTMJAP7JQ8RIkHWQ0erqx85Q12331161EYvKIGk4622fv116w1Z4Kmpip123NRiB5uQv6ux2c8Al123O2Xw117117",
+		"title": "API Design Inspiration on GitHub",
+		"url": "http:\/\/blog.apiary.io\/2016\/01\/12\/Get-Inspired-on-GitHub\/",
+		"domain": "blog.apiary.io",
+		"image": ""
+	},
+	{
+		"curated_id": "qsfFuzEdnV8QE18hTOmqiNssMkIud4fcVoG4YtiM2OZgXLdcKJn6hs8M3M6qGEwEN5Fcw6t1161ll116sRYpidrq6A117117",
+		"title": "RESTful Service-Design: How to  overcome the CRUD-nature of the REST-style",
+		"url": "http:\/\/itblogs.stephanbauer.me\/restful-service-design-how-to-overcome-the-crud-nature-of-the-rest-style\/",
+		"domain": "itblogs.stephanbauer.me",
+		"image": ""
+	},
+	{
+		"curated_id": "SyNd2iNSlX5I3iIrX123116Pwu8Z8ouNjXMRnPDDXZ965oxbCARwXpfP6CDvsX9ThOC6T8i66dhZMwUrOHrsjZK3lQ117117",
+		"title": "Public GETs, In Concert With Private POST, PUT, And DELETE For Your APIs",
+		"url": "http:\/\/apievangelist.com\/2016\/01\/08\/public-gets-in-concert-with-private-post-put-and-delete-for-your-apis\/",
+		"domain": "apievangelist.com",
+		"image": ""
+	},
+	{
+		"curated_id": "SM2iIDY4yrpVX4DnaMgRYLbkP123dWYug6hb62jyV123QfKzaowNSwfHEjbIdAShReidfDfvf1KlSahvqFeAt9nVIw117117",
+		"title": "Passing Json data to a RESTful WCF 4 service using Json.Net",
+		"url": "http:\/\/www.codeproject.com\/Articles\/1069975\/Passing-Json-data-to-a-RESTful-WCF-service-using-J",
+		"domain": "www.codeproject.com",
+		"image": ""
+	},
+	{
+		"curated_id": "sT8SgcfaPFes40BWqWGTgI5hTgbQWOqN41168u79xOOiemehKFFt7l2WpRlzZrigy1FOs8iIwJMWtE8uMXe2MSpA117117",
+		"title": "Web API \u2013 A Solid Approach",
+		"url": "http:\/\/www.codeproject.com\/Articles\/1066348\/Web-API-A-Solid-Approach",
+		"domain": "www.codeproject.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116QfWeHn6EWiB7hwOfmxKHoRm7Czny7ygQGplxkeaKvq1Jix123e4TFtRcJhwTylDIxYFz1162kqUCkUNBoX3Csnrfg117117",
+		"title": "REST Fest 2015 \\ Glenn Block \\ FiveInFive in REST Fest 2015 on Vimeo",
+		"url": "https:\/\/vimeo.com\/channels\/restfest2015\/142378010",
+		"domain": "vimeo.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/vimeo-comchannelsrestfest2015142378010.png"
+	},
+	{
+		"curated_id": "9lrpUSKxTpPwup0jizJ2hfpXCt71KxhWjJ07ZnNIpLck7PJygeJVIz8CKcVqjvuUeSgmnlmnNnxgl4GRr2M5BA117117",
+		"title": "Enhancing Your Apiary Workflow: MSON, Dredd, Style Guides, and More! on Vimeo",
+		"url": "https:\/\/vimeo.com\/149115838",
+		"domain": "vimeo.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/vimeo-com149115838.png"
+	},
+	{
+		"curated_id": "pXGpsooY1123AlVs28i116OtCStgysIzoVl79QYmWa1qfttmhJPbqH42cVv2aO9OsJul2L89N2hc85hhw4qg116jEeZg117117",
+		"title": "@inadarei: How-to: HTTP Caching for RESTful and Hypermedia APIs",
+		"url": "http:\/\/www.freshblurbs.com\/blog\/2015\/12\/12\/http-cache-restful-apis.html",
+		"domain": "www.freshblurbs.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-freshblurbs-comblog20151212http-cache-restful-apis-html.png"
+	},
+	{
+		"curated_id": "PxzHtDc5m1gJfvV4drVrGrchTaRQo7gyo48VrB1nLtUeCiUo8rmQY1S43tC6UG5VYuS7vlNpeKKKFkFjyWElkA117117",
+		"title": "Presentation: Design-first APIs in Practice",
+		"url": "http:\/\/www.infoq.com\/presentations\/api-design-first",
+		"domain": "www.infoq.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-infoq-compresentationsapi-design-first.png"
+	},
+	{
+		"curated_id": "ExFNepR3DlBUGCcnNCkYbe3ksj8028w123BxYvX8SAg5camQCfZwq116kLEssHW6sFISZD6q3zOCzS116UTJbqJzTMPw117117",
+		"title": "A Fun Way To Explore HTTP Status Codes With A Subway Map From Restlet",
+		"url": "https:\/\/dzone.com\/articles\/a-fun-way-to-explore-http-status-codes-with-a-subw",
+		"domain": "dzone.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/dzone-comarticlesa-fun-way-to-explore-http-status-codes-with-a-subw.png"
+	},
+	{
+		"curated_id": "HX6123bBfn1161HNRMIDr4AEt1eCnXVNzttFPhkFdN1ORHuNfn8KEdwMKWoFluh2rpF123UbAGePsHymO0pCrTl04mxw117117",
+		"title": "Designing Evolvable APIs for the Web: Formats",
+		"url": "http:\/\/nordicapis.com\/designing-evolvable-apis-for-the-web-formats\/",
+		"domain": "nordicapis.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/nordicapis-comdesigning-evolvable-apis-for-the-web-formats.png"
+	},
+	{
+		"curated_id": "6NDWmi116Dpajq0yN4x116Twq0FQc0Oy6y6OS116frTXod4C7yZXChJCmNw6ohxO8OhBaqLLhU5UIdffCNpR116123Banwbw117117",
+		"title": "Understanding HTTP content negotiation",
+		"url": "http:\/\/restlet.com\/blog\/2015\/12\/10\/understanding-http-content-negotiation\/",
+		"domain": "restlet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "0123b0phjnmdr9uS37EukxqTddrxrhRx2RW1165sMrqNE116QaryWFl4KKJghWULqWwgof3udriCwaRR1KSgLHWqWTnQ117117",
+		"title": "Adding A New Alpha Endpoint To Tell Me How Big My API Endpoints Are \u00b7",
+		"url": "http:\/\/alpha.apievangelist.com\/2015\/11\/27\/adding-a-new-alpha-endpoint-to-tell-me-how-big-my-api-endpoints-are\/",
+		"domain": "alpha.apievangelist.com",
+		"image": ""
+	},
+	{
+		"curated_id": "rv123bYMGpPI8tZDj1166h7aF3QAH1bmBTpUkiyxVmT9uYqzFs9bWlTwCjNFOZuU5au5LhxLp4cyocRMRhCMeWYjQQ117117",
+		"title": "Daniel Jacobson on Ephemeral APIs and Continuous Innovation at Netflix",
+		"url": "http:\/\/www.infoq.com\/news\/2015\/11\/daniel-jacobson-ephemeral-apis",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
+		"curated_id": "7Amdy5ZdRnSrKxFo3i7fgtNO6hLAJR583NH6WpAFG6iEgzI116oQ4djIF3MbzjXbZnqlIWh11tisht9CneHjWsKw117117",
+		"title": "Designing Evolvable APIs for the Web: Identification",
+		"url": "http:\/\/nordicapis.com\/designing-evolvable-apis-for-the-web-identification\/",
+		"domain": "nordicapis.com",
+		"image": ""
+	},
+	{
+		"curated_id": "OZpnbFT1163F4zCLYvsOGYUkUBJBLMoCMm9oVL5WgOg3S5hxmSRFbIZ3jrZHJ7dOe2cWmjxQ2Ws6WRkwXQJ116rbjQ117117",
+		"title": "API Design Using Behavior Driven Development",
+		"url": "http:\/\/blog.smartbear.com\/apis\/api-design-using-behavior-driven-development\/",
+		"domain": "blog.smartbear.com",
+		"image": ""
+	},
+	{
+		"curated_id": "CnLjMfKaXSPg2ohD6mjuZfGt8NQQPZ0cC3cdPpVeseooWawQK71QVpT0116KhdUhNMfd8PaD8NpeNQStNpxivGXA117117",
+		"title": "Architectural Styles for APIs: SOAP, REST and RPC",
+		"url": "http:\/\/api-university.com\/blog\/styles-for-apis-soap-rest-and-rpc\/",
+		"domain": "api-university.com",
+		"image": ""
+	},
+	{
+		"curated_id": "AOKBxVnTNmpbS116dT7zC0116YY7ZWkobOEzHUoEAgrupOZlxW4oi4bCPHIjJ1123ouEggVcbR5mvS1Hp123DdMHThJrlw117117",
+		"title": "There Is A Big Opportunity Right Now When It Comes To API Design Tooling",
+		"url": "http:\/\/apievangelist.com\/2015\/09\/14\/there-is-a-big-opportunity-right-now-when-it-comes-to-api-design-tooling",
+		"domain": "apievangelist.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apievangelist-com20150914there-is-a-big-opportunity-right-now-when-it-comes-to-api-design-tooling.png"
+	},
+	{
+		"curated_id": "Ms3Pt068sia9Tnpe5SIB942hfNOh9HjemPb116Ib7Ga5isc116M30aDISc1l6r3oq0nZ9IrHjKw116123X6mJp116raavJ0w117117",
+		"title": "REST in AEM by Roy Fielding",
+		"url": "http:\/\/www.slideshare.net\/AEMHub2014\/rest-in-aem-by-roy-fielding",
+		"domain": "www.slideshare.net",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-slideshare-netaemhub2014rest-in-aem-by-roy-fielding.png"
+	},
+	{
+		"curated_id": "r2GWtL9LpCg1BjFpGs3UplUio6cJygi36hwohTPkKoydy84KPqKDogf8GTuowhJHtACcpgII6QQZ4eYdE61169nA117117",
+		"title": "A Quick Example Of An API Provider Putting Content Type Negotiation To Work",
+		"url": "http:\/\/apievangelist.com\/2015\/08\/31\/a-quick-example-of-an-api-provider-putting-content-type-negotiation-to-work\/",
+		"domain": "apievangelist.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apievangelist-com20150831a-quick-example-of-an-api-provider-putting-content-type-negotiation-to-work.png"
+	},
+	{
+		"curated_id": "PKOaXLD6RxrKfE36ft0H7lPHTmwKDQKDId2nBXkCs7a3lSTij5XeT0AZauCIKFGQsMDA6l8OCaX9L29V219xpA117117",
+		"title": "DTO engages with developers for API design mandate",
+		"url": "http:\/\/www.technologydecisions.com.au\/content\/gov-tech-review\/article\/dto-engages-with-developers-for-api-design-mandate-1048757537",
+		"domain": "www.technologydecisions.com.au",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-technologydecisions-com-aucontentgov-tech-reviewarticledto-engages-with-developers-for-api-design-mandate-1048757537.png"
+	},
+	{
+		"curated_id": "JNQlfs3twuNaFpn9tNrZkt116LNpHydBIBpDKKRW2GtAYQS5eE1SASyTN5OUKNxtoCm116avPCItPqxKPjrREJkjtg117117",
+		"title": "We Need an Open Abstraction Layer to Help Us Better Define and Design Our APIs",
+		"url": "http:\/\/apievangelist.com\/2015\/08\/28\/we-need-an-open-abstraction-layer-to-help-us-better-define-and-design-our-apis\/",
+		"domain": "apievangelist.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apievangelist-com20150828we-need-an-open-abstraction-layer-to-help-us-better-define-and-design-our-apis.png"
+	},
+	{
+		"curated_id": "UIMyu123ZaQWwyBLEGc7sab8pI6bQpN5HjoBf5ewR10kAetxjHlwaebM7DJdXvL1schzE5VGGQTuhLEC1m06peCQ117117",
+		"title": "Crafting and Publishing API Design Guide Shows That You Are Further Along In Your API Journey",
+		"url": "http:\/\/apievangelist.com\/2015\/08\/28\/crafting-and-publishing-api-design-guide-shows-that-you-are-further-along-in-your-api-journey\/",
+		"domain": "apievangelist.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apievangelist-com20150828crafting-and-publishing-api-design-guide-shows-that-you-are-further-along-in-your-api-journey.png"
+	},
+	{
+		"curated_id": "vbL116MWxiIqNO2cNu3rb2icisKgDyrLSV4p3japu9123Mq7V2I39MQ9FGjALU19qfU4uFC123bZK123US3ObBdwyCRsoA117117",
+		"title": "The API Design Guide Is Just The Beginning Of The Journey - Better Get Started!",
+		"url": "http:\/\/apievangelist.com\/2015\/08\/28\/the-api-design-guide-is-just-the-beginning-of-the-journey--better-get-started\/",
+		"domain": "apievangelist.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apievangelist-com20150828the-api-design-guide-is-just-the-beginning-of-the-journey--better-get-started.png"
+	},
+	{
+		"curated_id": "ScIgWaCVQBTKOdWjtIEo7saAylMdYlAAmEQwTEtbWoTgtdctLeqRVdzFwdahswjD3XJbFeYPUAm73c3Loijk5g117117",
+		"title": "Resources, Not Data",
+		"url": "http:\/\/www.windley.com\/\/archives\/2015\/08\/resources_not_data.shtml",
+		"domain": "www.windley.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-windley-comarchives201508resources_not_data-shtml.png"
+	},
+	{
+		"curated_id": "WVkkZkEJ6qp116y6m0x3rfWtid1232Dhcj96cumrndnkGmEyqDRTffUtK123PPv8eG3MxcaLXl116UcWvDxRBei6ZEE4Vg117117",
+		"title": "A Common, Open Source API Design Editor Is Needed For API Service Providers",
+		"url": "http:\/\/apievangelist.com\/2015\/08\/13\/a-common-open-source-api-design-editor-is-needed-for-api-service-providers\/",
+		"domain": "apievangelist.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apievangelist-com20150813a-common-open-source-api-design-editor-is-needed-for-api-service-providers.png"
+	},
+	{
+		"curated_id": "W7tq9Kxj240esZ2cAEYOghtZcNMT73iRj0A116m9IoXxzPeL123mZNKmnnWCuUC111ztcCJpfwp3KrJe1OLQIqX01Q117117",
+		"title": "HTTP Status Codes \u2014 httpstatus.es",
+		"url": "http:\/\/httpstatus.es\/",
+		"domain": "httpstatus.es",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/httpstatus-es.png"
+	},
+	{
+		"curated_id": "JFavSARdPJzo36zyTKWhBiyharyKrDi3Gh7msT0fnDKbVytcFNVi5I9aNSRV7M886uiAYVojMZKr7drZ116wz0OA117117",
+		"title": "How To Design Great APIs With API-First Design and RAML",
+		"url": "http:\/\/www.programmableweb.com\/news\/how-to-design-great-apis-api-first-design-and-raml\/how-to\/2015\/07\/10",
+		"domain": "www.programmableweb.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-programmableweb-comnewshow-to-design-great-apis-api-first-design-and-ramlhow-to20150710.png"
+	},
+	{
+		"curated_id": "FLuOmHFItm2UmrmtYc123xAFPdI7dci0116BtF7symScgP59O5SvT2Gxmt2BckLWf116JbFY2ozIjMiK3RFXw7bmvoWQ117117",
+		"title": "My API Design Research Distilled Down As Single PDF Guide",
+		"url": "http:\/\/apievangelist.com\/2015\/07\/08\/my-api-design-research-distilled-down-as-single-pdf-guide\/",
+		"domain": "apievangelist.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apievangelist-com20150708my-api-design-research-distilled-down-as-single-pdf-guide.png"
+	},
+	{
+		"curated_id": "jb6SYacs3WULnkJa4vVm5ayGW6VYawwte116biwcZ9SpjGUuHRfo2UD1rw5zV2fYIc988D9ihNVNhpjBuL1236LmKg117117",
+		"title": "My API Design Research Distilled Down As Single PDF Guide",
+		"url": "http:\/\/apievangelist.com\/2015\/07\/08\/my-api-design-research-distilled-down-as-single-pdf-guide\/",
+		"domain": "apievangelist.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apievangelist-com20150708my-api-design-research-distilled-down-as-single-pdf-guide.png"
+	},
+	{
+		"curated_id": "BGgeXEtFo2XkqhmxZKGwDgA7RyoSdoqhEBYpH2gsDwsErkbjzhljwNIBVAOgSBoADmiRxfznv3txNw1ipSvYRg117117",
+		"title": "Now in Production: DELETE page",
+		"url": "http:\/\/blogs.msdn.com\/b\/onenotedev\/archive\/2015\/07\/08\/now-in-production-delete-page.aspx",
+		"domain": "blogs.msdn.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blogs-msdn-combonenotedevarchive20150708now-in-production-delete-page-aspx.png"
+	},
+	{
+		"curated_id": "K0MUJitHNkxNFTR9GF2RxVuRYBpdBuwZwOp61C5lODnhIVKzPKcaLCvJzdYWRpruBjob1P27zflK3gj7uocSVw117117",
+		"title": "The API Design Tooling I Have Included In My Research",
+		"url": "http:\/\/apievangelist.com\/2015\/06\/30\/the-api-design-tooling-i-have-included-in-my-research\/",
+		"domain": "apievangelist.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apievangelist-com20150630the-api-design-tooling-i-have-included-in-my-research.png"
+	},
+	{
+		"curated_id": "yU6uZuemPLgmYnXzfb123vDIiVb4vXyQBbdsqOS123lA6Qa4FRoOyzyDuKjOorHF7CDlMOqqUdLB4z6R1ntArRiYFQ117117",
+		"title": "The API Design Tooling I Have Included In My Research",
+		"url": "http:\/\/apievangelist.com\/2015\/06\/30\/the-api-design-tooling-i-have-included-in-my-research\/",
+		"domain": "apievangelist.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apievangelist-com20150630the-api-design-tooling-i-have-included-in-my-research.png"
+	},
+	{
+		"curated_id": "WedC123gJbVRxcVR5FuD8q7123Yk116o9116116HS12xXrrtIyDZxZuZsaa58VJDuaUcXXCBRx1SFIuz2123QzLeZoiTp116Ie2g117117",
+		"title": "Why It\u2019s OK To Design Imperfect APIs",
+		"url": "http:\/\/www.programmableweb.com\/news\/why-it%E2%80%99s-ok-to-design-imperfect-apis\/analysis\/2015\/06\/30",
+		"domain": "www.programmableweb.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-programmableweb-comnewswhy-it%e2%80%99s-ok-to-design-imperfect-apisanalysis20150630.png"
+	},
+	{
+		"curated_id": "GtToYCl83GqPeDTeu9CxlochQL5ZdZhjuN7n1noEnUcLl1Vg123ZZEaT7116k95123116UgOpQrjRmDKwDp8z123noC5XnYQ117117",
+		"title": "API Design Considerations for The Internet of Things",
+		"url": "http:\/\/www.programmableweb.com\/news\/api-design-considerations-internet-things\/analysis\/2015\/06\/30",
+		"domain": "www.programmableweb.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-programmableweb-comnewsapi-design-considerations-internet-thingsanalysis20150630.png"
+	},
+	{
+		"curated_id": "n7z123M6y116buVRfY8Wr4kz5OdnR123wqB2116t38ShIcn4123vI0XQysXA0yDLl17WibuFfmRMhAvqCtCoEPjA0aw7cjDA117117",
+		"title": "Tightening Up The Organizations That Are Included In My API Design Research",
+		"url": "http:\/\/apievangelist.com\/2015\/06\/30\/tightening-up-the-organizations-that-are-included-in-my-api-design-research",
+		"domain": "apievangelist.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apievangelist-com20150630tightening-up-the-organizations-that-are-included-in-my-api-design-research.png"
+	},
+	{
+		"curated_id": "x2I1dVFzasIE66oQkGzt2oWdL5123nDjJRl3aL1Aywat4l123s3bJlY1Sb4uWhg18CaoQsAENCMitAKQui11655123ks9g117117",
+		"title": "Breaking Down Publication References With The Global Change Information System API",
+		"url": "http:\/\/apievangelist.com\/2015\/06\/23\/breaking-down-publication-references-with-the-global-change-information-system-api\/",
+		"domain": "apievangelist.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apievangelist-com20150623breaking-down-publication-references-with-the-global-change-information-system-api.png"
+	},
+	{
+		"curated_id": "DshiUEey7ptsMLb3DCi4123rDx6zzGLUYurwHIHcuu123pt7dgmnRahFexknkT116kcIhV1jSsa80awQS84qJssk116123RA117117",
+		"title": "Lessons learnt from shipping APIs for Microsoft's cloud platform",
+		"url": "http:\/\/sriramk.com\/cloud-api-lessons.html",
+		"domain": "sriramk.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/sriramk-comcloud-api-lessons-html.png"
+	},
+	{
+		"curated_id": "AeD3uAraU0YAPRX1OH60IUZx49qxXv116RIshJC123VV2OB6JA1wOJLDLlSVVJVdzaCUcitQmF4RkYUvWCcDvkqE9w117117",
+		"title": "Decoupling the Mind of the API Designer",
+		"url": "https:\/\/blog.apiary.io\/2015\/06\/09\/Decoupling-the-Mind-of-the-API-Designer",
+		"domain": "blog.apiary.io",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blog-apiary-io20150609decoupling-the-mind-of-the-api-designer.png"
+	},
+	{
+		"curated_id": "5azTlTxEddG1NdM67O4hf4bWMlI4p1LT7TIFCd5fx1o3wocGE91234qlXj116jvCL9xrNVtm7sHJ116L2apzcs9MqEsg117117",
+		"title": "Decoupling the Mind of the API Designer",
+		"url": "http:\/\/blog.apiary.io\/2015\/06\/09\/Decoupling-the-Mind-of-the-API-Designer\/",
+		"domain": "blog.apiary.io",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blog-apiary-io20150609decoupling-the-mind-of-the-api-designer.png"
+	},
+	{
+		"curated_id": "ypq6bvObbd1EXYk2LKlcbY7aELqbJ0QEalG116kVLBzFGmXOveKZ2TvX116qCOD116rPkEiIwQS6HKp8MXsc416kQ1Qg117117",
+		"title": "Splitting My Blog API Into Two Separate APIs For News And Analysis",
+		"url": "http:\/\/apievangelist.com\/2015\/06\/10\/splitting-my-blog-api-into-two-separate-apis-for-news-and-analysis\/",
+		"domain": "apievangelist.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apievangelist-com20150610splitting-my-blog-api-into-two-separate-apis-for-news-and-analysis.png"
+	},
+	{
+		"curated_id": "FhZHn116adhchnsPtQIuXeBl0b116izeEslNUfdIvb5E66E5123vocWa06ruspJwoLtStGPsWj8AkS0XPZa8mRQdsoGg117117",
+		"title": "A Tale of Four API Designs: Dissecting Common API Architectures",
+		"url": "http:\/\/nordicapis.com\/a-tale-of-four-api-designs-dissecting-common-api-architectures\/",
+		"domain": "nordicapis.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/nordicapis-coma-tale-of-four-api-designs-dissecting-common-api-architectures.png"
+	},
+	{
+		"curated_id": "HvS1163ZJxzeN4jT116OI16rUY5oxnFSszzldtM2TYwhWOy8xmsYWhEAipzPTEbCOcUnBKzhuZSnJZwqx337o5ADnA117117",
+		"title": "Using API Definitions To Help API Providers With Their API Design Roadmap",
+		"url": "http:\/\/apievangelist.com\/2015\/06\/10\/using-api-definitions-to-help-api-providers-with-their-api-design-roadmap",
+		"domain": "apievangelist.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apievangelist-com20150610using-api-definitions-to-help-api-providers-with-their-api-design-roadmap.png"
+	},
+	{
+		"curated_id": "LX8fmCL5aAABapgd8qwQyeJdgYwRJA1230M831161n116edLZevYP1nP90Z123hdXngTaTLzkFPQRVY5QWm3K8p116hKt32A117117",
+		"title": "New JSON API Specification Aims to Speed API Development",
+		"url": "http:\/\/www.programmableweb.com\/news\/new-json-api-specification-aims-to-speed-api-development\/2015\/06\/10",
+		"domain": "www.programmableweb.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-programmableweb-comnewsnew-json-api-specification-aims-to-speed-api-development20150610.png"
+	},
+	{
+		"curated_id": "yys0JrQG4GKZQYqRVGPCE7FBtxQeMrffOGJs2xUHIKaUcHOxHdb3Fhv1123oOB14PLPIUEwG7y82ETldawQ5uYKQ117117",
+		"title": "How to build APIs efficiently?",
+		"url": "http:\/\/api-university.com\/blog\/how-to-build-apis\/",
+		"domain": "api-university.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/api-university-combloghow-to-build-apis.png"
+	},
+	{
+		"curated_id": "nagr6Yenj9lA6123SPnQHPzUnOgkfV7UZicfbzxSPFTj66lyIkRfB15O698DE7apBh6O72NoCSP5j9VInK4ey8123A117117",
+		"title": "Article: The Power of RAML",
+		"url": "http:\/\/www.infoq.com\/articles\/power-of-raml",
+		"domain": "www.infoq.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-infoq-comarticlespower-of-raml.png"
+	},
+	{
+		"curated_id": "9SrBNQiYw9IQLh4zPSgEOtrthq3pG116r7z7WuamyXkcDdtZFZ9PP90s8CJluutkBZPTpKCfY116JDGxGUpuzcee9A117117",
+		"title": "Integrations are Hard Part II: API Resources, Search and Pagination",
+		"url": "http:\/\/cloud-elements.com\/integrations-hard-part-ii-api-resources-search-pagination\/",
+		"domain": "cloud-elements.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/cloud-elements-comintegrations-hard-part-ii-api-resources-search-pagination.png"
+	},
+	{
+		"curated_id": "GJRNrJdsAI4jxd5D41xo123No27xfvP4X09DnCXz4pPSuat2Js116JfYQnCW0xlMVClXmvy27wXpMeX0mw34VWPOGQ117117",
+		"title": "Top 5 Development Tips for a Killer API",
+		"url": "http:\/\/nordicapis.com\/top-5-development-tips-for-a-killer-api\/",
+		"domain": "nordicapis.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/nordicapis-comtop-5-development-tips-for-a-killer-api.png"
+	},
+	{
+		"curated_id": "5VwPDKWUk55NFAl8rRjvprraPmuMgFE9riI4Pas3bvUKoIoR8bAKiiMfXOU2lp5MFtIYePrhgOvvDdkuN9Sodg117117",
+		"title": "Why Not To Overlook API Planning And What To Do About It",
+		"url": "http:\/\/www.programmableweb.com\/news\/why-not-to-overlook-api-planning-and-what-to-do-about-it\/analysis\/2015\/06\/04",
+		"domain": "www.programmableweb.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-programmableweb-comnewswhy-not-to-overlook-api-planning-and-what-to-do-about-itanalysis20150604.png"
+	},
+	{
+		"curated_id": "05KJQ1WD9epxSr7O58AbBgBU62JBjCls8116PIAtr2BSV5cMxSq123og116V75fmYty3XXo1Dkjvgqb648116W123I4dIs9Q117117",
+		"title": "Visions Of My Perfect API Design Editor Using Electron",
+		"url": "http:\/\/apievangelist.com\/2015\/06\/04\/visions-of-my-perfect-api-design-editor-using-electron",
+		"domain": "apievangelist.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apievangelist-com20150604visions-of-my-perfect-api-design-editor-using-electron.png"
+	},
+	{
+		"curated_id": "RTNbNyGJWwCyFj2f7GorQDNED1prEUt93B1WcPLWTB0AN7CZGmoIbzbtRo5CAXzY646CO3R5Mi2Kl116bBolR4lg117117",
+		"title": "The Role of the API Designer",
+		"url": "https:\/\/blog.apiary.io\/2015\/05\/03\/The-Role-of-the-API-Designer",
+		"domain": "blog.apiary.io",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blog-apiary-io20150503the-role-of-the-api-designer.png"
+	},
+	{
+		"curated_id": "kYD3kqdICZbpdTFMP12382pp8PbOp28jplkbSqJJFwN123PF3TH1XBlj7d9wyVOTSGrPpynVQPqKYV1123OGlKlTFxIA117117",
+		"title": "Restlet and SmartBear Partner to Deliver Restlet Studio Plugin for Ready! API",
+		"url": "http:\/\/restlet.com\/blog\/2015\/05\/20\/restlet-and-smartbear-partner-to-deliver-restlet-studio-plugin-for-ready-api\/",
+		"domain": "restlet.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/restlet-comblog20150520restlet-and-smartbear-partner-to-deliver-restlet-studio-plugin-for-ready-api.png"
+	},
+	{
+		"curated_id": "0RlbclclakYqrpBkU1116CCDN6IbxoulxNCGvTLxNE8P1qJSRIwHMIPiIH0diua4OP116MJnWyKkQf6zf0116jZiWhYw117117",
+		"title": "Apigee API Studio: Designing, Testing and Sharing APIs",
+		"url": "http:\/\/www.infoq.com\/news\/2015\/05\/apigee-api-studio",
+		"domain": "www.infoq.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-infoq-comnews201505apigee-api-studio.png"
+	},
+	{
+		"curated_id": "yyyQ2sx4byR5DrIIg8JCp5MyS2QoGlHKlcHtj4SxukmFvt28umPU9Hi7123aXpTqQc4ev12zNus9ayFlqCNhgKbA117117",
+		"title": "Article: From Doodles to Delivery : An API Design Process",
+		"url": "http:\/\/www.infoq.com\/articles\/doodles-to-delivery",
+		"domain": "www.infoq.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-infoq-comarticlesdoodles-to-delivery.png"
+	},
+	{
+		"curated_id": "E9EtiV1169XNQe1kCC82mNbfy9COKD123Hg4UYKSOPgAE9guxhW7riNevMV0j123O796ixpYtcqn9YorIQIqEpe116h8FQ117117",
+		"title": "RESTful API Design Part III: Error Handling",
+		"url": "http:\/\/blog.cloud-elements.com\/error-handling-restful-api-design-part-iii",
+		"domain": "blog.cloud-elements.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/cloud-elements-comrestful-api-design-part-iii-error-handling.png"
+	},
+	{
+		"curated_id": "Bs2hh71239NRJJ123123IBB9wcK7NZJZjhEIz1Hea67EEI0KB35123j28NaT08jBbSGxsarnQW116DhQ721164116Pm7tF2Ipn5Q117117",
+		"title": "7 Important API Design Lessons",
+		"url": "http:\/\/nordicapis.com\/7-api-design-lessons-world-tour-roundup\/",
+		"domain": "nordicapis.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/nordicapis-com7-api-design-lessons-world-tour-roundup.png"
+	},
+	{
+		"curated_id": "aSdL9MjYhohCUm22j7gioM123xw9NVf5j952Lu80Elw32J8wGj8ePV24T2zSEQAvUYliq1qZuYPHNl9CPl8nbNjQ117117",
+		"title": "Apigee adds some Swagger to API design",
+		"url": "http:\/\/www.pcadvisor.co.uk\/news\/software\/apigee-adds-some-swagger-to-api-design-3612750\/",
+		"domain": "www.pcadvisor.co.uk",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-pcadvisor-co-uknewssoftware3612750apigee-adds-some-swagger-to-api-design.png"
+	},
+	{
+		"curated_id": "jMNBjCjLCTNyFeRm3B2QGdakyk93FE9XgsGN7pyj3ckGdYQeIsnnC1166NymTMNOnx2usZX1zpzL116oVkyQfm4dvg117117",
+		"title": "Versioning APIs",
+		"url": "http:\/\/blog.clearbit.com\/versioning-apis",
+		"domain": "blog.clearbit.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blog-clearbit-comversioning-apis.png"
+	},
+	{
+		"curated_id": "EURjanCKhp116CEZdmkuLDPpH7BFGQc116123fWLXL2G32W116123YDRAn5zD123SM7tjyeG17VmqKAbCC90xxk74CEtOWoyLA117117",
+		"title": "Guest Post: Why The API Pattern Is Broken And How We Can Fix It",
+		"url": "http:\/\/apievangelist.com\/2015\/05\/05\/guest-post-why-the-api-pattern-is-broken-and-how-we-can-fix-it\/",
+		"domain": "apievangelist.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apievangelist-com20150505guest-post-why-the-api-pattern-is-broken-and-how-we-can-fix-it.png"
+	},
+	{
+		"curated_id": "YVvAgfB5ifkoqU20EVcjEWbeDKj0KgNwMN0vOnalR5hVDinEn123xT116maTvkybDLbtZdv7UJj6ipzSR63HgxW123123g117117",
+		"title": "A Guide to REST and API Design",
+		"url": "http:\/\/transform.ca.com\/REST-API-Design-Guide.html",
+		"domain": "transform.ca.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/transform-ca-comrest-api-design-guide-html.png"
+	},
+	{
+		"curated_id": "4cYumjRH123XJPQe7hmIq18ioC5kd8hcfD116gmm116CfbgVFv123ldJTPfLeW09ekrks8QGhd6bqk7J0qGv7rIvZN70rw117117",
+		"title": "Do you really know why you prefer REST over RPC?",
+		"url": "http:\/\/apihandyman.io\/do-you-really-know-why-you-prefer-rest-over-rpc\/",
+		"domain": "apihandyman.io",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apihandyman-iodo-you-really-know-why-you-prefer-rest-over-rpc.png"
+	},
+	{
+		"curated_id": "rd9nWuoEnhIKHQVglT2Gc1bi0HzKIxA6dqL116jyZuoJOTuAzpbWFZsAIphuKeCKCedsGTrlGdESRXrCSdhORNYg117117",
+		"title": "Nearly all web APIs get paging wrong",
+		"url": "http:\/\/vermorel.com\/journal\/2015\/5\/8\/nearly-all-web-apis-get-paging-wrong.html",
+		"domain": "vermorel.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/vermorel-comjournal201558nearly-all-web-apis-get-paging-wrong-html.png"
+	},
+	{
+		"curated_id": "FY582bjSo5OtnLvXQS8s5FZlvujWTFrqxsY1NMLS7116ARf8rYeNOlPXhi9yKsocCUmfhi4GpGtYg1WZqfpTDfbw117117",
+		"title": "Understand about DELETE Verb in Web API RESTful Services using Data from Both Request Body As Well As URI",
+		"url": "http:\/\/www.codeproject.com\/Tips\/986510\/Understand-about-DELETE-Verb-in-Web-API-RESTful-Se",
+		"domain": "www.codeproject.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-codeproject-comtips986510understand-about-delete-verb-in-web-api-restful-se.png"
+	},
+	{
+		"curated_id": "WRytBnqKOk116Xg4u4ThlMWo2Mn7f4bVL2kULNcjLxtOuPp116HkGVGR3si5WCiBPI7cn4PfDLC5c441LmjgyQd25w117117",
+		"title": "REST API design tips",
+		"url": "https:\/\/kwtrnka.wordpress.com\/2015\/04\/20\/rest-api-design-tips\/",
+		"domain": "kwtrnka.wordpress.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/kwtrnka-wordpress-com20150420rest-api-design-tips.png"
+	},
+	{
+		"curated_id": "rXLdisx4vMo641V3116DJL2jFzQc62H9zqAQEDwUlMv4ZfdDCPp5xUYJ5dd5rDCrUFapaW34FabGxpLTDMC5tV5g117117",
+		"title": "HTTP Verbs Demystified: PATCH, PUT and POST",
+		"url": "http:\/\/cloud-elements.com\/http-verbs-demystified-patch-put-and-post\/",
+		"domain": "cloud-elements.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/cloud-elements-comhttp-verbs-demystified-patch-put-and-post.png"
+	},
+	{
+		"curated_id": "123K4sLNI8Iq3J57G4P3qvRyS8luo116gzQGkQuop6gF6DB116123GidYE0116gbQ123UoPh9ftTYFXZYcgO0PkmTkQajR7KwQ117117",
+		"title": "The data, the hypermedia and the documentation",
+		"url": "http:\/\/apihandyman.io\/the-data-the-hypermedia-and-the-documentation\/",
+		"domain": "apihandyman.io",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apihandyman-iothe-data-the-hypermedia-and-the-documentation.png"
+	},
+	{
+		"curated_id": "uzQKS9j4CWxC0jw46L6D86z4wgTClCjCKDm8gRg123dYDDFNg3Yg6123VB7A123cq8dHIOG1jlrhLChoL0vnD401L62w117117",
+		"title": "Api Design Anti-Patterns",
+		"url": "http:\/\/www.slideshare.net\/JasonHarmon1\/api-design-antipatterns",
+		"domain": "www.slideshare.net",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-slideshare-netjasonharmon1api-design-antipatterns.png"
+	},
+	{
+		"curated_id": "ZdkU4NwtEn9tv0Pxxb7Y8agWWq8p4yIumyy4imay7T0faHfbH6F8nwuxkeCwsVvIZeNQURuK2Wm7d0E8UpnGcg117117",
+		"title": "Introduction to Apiary: Overview of Apiary and How to Create APIs",
+		"url": "http:\/\/www.developer.com\/design\/introduction-to-apiary-overview-of-apiary-and-how-to-create-apis.html",
+		"domain": "www.developer.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-developer-comdesignintroduction-to-apiary-overview-of-apiary-and-how-to-create-apis-html.png"
+	},
+	{
+		"curated_id": "o2dtUGBAyxBzRaBWBH1yPdBpkCy6Et116VMFEHfLDhlBFV0bk1zMqVnbpLEEL2m1Nxz88Kd116HvjRA116yKT2TwFvrA117117",
+		"title": "API: Part of the Creative Palette",
+		"url": "http:\/\/nordicapis.com\/apis-part-of-the-creative-palette\/",
+		"domain": "nordicapis.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/nordicapis-comapis-part-of-the-creative-palette.png"
+	},
+	{
+		"curated_id": "gEVAgDovU81WXMSGMX2ZsHbD4nSnYpLHtpnNl51239Hi0oJDydUY37Ii4L0JRS3qxZTo689Hflaf6clIpltlMkcA117117",
+		"title": "Bizcoder - Solving Dropbox's URL Problems",
+		"url": "http:\/\/www.bizcoder.com\/solving-dropbox-s-url-problems",
+		"domain": "www.bizcoder.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-bizcoder-comsolving-dropbox-s-url-problems.png"
+	},
+	{
+		"curated_id": "wlXSFiShbdwrtcv1DNxs116OL116SsrJh1PSkX71ykyJrnJZqrPHFriFr3BStlCi6HxH9eeSxmDJe52sma2vPmZgQQ117117",
+		"title": "Solving Dropbox's URL Problems",
+		"url": "http:\/\/www.bizcoder.com:80\/solving-dropbox-s-url-problems",
+		"domain": "www.bizcoder.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-bizcoder-com:80solving-dropbox-s-url-problems.png"
+	},
+	{
+		"curated_id": "EuE5mOS7NyO6nYo3OVo8dII5H7X123CcWGRRqRP6cjyAbL4K26UK123bomAMYhsbx6zQDoWodj29NCz1168xR1167qQ116hA117117",
+		"title": "418: I\u2019m a teapot, and other bad API responses",
+		"url": "http:\/\/cloud-elements.com\/418-im-a-teapot-and-other-bad-api-responses-restful-api-design\/",
+		"domain": "cloud-elements.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/cloud-elements-com418-im-a-teapot-and-other-bad-api-responses-restful-api-design.png"
+	},
+	{
+		"curated_id": "ffORnFfOSjvjHO3YlmIaSkjP9LxwljppL0kwnMO70SvUO116QOhlbW6LzcJF2bcdwTjSF0Av1239qBIasNoGu3C59g117117",
+		"title": "Building Reusable REST API Services (Part 3 of 4)",
+		"url": "http:\/\/blog.dreamfactory.com\/building-reusable-rest-api-services-part-3-of-4",
+		"domain": "blog.dreamfactory.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blog-dreamfactory-combuilding-reusable-rest-api-services-part-3-of-4.png"
+	},
+	{
+		"curated_id": "Dr1hw1rslo116khwnZp8ji0ekdQPZcY6Qs2123g116CiXMgmYiNklGzt116H5Dus9foB1238MckwR5FH6ihgJM31oqT123IlrQ117117",
+		"title": "JSON API Spec Goes Through The Hacker News Gauntlet",
+		"url": "http:\/\/www.programmableweb.com\/news\/json-api-spec-goes-through-hacker-news-gauntlet\/2015\/04\/06",
+		"domain": "www.programmableweb.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-programmableweb-comnewsjson-api-spec-goes-through-hacker-news-gauntlet20150406.png"
+	},
+	{
+		"curated_id": "iYSnHrfZXrA0pDgII3pa8d21169123EUSY0epukOgm1Fdns99WHVlUGhlYCTR11233XxRtfPcafz123IVYNvvBJLI1169116EQ117117",
+		"title": "In a REST world, there\u2019s room for non-REST APIs",
+		"url": "http:\/\/www.programmableweb.com\/news\/rest-world-there%E2%80%99s-room-non-rest-apis\/analysis\/2015\/04\/07",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "jDUonx123In6H7Y1169LPLlVkjcCb2BbcqHKmhFLzU05L69InkCZKIg0ru7o862116MCa6nxLzzIBE8Cvwzd123m2AgP9Q117117",
+		"title": "How to Decide How Many HTTP Status Codes Your API Needs",
+		"url": "http:\/\/www.programmableweb.com\/news\/how-to-decide-how-many-http-status-codes-your-api-needs\/elsewhere-web\/2015\/04\/02",
+		"domain": "www.programmableweb.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-programmableweb-comnewshow-to-decide-how-many-http-status-codes-your-api-needselsewhere-web20150402.png"
+	},
+	{
+		"curated_id": "xh0xDU123116zqUVMS8W2iHPJbpGBEAIvLmffj6RBHdS5TdtJJ8lsaqSgptZMg9K7pYm8i116z1163DWCj6sd123CP9UABSA117117",
+		"title": "Bizcoder - API Design Notes: Smart Paging",
+		"url": "http:\/\/www.bizcoder.com\/api-design-notes-smart-paging",
+		"domain": "www.bizcoder.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-bizcoder-comapi-design-notes-smart-paging.png"
+	},
+	{
+		"curated_id": "ABlgw78gjZIcqQ5udNe123wznr8klOI5jy5we62hlK3ZqNFozy4nAJhU9Gg5ZjoUqYuq0RDo3HRER3p4wGV8txFw117117",
+		"title": "InfoQ eMag: Web APIs: From Start to Finish",
+		"url": "https:\/\/www.infoq.com\/minibooks\/emag-web-api",
+		"domain": "www.infoq.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-infoq-comminibooksemag-web-api.png"
+	},
+	{
+		"curated_id": "5tNBzENkQ3ULK5F0sjl1165AOEXU116ZO8mysPgcaESdRT4eQEFUoJal8iQfe9116ST3wgZ7gCIKFud1vka5GITZqx116Q117117",
+		"title": "eCommerce API Design \u2013 The Good, The Bad and The Etsy API",
+		"url": "http:\/\/cloud-elements.com\/ecommerce-api-design-the-etsy-api\/",
+		"domain": "cloud-elements.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/cloud-elements-comecommerce-api-design-the-etsy-api.png"
+	},
+	{
+		"curated_id": "nvd8RXkGBMq6eLkzr9kFYwQtgHyBz1163MQKT0tLZwhKG8hRzh0jNyC4iACXHxdkrLDBpGz5z2VegqmZJX8h8GuQ117117",
+		"title": "The ways of the API smartness",
+		"url": "http:\/\/apihandyman.io\/the-ways-of-the-api-smartness\/",
+		"domain": "apihandyman.io",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apihandyman-iothe-ways-of-the-api-smartness.png"
+	},
+	{
+		"curated_id": "758Hfpq10j0123R4khxu116116P9aoHpcmTQ8sxByQYmYJZrgAIjtqpaZ123hRKR0oKKEikWyzJKwkBSqY5Lv1232l4WWcRg117117",
+		"title": "APIs aren\u2019t apps: Make them as thin and light as possible",
+		"url": "http:\/\/www.infoworld.com\/article\/2899345\/apis\/apis-arent-apps-make-them-thin-and-light.html",
+		"domain": "www.infoworld.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-infoworld-comarticle2899345apisapis-arent-apps-make-them-thin-and-light-html.png"
+	},
+	{
+		"curated_id": "ynqkdkRENmQBa123zZ5IE8eLiR62c6pmFJ2YWeIUxdMNm298yjwpbNUFDfvCY53kd4puTKWeWnA96CiGOqxIu1tA117117",
+		"title": "HTML6 & APIs as Natural Friends",
+		"url": "http:\/\/blog.smartbear.com\/web-development\/html6-apis-as-natural-friends\/",
+		"domain": "blog.smartbear.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blog-smartbear-comnewshtml6-apis-as-natural-friends.png"
+	},
+	{
+		"curated_id": "MEH1ykAvmevhwN1ZfEBCBsoTueOTfd8OTMjf5UmgGYEdGl5Jk116KkTZUboNMdi71rWGPLc9XSyaypax8oN0rg116w117117",
+		"title": "I have my opinions on API design",
+		"url": "https:\/\/bryson3gps.wordpress.com\/2015\/03\/20\/i-have-strong-opinions-on-api-design\/",
+		"domain": "bryson3gps.wordpress.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/bryson3gps-wordpress-com20150320i-have-strong-opinions-on-api-design.png"
+	},
+	{
+		"curated_id": "oaScIuYJH95jMntmiUXlBzUhwBWPWLLdx7MEZk1wjiF89dehNdvKoLmD6RcQA9rcHJz116MXkvWkA116TIhjufe5fA117117",
+		"title": "20 API Design Tips to Stop Annoying Developers",
+		"url": "http:\/\/jergames.blogspot.com\/2015\/03\/20-api-design-tips-to-stop-annoying.html",
+		"domain": "jergames.blogspot.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/jergames-blogspot-com20150320-api-design-tips-to-stop-annoying-html.png"
+	},
+	{
+		"curated_id": "ZtWvBV116njuOGonZkEKF2123WS6XJ116LwEejVuG123T5dzTIKGdI6Vshli3F9BnKLX1IiL5l123onu1EqAtQGpegJLZwVQ117117",
+		"title": "The API Field of Dreams: Build It [Correctly] and They Will Come",
+		"url": "http:\/\/www.developer.com\/design\/the-api-field-of-dreams-build-it-correctly-and-they-will-come.html",
+		"domain": "www.developer.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-developer-comdesignthe-api-field-of-dreams-build-it-correctly-and-they-will-come-html.png"
+	},
+	{
+		"curated_id": "8N0vORPBzAphlJwelOIm1vZ92lcGcSyizjQMWUYVuSJooR9KAelEcO6VfzvU2H7zYM0qOxbs916AceItWLCK116g117117",
+		"title": "Designing a Web API",
+		"url": "http:\/\/restlet.com\/blog\/2015\/03\/16\/designing-a-web-api\/",
+		"domain": "restlet.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/restlet-comblog20150316designing-a-web-api.png"
+	},
+	{
+		"curated_id": "Av2FJeSKCad0VEgYgGkjP7i4DjkK1Vi5fLsEnE116x4Jxibz2rfvd4ejMC116RixcyQzOqGAgHnZnxo1zKaUrKn4116Q117117",
+		"title": "Why Your APIs Need Design Help",
+		"url": "http:\/\/www.digitalgov.gov\/2015\/03\/16\/why-your-apis-need-design-help\/",
+		"domain": "www.digitalgov.gov",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-digitalgov-gov20150316why-your-apis-need-design-help.png"
+	},
+	{
+		"curated_id": "6j116FABVPLTM1235eQedgKP6SUZz0q5jvj4LuUKF1238XeGvAS4mfQbeJ7ac4CFvv9x1lDdB9k4FrBDTuoO9ABePk3g117117",
+		"title": "10 Usability Lessons for APIs",
+		"url": "https:\/\/www.linkedin.com\/pulse\/10-usability-lessons-apis-frederik-willaert",
+		"domain": "www.linkedin.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-linkedin-compulse10-usability-lessons-apis-frederik-willaert.png"
+	},
+	{
+		"curated_id": "ievylumZCSmLT8bMOfL8QimGjx8HYIzAQxhZJgQuxdXnhHMrP6Al6ES2WUP7I2MW80HEDit8Xt2wRQRcGOCMSQ117117",
+		"title": "Augmenting A Read Only API With AN External POST, PUT, And DELETE",
+		"url": "http:\/\/apievangelist.com\/2015\/03\/11\/augmenting-a-read-only-api-with-an-external-post-put-and-delete\/",
+		"domain": "apievangelist.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apievangelist-com20150311augmenting-a-read-only-api-with-an-external-post-put-and-delete.png"
+	},
+	{
+		"curated_id": "gbfpHt0Jwf3HoWH356OoyJK6TNHO1236bulVYUI1X7fpmZ2tLVGLDEs18CyjQKjzjEixOmf9Y70V511681IKrUDOgg117117",
+		"title": "Targeting Some APIs In My Stack For House Cleaning And Maybe Some Design Iterations",
+		"url": "http:\/\/apievangelist.com\/2015\/03\/10\/targeting-some-apis-in-my-stack-for-house-cleaning-and-maybe-some-design-iterations\/",
+		"domain": "apievangelist.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apievangelist-com20150310targeting-some-apis-in-my-stack-for-house-cleaning-and-maybe-some-design-iterations.png"
+	},
+	{
+		"curated_id": "KifJPHJjge116hzyNwyAPGw6RcPJ28rB1232hRPvkVRxsVRiP3aBPqPIi9rDLULK9BozVBsy0HhANdyhMtGjTvc03w117117",
+		"title": "Facebook Applies Versioning Strategy to Marketing API",
+		"url": "http:\/\/www.programmableweb.com\/news\/facebook-applies-versioning-strategy-to-marketing-api\/2015\/03\/10",
+		"domain": "www.programmableweb.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-programmableweb-comnewsfacebook-applies-versioning-strategy-to-marketing-api20150310.png"
+	},
+	{
+		"curated_id": "P123Lr1g8NW7vIDkK8Uck2FMoLTvFqh1k7xXuaxSUhUnQuXhYWVETqA7Zky3Sj0TRxxsaddroCKTvzazOQjFSq6g117117",
+		"title": "Ideal REST API design | betim drenica's blog",
+		"url": "https:\/\/betimdrenica.wordpress.com\/2015\/03\/09\/ideal-rest-api-design\/",
+		"domain": "betimdrenica.wordpress.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/betimdrenica-wordpress-com20150309ideal-rest-api-design.png"
+	},
+	{
+		"curated_id": "8kPxNQDHPawjQvoE5VurmXDajybcmkuoVC123rmDhxkedCh4YSSKMtzxilrCMhFL7aKAA033I8jlkSIBJJJZrw7g117117",
+		"title": "We Need An Open Library Of The Most Common Utility API Implementations",
+		"url": "http:\/\/apievangelist.com\/2015\/03\/07\/we-need-an-open-library-of-the-most-common-utility-api-implementations\/",
+		"domain": "apievangelist.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apievangelist-com20150307we-need-an-open-library-of-the-most-common-utility-api-implementations.png"
+	},
+	{
+		"curated_id": "DkjqkGmoUElW1VB3a0zrWuLPEGn64SPBJLacD4du4XBNZun123gK1gVtFxROpFdOgr12395W4my1I4HgNUK116qB116c9Q117117",
+		"title": "Making Sure My API Roundup Stories Are Machine Readable By Designing Them As APIs.json Collections \u00b7",
+		"url": "http:\/\/apievangelist.com\/2015\/03\/04\/making-sure-my-api-roundup-stories-are-machine-readable-by-designing-them-as-apisjson-collections\/",
+		"domain": "apievangelist.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apievangelist-com20150304making-sure-my-api-roundup-stories-are-machine-readable-by-designing-them-as-apisjson-collections.png"
+	},
+	{
+		"curated_id": "nPPSlUd3ATGDOhS45IbSlt1165BiAQ123OSoVTjdJR9NPlQSE8930I0DO9x123oMTA3fa4HMRIe2q5lfdSdm0EccqQfA117117",
+		"title": "My API Design Research",
+		"url": "http:\/\/apievangelist.com\/2015\/03\/04\/my-api-design-research\/",
+		"domain": "apievangelist.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apievangelist-com20150304my-api-design-research.png"
+	},
+	{
+		"curated_id": "p8tPzwzIDnd123tqNr8eWRjAV3GVqJaEIBsL8SeFZkHWrLO87MfjTdo3P2vRbEynyMZXKLSfgmZWsnRLytkwgNdA117117",
+		"title": "Dropbox Sparks Controversy With API Design Decision",
+		"url": "http:\/\/www.programmableweb.com\/news\/dropbox-sparks-controversy-api-design-decision\/analysis\/2015\/03\/03",
+		"domain": "www.programmableweb.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-programmableweb-comnewsdropbox-sparks-controversy-api-design-decisionanalysis20150303.png"
+	},
+	{
+		"curated_id": "ciiCirJ0y123juVazdFyqfEBHKhUfJvNtsDbC3VRGXegZhbVLNmuNllYvag9YIbs11657xdhEbaj5iXf9jhIN6EA116A117117",
+		"title": "POST \/eff\/you\/this\/is\/the\/right\/url \u2013 RESTful API Design",
+		"url": "http:\/\/blog.cloud-elements.com\/post-effyouthisistherighturl-restful-api-design",
+		"domain": "blog.cloud-elements.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/cloud-elements-compost-effyouthisistherighturl-restful-api-design.png"
+	},
+	{
+		"curated_id": "NqEOF35123CWDlvXN6SqCYmB60Cxn9VyXJ3lHlwRZEhfXg116f2ODCuP1k42qMOhoaubBdhd93T1Wvz9b116XeO5vtGw117117",
+		"title": "Application-Level Profile Semantics (ALPS)",
+		"url": "https:\/\/tools.ietf.org\/html\/draft-amundsen-richardson-foster-alps-01",
+		"domain": "tools.ietf.org",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/tools-ietf-orghtmldraft-amundsen-richardson-foster-alps-01.png"
+	},
+	{
+		"curated_id": "KDiRminLH5fHoiRjAsudXDJpi16L63i6znc116Vfp2yLE8Qv9sfoWlShFNvBfcH0Id31B57D12NiT67XyxTlDYUg117117",
+		"title": "Meta-design: The intersection of art, design, and computation - O'Reilly Radar",
+		"url": "http:\/\/radar.oreilly.com\/2015\/02\/meta-design-the-intersection-of-art-design-and-computation.html",
+		"domain": "radar.oreilly.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/radar-oreilly-com201502meta-design-the-intersection-of-art-design-and-computation-html.png"
+	},
+	{
+		"curated_id": "Bcy116FXbG5lFaou123Bq5VZbnj70mgPMsNZpkHyJKePfrmiR116yIzCrcoMIdqzij42UnYGym312jRv7PNLW2P0vN6w117117",
+		"title": "Apigee Product Highlight Video: SmartDocs",
+		"url": "http:\/\/apigee.com\/about\/blog\/developer\/apigee-product-highlight-video-smartdocs",
+		"domain": "apigee.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blog-apigee-comdetailapigee_product_highlight_video_smartdocs.png"
+	},
+	{
+		"curated_id": "YS6zKe0TwWqSzPI123HfarhQvjhvVGqwgliCpMuTM2GSFPEZqIwLVRgykSdArZPWMT9ptBU116yzs3J8V5ojR28IHA117117",
+		"title": "Dropbox starts using POST, and why this is poor API design.",
+		"url": "https:\/\/evertpot.com\/dropbox-post-api\/",
+		"domain": "evertpot.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/evertpot-comdropbox-post-api.png"
+	},
+	{
+		"curated_id": "W7plbTegW123pnqZz9YlwT158b116FnQ5h116Vbm116c8LsFkgnDs116kLJqblirEUol86WKl3BHS3u06aCI7ewlh4MGC9Fg117117",
+		"title": "Hypermedia API maturity model \u2013 Part I \u2013 Hypermedia-ness",
+		"url": "http:\/\/apihandyman.io\/hypermedia-api-maturity-model-part-i-hypermedia-ness\/",
+		"domain": "apihandyman.io",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apihandyman-iohypermedia-api-maturity-model-part-i-hypermedia-ness.png"
+	},
+	{
+		"curated_id": "r9DeihR4jE4glOUzaSnNTaX5oh123lZpzfrzkakfpmUMysbQUHZMzJTKwiAVV9RdIhNy7vpaqxOSApSsnl350cHg117117",
+		"title": "Common Cases When Using SOAP Makes Sense",
+		"url": "http:\/\/nordicapis.com\/common-cases-when-using-soap-makes-sense\/",
+		"domain": "nordicapis.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/nordicapis-comcommon-cases-when-using-soap-makes-sense.png"
+	},
+	{
+		"curated_id": "iulruBrwhaMf0Qa123HVtUQD0iqv4UZi123MqAI3R7Ey2116D9H64xtdZ0Wxxx116ICXCC1Hjfs5CSOoW5ujFBHFkdfBqg117117",
+		"title": "The beautiful API and the bestial back-office | API Handyman",
+		"url": "http:\/\/apihandyman.io\/the-beautiful-api-and-the-bestial-back-office\/",
+		"domain": "apihandyman.io",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apihandyman-iothe-beautiful-api-and-the-bestial-back-office.png"
+	},
+	{
+		"curated_id": "M3SzrZP3tXIBiyLw7ArriQ5uys04RtDs0xKGSp28b8ODwZIvkWpZ123uz5pT1wdMiI2D2xTze65Bu6S2rmUv123CRQ117117",
+		"title": "Bizcoder - Don't Design A Query String You Will One Day Regret",
+		"url": "http:\/\/www.bizcoder.com\/don-t-design-a-query-string-you-will-one-day-regret",
+		"domain": "www.bizcoder.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-bizcoder-comdon-t-design-a-query-string-you-will-one-day-regret.png"
+	},
+	{
+		"curated_id": "WXEPw9cCbvMXv1FtrHPV21YK123pg7IpvxwNVbn8PnA6C9MzT9Fb6tYlJbpXwj0hiGvVH6NR4GpVeqL0svws88eQ117117",
+		"title": "Meta-design: The intersection of art, design, and computation",
+		"url": "http:\/\/radar.oreilly.com\/2015\/02\/meta-design-the-intersection-of-art-design-and-computation.html",
+		"domain": "radar.oreilly.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/radar-oreilly-com201502meta-design-the-intersection-of-art-design-and-computation-html.png"
+	},
+	{
+		"curated_id": "n116g1239fmX8E123QXLOUbsnTfv5JSdGYHkYwt2VKOcW3Q1123oQnKVZ1ae8eYv4bU5wFJEss116UYsx5AA90Z72ODhyMEQ117117",
+		"title": "What Makes an Agile API?",
+		"url": "http:\/\/nordicapis.com\/what-makes-an-agile-api\/",
+		"domain": "nordicapis.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/nordicapis-comwhat-makes-an-agile-api.png"
+	},
+	{
+		"curated_id": "R8AScGZrBx08mj3A6rStlJrerYwOcVGFOpHt6ROPmLIioP116g1dGBkVBY3n4x16uafADiFJ94tEUJDNpNo5Yf4A117117",
+		"title": "My Brain Dump On An API Definition Fueled Life Cycle",
+		"url": "http:\/\/apievangelist.com\/2015\/02\/23\/my-brain-dump-on-an-api-definition-fueled-life-cycle\/",
+		"domain": "apievangelist.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apievangelist-com20150223my-brain-dump-on-an-api-definition-fueled-life-cycle.png"
+	},
+	{
+		"curated_id": "qKlEVOkIJstEhuhRVFv29Rpxb7068eBqTbCbn61cRKndbKT2Mse8Cfs116Cl123MLV1u2zMmYISfDSt70tiZwODolA117117",
+		"title": "A Guide to REST & API Design | API Academy",
+		"url": "http:\/\/www.apiacademy.co\/guide-rest-api-design\/",
+		"domain": "www.apiacademy.co",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-apiacademy-coblogguide-rest-api-design.png"
+	},
+	{
+		"curated_id": "dcrban6umSKRf1aGxPiqu7iLskF1n3ru8zfa3MZ3NVZGA72Gq9HSlJo7NjKtORfvN6eZ5dB4cWT1230fA123rkMI3g117117",
+		"title": "Using Templates For Documentation Driven API Design",
+		"url": "http:\/\/nordicapis.com\/using-templates-for-documentation-driven-api-design\/",
+		"domain": "nordicapis.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/nordicapis-com.png"
+	},
+	{
+		"curated_id": "FN85XqYS9CtnEtF20HgFFQ7T8MF6hxyXOb1123cnACz88T2OOQwNxGdLoTHZIyd7NDqPNZoStbZj8jUY3YWzQJbg117117",
+		"title": "How API Description Languages Enable API IDEs",
+		"url": "http:\/\/www.programmableweb.com\/news\/how-api-description-languages-enable-api-ides\/sponsored-content\/2015\/02\/18",
+		"domain": "www.programmableweb.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-programmableweb-comnewshow-api-description-languages-enable-api-idessponsored-content20150218.png"
+	},
+	{
+		"curated_id": "LWomzMZEGI3hzCApQQv4T2nOPmXLi27OUhkIZlZ2KxcU1l7Ej8X5ddj123mWsrTYa2jcan5iTvelrSymuS8DDkOg117117",
+		"title": "Community Debates API Specification Alternatives",
+		"url": "https:\/\/www.infoq.com\/news\/2015\/02\/api-alternatives",
+		"domain": "www.infoq.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-infoq-comnews201502api-alternatives.png"
+	},
+	{
+		"curated_id": "qtwl0ZYkfp89ByU8HnhID52RMa116OH5kPtamSWrYg3CxWTJd4sJ6yN1164123iK0fv6nztI4r116crNC116QpJFBqAlUagw117117",
+		"title": "Collaborator\u2019s New External API",
+		"url": "http:\/\/blog.smartbear.com\/programming\/collaborators-new-external-api\/",
+		"domain": "blog.smartbear.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blog-smartbear-comprogrammingcollaborators-new-external-api.png"
+	},
+	{
+		"curated_id": "tYkcl8KiATEfaiY1UmrH5lxtVcQmat6oNAlRqvraOl4hGud72qibADUwKesZCBVX7HADCB8L0A6O5TiUoytF2w117117",
+		"title": "Using Templates for Documentation Driven API Design",
+		"url": "http:\/\/nordicapis.com\/using-templates-for-documentation-driven-api-design\/",
+		"domain": "nordicapis.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/nordicapis-comusing-templates-for-documentation-driven-api-design.png"
+	},
+	{
+		"curated_id": "STHZs1a123L9FCgfWP94I0Sc5SihdhKqiKdYRIR0PK4lESe9PXk51P18QI780lIAg454DCBfmE8UBsuB1qInUpEQ117117",
+		"title": "API Best Practices: The Wrap Up",
+		"url": "http:\/\/blogs.mulesoft.com\/dev\/api-best-practices-wrap-up\/",
+		"domain": "blogs.mulesoft.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blogs-mulesoft-orgapi-best-practices-wrap-up.png"
+	},
+	{
+		"curated_id": "dfpeX7taC2ZcEvHk8nOWTD7gcjfDUokg5p1tBJrVvtvA5Dy5cuxyXzD6aDowCGDTM336116G49ri7ZtOap0LE8RA117117",
+		"title": "MuleSoft Releases RAML .NET Parser, Visual Studio Extension",
+		"url": "http:\/\/www.programmableweb.com\/news\/mulesoft-releases-raml-.net-parser-visual-studio-extension\/2015\/02\/20",
+		"domain": "www.programmableweb.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-programmableweb-comnewsmulesoft-releases-raml--net-parser-visual-studio-extension20150220.png"
+	},
+	{
+		"curated_id": "QqzGfbBYOWSLnbhVr1233waluDL6Xr7cjQEBbS48JH4h8DoJ3ItBTQgdk7NTYAIWphcizVBI8rG2eKp4rPUKNnTA117117",
+		"title": "LucyBot Eliminates Cross-Language Programming Necessity",
+		"url": "http:\/\/www.programmableweb.com\/news\/lucybot-eliminates-cross-language-programming-necessity\/brief\/2015\/02\/20",
+		"domain": "www.programmableweb.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-programmableweb-comnewslucybot-eliminates-cross-language-programming-necessitybrief20150220.png"
+	},
+	{
+		"curated_id": "IIngeWuMGFGoJeAH2UXBSc2Gk6tk1hjLPM3H1nHX7uzGRz7kCQbVVspghX2XHAEjeDLnOvaOyVqzZgK0iq123ngA117117",
+		"title": "LucyBot - Get your API's consumers moving faster",
+		"url": "http:\/\/lucybot.com\/",
+		"domain": "lucybot.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/25855_lucybot_com.png"
+	},
+	{
+		"curated_id": "eTWvk123Wyck4miR5Jk8YehTGyJ5123FyGbiSGXRo2Nyie0Zv4CI5G6xzbKQB974JkYNpFtjwGESabC3e7ZlST116e4g117117",
+		"title": "apiaryio\/api-blueprint - Gitter",
+		"url": "https:\/\/gitter.im\/apiaryio\/api-blueprint",
+		"domain": "gitter.im",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/gitter-imapiaryioapi-blueprint.png"
+	},
+	{
+		"curated_id": "cScBNL6UCWVFQMPTCUlhWp74czNaDsHohUwsqmTqblaDgrlNx0EglNBgZT7cXD5erzSOi7FkRSly0U7FLlVObw117117",
+		"title": "Utilising API Blueprint in API Clients",
+		"url": "https:\/\/blog.apiary.io\/2015\/02\/17\/Utilising-API-Blueprint-in-API-Clients",
+		"domain": "blog.apiary.io",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blog-apiary-io20150217utilising-api-blueprint-in-api-clients.png"
+	},
+	{
+		"curated_id": "m0mukUYlq5p123zae5zCJThD1Zp8tF40123Ni6l116oX5FmwZTDMPg80HYT8W5DJ3UhOoW8iYuvV116MnG9bYESo9YqHkQ117117",
+		"title": "A Guide to REST & API Design",
+		"url": "http:\/\/www.apiacademy.co\/guide-rest-api-design\/",
+		"domain": "www.apiacademy.co",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-apiacademy-coblogguide-rest-api-design.png"
+	},
+	{
+		"curated_id": "WJxtV69QfIVFFt5gBlCsSgW9LDHqcvSo7igBFLG4DQTcCkPomEv0Nb116fR70pcXO1dflSb7SGBBnJUAjTwCA64Q117117",
+		"title": "Why you must design your private API in english | API Handyman",
+		"url": "http:\/\/apihandyman.io\/why-you-must-design-your-private-api-in-english\/",
+		"domain": "apihandyman.io",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apihandyman-iowhy-you-must-design-your-private-api-in-english.png"
+	},
+	{
+		"curated_id": "GrjdHzLbcKsDmgtUOH6BuEZFxk8gvN123116qXPlq9R9mZRlTq8EBiPZnCZFbXKgAjgWC8G8tke9VYNHAC116tWogMJA117117",
+		"title": "Introducing the Organization Component in Codenvy",
+		"url": "http:\/\/blog.codenvy.com\/introducing-organizations-codenvy121\/",
+		"domain": "blog.codenvy.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blog-codenvy-comintroducing-organizations-codenvy121.png"
+	},
+	{
+		"curated_id": "8ioDhMuEfXB1I41S3RoLFtHpvKnAwBYDO1pQYXmjBtdFH4mKRO123yrCCWR6123aW9i1116LoMOjnfV0a2PC6U123zbgsg117117",
+		"title": "Connecting Our History At The Digital Public Library of America Using APIs And JSON-LD",
+		"url": "http:\/\/apievangelist.com\/2015\/01\/07\/connecting-our-history-at-the-digital-public-library-of-america-using-apis-and-jsonld\/",
+		"domain": "apievangelist.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apievangelist-com20150107connecting-our-history-at-the-digital-public-library-of-america-using-apis-and-jsonld.png"
+	},
+	{
+		"curated_id": "Mg806B8tgRQ9lJT7csi1SyudoAGPMEwQz2pDS2jJYK7J116hCWFjeHmXU1SUJlmN116cU6AAmQP4Wy0MzF2c5116OJGA117117",
+		"title": "Server Skeletons In Restlet Studio And APISpark",
+		"url": "http:\/\/apievangelist.com\/2015\/01\/06\/server-skeletons-in-restlet-studio-and-apispark\/",
+		"domain": "apievangelist.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/apievangelist-com20150106server-skeletons-in-restlet-studio-and-apispark.png"
+	},
+	{
+		"curated_id": "EI7haK43eN4QuUEK123zUqB6IWfA8cSZW77eoQ5fBGNm7YWVOtlxGJEykAI123wrhvGlVGDviU6tCgjqjoDG3m116dDw117117",
+		"title": "Does One API Description Language Fit an Entire Enterprise?",
+		"url": "https:\/\/blog.soa.com\/does-one-api-description-language-fit-an-entire-enterprise\/",
+		"domain": "blog.soa.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blog-soa-comdoes-one-api-description-language-fit-an-entire-enterprise.png"
+	},
+	{
+		"curated_id": "Ur9uqkoBRC13KgYg9WADVWD123J6USrN123Zx3l0ImgR3S2d4Rm3ntQ4jvlZYv3Q687tL3kKVJoBxsncte3whfOIxw117117",
+		"title": "The Core of Your API",
+		"url": "http:\/\/www.windley.com\/\/archives\/2014\/12\/the_core_of_your_api.shtml",
+		"domain": "www.windley.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-windley-comarchives201412the_core_of_your_api-shtml.png"
+	},
+	{
+		"curated_id": "FgYDgXJpUWcl3lPE9LXJfNupbWOSGV2Vo1h116fxj69j0vw6dDyjblL44q8gm62PilMVwsiSFov2cmjgwfGNunuA117117",
+		"title": "There Are Four API Design Editors To Choose Fro...",
+		"url": "http:\/\/www.scoop.it\/t\/api-mag\/p\/4033208199\/2014\/12\/08\/there-are-four-api-design-editors-to-choose-from-now",
+		"domain": "www.scoop.it",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-scoop-ittapi-magp403320819920141208there-are-four-api-design-editors-to-choose-from-now.png"
+	},
+	{
+		"curated_id": "obnc739hDss1237SU12NAQN123EIlDJQwRkSRaZ4Fp9oAkNvf5183y6Nef1LWV6RgzpViGb9dq1163X5fEEK1ZryLzUw117117",
+		"title": "Constructing URLs the easy way",
+		"url": "http:\/\/www.bizcoder.com:80\/constructing-urls-the-easy-way",
+		"domain": "www.bizcoder.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-bizcoder-com:80constructing-urls-the-easy-way.png"
+	},
+	{
+		"curated_id": "obSqfqzBJIhM123x3zOlNWgE8QcI5c2KSZk9BAGx0UBOQpo4zFbyOF33rY24wssW3IUrNDLIFoHapcr4o93PQEfA117117",
+		"title": "Restlet Studio, the First Cross-Language IDE for APIs",
+		"url": "http:\/\/restlet.com\/blog\/2014\/12\/03\/restlet-studio-the-first-cross-language-ide-for-apis\/",
+		"domain": "restlet.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/restlet-comblog20141203restlet-studio-the-first-cross-language-ide-for-apis.png"
+	},
+	{
+		"curated_id": "QXPMvak0wOqYpc24WEdSY6HshbmO7CNDkCEzRu7ZbCJ116FBBe8Pq1QRta8v1cFw0zEGrhW116TzhPseDpZW9O6uSg117117",
+		"title": "REST APIthy: #ReadFielding",
+		"url": "http:\/\/rest-apithy.blogspot.ca\/2014\/11\/readfielding.html",
+		"domain": "rest-apithy.blogspot.ca",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/rest-apithy-blogspot-ca201411readfielding-html.png"
+	},
+	{
+		"curated_id": "vxyHAj4hZec123Eqo4R44pfVbsxGxt123heGrqCyRpZjZM4BDfFf4rBT5hmVAQWmf7sp116ZP0d0eOAvgoMzSkErLnAA117117",
+		"title": "Designing APIs for the Web",
+		"url": "http:\/\/tehparadox.com\/forum\/f58\/designing-apis-web-8395324\/",
+		"domain": "tehparadox.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/tehparadox-comforumf58designing-apis-web-8395324.png"
+	},
+	{
+		"curated_id": "zbAzhY1dbD116CPica7uW116vwVt1hE3I123QmdbMgO5oXQyOauNHHrYbEXYZu1t96P116TgjtvCTccjLcl3lLXhJ59YYA117117",
+		"title": "Where APIs and Tooling\u00a0Unite",
+		"url": "http:\/\/www.futureinsights.com\/home\/where-apis-and-tooling-unite.html\/",
+		"domain": "www.futureinsights.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-futureinsights-comhomewhere-apis-and-tooling-unite-html.png"
+	},
+	{
+		"curated_id": "I3kjphPsGRWFoSdR123R9szfwaspL8do87bU2Wjnr0z2LEYKRLeUjNruvBtPZZR1MvFg670U6QfeZdB6Pm123116dbMw117117",
+		"title": "All things Anypoint Templates",
+		"url": "http:\/\/blogs.mulesoft.com\/dev\/all-things-anypoint-templates\/",
+		"domain": "blogs.mulesoft.com",
+		"image": ""
+	},
+	{
+		"curated_id": "jfSnvS0wcPFT666MWfWio71WJDwWXx1116e116aLsXRM116jfzYq6Vyt1232SozK116AjTdsHyAKHALrbvAxPT66a0RaPY1Q117117",
+		"title": "WillowTree Apps Applies Service Virtualization to API Development",
+		"url": "http:\/\/www.programmableweb.com\/news\/willowtree-apps-applies-service-virtualization-to-api-development\/2014\/09\/25",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "GmWNKXy116szKCOHAyc2DJZ116pMEMPYPNL7aqZTzEovJ9L116fqywhvMscLYxT116Vnjf1jvE1E5hOe4o1236mg6tlmXGJA117117",
+		"title": "API Readiness: do you have what you need?",
+		"url": "http:\/\/blog.smartbear.com\/readyapi\/api-readiness-do-you-have-what-you-need\/",
+		"domain": "blog.smartbear.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blog-smartbear-comapisreadyapiapi-readiness-do-you-have-what-you-need.png"
+	},
+	{
+		"curated_id": "BmeqOo1TLzvxPLCP3Tawf84Xu9uubvZONSCogFP123COJHy7BWkdNlNFThxlgUCRvcoKXCHV8nMox61zTOPcdHsA117117",
+		"title": "7 Key Practices for Treating Your APIs as Products",
+		"url": "http:\/\/www.mashery.com\/blog\/7-key-practices-treating-your-apis-products",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-comblog7-key-practices-treating-your-apis-products.png"
+	},
+	{
+		"curated_id": "nd7307W9s60Z86jhn1YLzOpqrGS88HhJbarYSGnOtShqRr9hJWlNn52ajc1lRmTX9zq7SHeCsCNG4KruQ123k6Og117117",
+		"title": "Enabling Salesforce Integration for Financial Institutions",
+		"url": "http:\/\/blogs.mulesoft.com\/biz\/dreamforce-salesforce-integration-financial\/",
+		"domain": "blogs.mulesoft.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blogs-mulesoft-orgdreamforce-salesforce-integration-financial.png"
+	},
+	{
+		"curated_id": "OMU9NkkP123bLf3XY2QExLZAM8Gf7qLZhoH55Itw3vg2gV7mtpjQ8123lWkgEqS63vNehnHG123WEJl54e4OiJnOIKkw117117",
+		"title": "Anypoint Platform for APIs \u2013 September Release",
+		"url": "http:\/\/blogs.mulesoft.com\/dev\/release-anypoint-platform-api-2014-09\/",
+		"domain": "blogs.mulesoft.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blogs-mulesoft-orgrelease-anypoint-platform-api-2014-09.png"
+	},
+	{
+		"curated_id": "7TMuz0v0uAJPgZcptx4pDL9Hk4qhqCZ116f4jkp30YMuZ5rQptaDPbfYxJHCiIQkse123izltBvVUWoLiY116fWvBu4A117117",
+		"title": "Best JavaScript Tools for Developers",
+		"url": "http:\/\/thewebblend.com\/contents\/94788",
+		"domain": "thewebblend.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/thewebblend-comcontents94788.png"
+	},
+	{
+		"curated_id": "vQ116t0123zbAy8mKpCVEki1230fhhYZQH123D1161164Hl116iHlvmk39boXHisCSVu9JfUtw5jNKWi94OdcortRRRk0bjwgXTw117117",
+		"title": "Fresh Tools for Designers and Developers",
+		"url": "http:\/\/thewebblend.com\/contents\/94188",
+		"domain": "thewebblend.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/thewebblend-comcontents94188.png"
+	},
+	{
+		"curated_id": "IN116arBAJuRYfmwpCPv123u116BPz5twx123e85k1X123I116huFEZgVWMbX4DDK5Kpvu3Ln923fYTjUaiuvpj123KXu7e25ZqQ117117",
+		"title": "5 Things to Understand About Successful \u201cOpen\u201d APIs",
+		"url": "http:\/\/www.mashery.com\/blog\/5-things-understand-about-successful-open-apis",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-comblog5-things-understand-about-successful-open-apis.png"
+	},
+	{
+		"curated_id": "MPgef123Y9qmf9JIVxoX4Rey8IcbiStNuWNz43NH116IHVUVkCZa116116Dr2QK116qwUDJz0TwMzJz06FMISlwsjiBa2gLw117117",
+		"title": "How RAML Saved My Email",
+		"url": "http:\/\/blogs.mulesoft.com\/dev\/raml-saved-email\/",
+		"domain": "blogs.mulesoft.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blogs-mulesoft-orgraml-saved-email.png"
+	},
+	{
+		"curated_id": "116Gq9XWrI51166YzdKZRns8ofa5tclGXnQYf30Hk0GMh116o1rqRPjpmP2mi8S1UriLg49GNZ116b0qKzNOA12381XhXxwg117117",
+		"title": "SOA School: Put your SOAP to REST",
+		"url": "http:\/\/blogs.mulesoft.com\/dev\/soa-school-soap-to-rest\/",
+		"domain": "blogs.mulesoft.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blogs-mulesoft-orgsoa-school-soap-to-rest.png"
+	},
+	{
+		"curated_id": "5tzWSOk6JzmJEDLBIwVng116123HQBVKgJtfCdV4rZEDIOfXm8cL8IpJ1TyyJzADUT4r6mo0tt2vyzbBraL116eE0DxQ117117",
+		"title": "Designing your RESTful API for Longevity",
+		"url": "http:\/\/blogs.mulesoft.com\/dev\/designing-restful-api-longevity\/",
+		"domain": "blogs.mulesoft.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blogs-mulesoft-orgdesigning-restful-api-longevity.png"
+	},
+	{
+		"curated_id": "KOrLtlD3atZ34116zNpayeafrHd985N9pEhMgR1pBn5atG116ZYY8A7ajZU24pmTvS5tOAbAWHcLUPC5HrsTV2LfdQ117117",
+		"title": "This Month in APIs: Just the Important Parts",
+		"url": "http:\/\/www.mashery.com\/blog\/month-apis-just-important-parts",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-comblogmonth-apis-just-important-parts.png"
+	},
+	{
+		"curated_id": "6tkbO123C2F5SjZwMQTdsrBs6I148GNYvQxTy6TrSSsWriEETf123asG2oXoRBmMcLcNdROIzL5hTHRaXOtFe3z5xA117117",
+		"title": "Fresh Tools for Designers and Developers",
+		"url": "http:\/\/thewebblend.com\/contents\/93858",
+		"domain": "thewebblend.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/thewebblend-comcontents93858.png"
+	},
+	{
+		"curated_id": "iv116QB2xEceWlvRs8dWQgzvuu116Y3h6t8ZnrmV6PVl76HtLcri69GSbLDST116xVohUBUJUFggMQhAxj5yLk0bIBRA117117",
+		"title": "Creating Bottom Line Growth by Aligning APIs and Market Trends",
+		"url": "http:\/\/www.mashery.com\/blog\/creating-bottom-line-growth-aligning-apis-and-market-trends",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-comblogcreating-bottom-line-growth-aligning-apis-and-market-trends.png"
+	},
+	{
+		"curated_id": "vyG2aMyrswo5x6116ME3uoh8qhMaE1whg03vXnUxcDWGmBdloyTLD123ksqQAOrfif74RzwNuSq0cp7XlplQJonUVA117117",
+		"title": "Bizcoder - A drive by review of the Uber API",
+		"url": "http:\/\/bizcoder.com\/a-drive-by-review-of-the-uber-api",
+		"domain": "bizcoder.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/bizcoder-coma-drive-by-review-of-the-uber-api.png"
+	},
+	{
+		"curated_id": "e2bjziynQcOpvlYqHAxhkYpwEyET1sNlFQ116UWZHka5j0e0iU5y4adVsnF8dQertj1230hIuyjtSqVZvobjrfOQKg117117",
+		"title": "MuleSoft Summit Heads to Chicago & New York",
+		"url": "http:\/\/blogs.mulesoft.com\/biz\/events\/mulesoft-summit-chicago-new-york\/",
+		"domain": "blogs.mulesoft.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blogs-mulesoft-orgmulesoft-summit-chicago-new-york.png"
+	},
+	{
+		"curated_id": "123jSk5usfyPRqG5F1O8WV8IRFR2wFb3dyhn3UvK9QnV4fjb0HGQAgz2H3jj4JIZhOQ8AbKmu1b1ekXB116bJY123Wfw117117",
+		"title": "A drive by review of the Uber API",
+		"url": "http:\/\/www.bizcoder.com:80\/a-drive-by-review-of-the-uber-api",
+		"domain": "www.bizcoder.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-bizcoder-com:80a-drive-by-review-of-the-uber-api.png"
+	},
+	{
+		"curated_id": "D3la2116ORWqJUv9iUWmHMQRIPTnoqaEJMNSmx123zuOGjw123iLFgVq3JlQmILCmo7BO9U9KAHK2IIhmP7hkf9DT9Sg117117",
+		"title": "Integrating Mule ESB with .NET Based Rules Engines",
+		"url": "http:\/\/blogs.mulesoft.com\/dev\/integrating-mule-esb-net-based-rules-engines\/",
+		"domain": "blogs.mulesoft.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blogs-mulesoft-orgintegrating-mule-esb-net-based-rules-engines.png"
+	},
+	{
+		"curated_id": "UYt2D8NxUKaHWbRqDGvuGLIRSprSeoHBiff2qbIW1168Ev123Mp123os116cHAtKOJGCguONn8J1dRLDbT2Vscz6yA3123Hg117117",
+		"title": "RAML: THE BIRTH OF AN API DESCRIPTION LANGUAGE FIT FOR THE ENTERPRISE",
+		"url": "https:\/\/blog.akana.com\/raml-birth-api-description-language-fit-enterprise\/",
+		"domain": "blog.akana.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blog-soa-comraml-birth-api-description-language-fit-enterprise.png"
+	},
+	{
+		"curated_id": "04dvsEf1HvDEONUd4lQDHSyqyp1RKeKVuPZnnIlmsAF6kytxIuZk5uFo0pQ6blolWjEL4HtL3uYnKMIk116Kvb1w117117",
+		"title": "Retail Industry APIs and API Management: Helping Us Shop Til\u2019 We Drop",
+		"url": "http:\/\/www.mashery.com\/blog\/retail-industry-apis-and-api-management-helping-us-shop-til-we-drop",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-comblogretail-industry-apis-and-api-management-helping-us-shop-til-we-drop.png"
+	},
+	{
+		"curated_id": "ElOpf1232RMexsQyBcgm7nHZXukkMvvaFugVXbBO0RovuLHnqfKFmMIi0b4fk3x5pDql2oh6QsAe9oGsqh9pmvSw117117",
+		"title": "Hot off the press: 18F's API Standards",
+		"url": "https:\/\/18fblog.tumblr.com\/post\/91868213233\/hot-off-the-press-18fs-api-standards#_=_",
+		"domain": "18fblog.tumblr.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18fblog-tumblr-compost91868213233hot-off-the-press-18fs-api-standards.png"
+	},
+	{
+		"curated_id": "1MZGt54TovAf8kxbjHzj689KxrfFWJdZZ1goVf123123PP784lD8MQRPRH6yw699mQrDIGKEn3uc0gv15QHKLZaqQw117117",
+		"title": "Healthcare APIs: Just What the Doctor Ordered",
+		"url": "http:\/\/www.mashery.com\/blog\/healthcare-apis-just-what-doctor-ordered",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-combloghealthcare-apis-just-what-doctor-ordered.png"
+	},
+	{
+		"curated_id": "JFBy9XvSgqzvmZyefYl6AQZWLzvYf5WBkBYZNZrxJPD1DzhFmBWqYEXDczlgwBfB3RJzqCQzjDNk7CSarJUl7w117117",
+		"title": "Stop Talking About Hypermedia and REST - Start Building Adaptable APIs",
+		"url": "http:\/\/www.mashery.com\/blog\/stop-talking-about-hypermedia-and-rest-start-building-adaptable-apis",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-comblogstop-talking-about-hypermedia-and-rest-start-building-adaptable-apis.png"
+	},
+	{
+		"curated_id": "lBdnb6i4MXMXvIMs9PZ5nY6BSmP6F123Z123123D02d4sGLm7cGgfKtjiJIj8lXEzmJYQo47SVtA5Nidi7No3wP6RBEQ117117",
+		"title": "Building an easier on-ramp: Introducing the Anypoint Templates Library",
+		"url": "http:\/\/blogs.mulesoft.com\/dev\/introducing-anypoint-templates-library\/",
+		"domain": "blogs.mulesoft.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blogs-mulesoft-orgintroducing-anypoint-templates-library.png"
+	},
+	{
+		"curated_id": "4Owayjas123M0kXCo9JvsHVWZd54S9U3fr7KXaKaa123dS1238Rbk0UdL767sxXIW116XKeQ1rIdzDwRxr9SVasJIPmEPA117117",
+		"title": "Four Big Mistakes In Your REST API Strategy",
+		"url": "http:\/\/blog.dreamfactory.com\/fourbigmistakesinyourrestapistrategy",
+		"domain": "blog.dreamfactory.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blog-dreamfactory-comfourbigmistakesinyourrestapistrategy.png"
+	},
+	{
+		"curated_id": "BWERT6w1MbmxnltTcwTFtB7dS6116lYIqSf2116MZdUImM3L5yz1BHau9hfzzCRGBgCJ4iilZN8ohOKVoSOvsbELFA117117",
+		"title": "Introducing the Anypoint Platform for APIs",
+		"url": "http:\/\/blogs.mulesoft.com\/dev\/release-anypoint-platform-api-2014-07\/",
+		"domain": "blogs.mulesoft.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blogs-mulesoft-orgrelease-anypoint-platform-api-2014-07.png"
+	},
+	{
+		"curated_id": "Au4PUYHoq4VkNZidm4iZw116jpAmckjFDP3RufpmxMLWzEDij1JGXP11yvCOtG5dLlbg7B8If5Gw8KtpP123OI9rNA117117",
+		"title": "Reaffirming Intel Services\u2019 Connection with Developers and Open Source at OSCON",
+		"url": "http:\/\/www.mashery.com\/blog\/reaffirming-intel-services-connection-developers-and-open-source-oscon",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-comblogreaffirming-intel-services-connection-developers-and-open-source-oscon.png"
+	},
+	{
+		"curated_id": "JOT4kWk6F7DpVmBl0efBKhgpc4UnQGcvdX2DAM0qkBBcK5bjFKPjntk4A8MlEqGU78C3kzDXL0fsfZhkyULlag117117",
+		"title": "Best Practices REST API from Scratch - Introduction",
+		"url": "https:\/\/www.sitepoint.com\/best-practices-rest-api-scratch-introduction\/",
+		"domain": "www.sitepoint.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-sitepoint-combest-practices-rest-api-scratch-introduction.png"
+	},
+	{
+		"curated_id": "0E7EFD2OxejTh0APdjifza116xQ484LoPRrF4LdJTE86WH9Ij9Jea17QasuCHEN4i8zdAoTDOnG2J123nHTcJ65aFQ117117",
+		"title": "API Management 2.0: Empowering the Enterprise for the Third Industrial Revolution",
+		"url": "http:\/\/www.mashery.com\/blog\/api-management-20-empowering-enterprise-third-industrial-revolution",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-comblogapi-management-20-empowering-enterprise-third-industrial-revolution.png"
+	},
+	{
+		"curated_id": "DNigKXZlAxyZZMZpDdNxT865b9tDOXdOqMtxLV0YHsR2fJwVWECFwgttAw4gWVC123MzxNbgbeAUnHvWnT4YWMEw117117",
+		"title": "Upcoming Webinar \u2013 Integrating Salesforce and SAP",
+		"url": "http:\/\/blogs.mulesoft.com\/biz\/saas\/sfdc-sap-unlock-back-office\/",
+		"domain": "blogs.mulesoft.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blogs-mulesoft-orgsfdc-sap-unlock-back-office.png"
+	},
+	{
+		"curated_id": "0yjRWl5CzbD116ZMo4gTuFy4jC3N3cKs8LYmQELsF9f9BQUvQVFLVhtz0W7yOP6w8X1C6xwYQmwXkFh7QXOSGWwA117117",
+		"title": "APIs: The Key to Surviving a Zombie Apocalypse?",
+		"url": "http:\/\/www.mashery.com\/blog\/apis-key-surviving-zombie-apocalypse",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-comblogapis-key-surviving-zombie-apocalypse.png"
+	},
+	{
+		"curated_id": "PNGVVAn98Uwm2sSjfB4S4mNRMFmYqIevfXhtAa3kIzSoQTKCVMFfxm5m4vFgus8H3T116N2bSJbDkTjemjmO8FTw117117",
+		"title": "HTTP Response Codes and You | OP3Nvoice",
+		"url": "http:\/\/clarify.io\/welcome-to-clarify\/",
+		"domain": "clarify.io",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/clarify-iowelcome-to-clarify.png"
+	},
+	{
+		"curated_id": "116Hk2wsMcf8x123mv6DjEVBx9PvHsB8123OUKdry63IQJbbuLdJg6RBDkiSs7l0MUN8xwALlWtsKTWGDNC24hdpYNKQ117117",
+		"title": "Don\u2019t just throw APIs at the problem!",
+		"url": "http:\/\/blogs.mulesoft.com\/biz\/dont-just-throw-apis\/",
+		"domain": "blogs.mulesoft.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blogs-mulesoft-orgdont-just-throw-apis.png"
+	},
+	{
+		"curated_id": "F3SglFAySBYFlirrs1hqwu1239E5n49PDAsTONyeiQCHqh2QXQdX116PF3o116YGsh7sNyU7lffu5XOFjR5tfCNmNpZw117117",
+		"title": "HTTP Response Codes and You",
+		"url": "http:\/\/clarify.io\/welcome-to-clarify\/",
+		"domain": "clarify.io",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/clarify-iowelcome-to-clarify.png"
+	},
+	{
+		"curated_id": "ikJDLuX5sUYmoqjG7yaRAXVREU3123wHcaXB9ibAwIfZEFlGU1235EjT9uyUK9KvKWXwDKgzr2h0xwJgm5Vv94mkXA117117",
+		"title": "Legos vs APIs \u2013 Top Integration and API Articles of the Week",
+		"url": "http:\/\/blogs.mulesoft.com\/biz\/top-integration-api-articles-week13\/",
+		"domain": "blogs.mulesoft.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blogs-mulesoft-orgtop-integration-api-articles-week13.png"
+	},
+	{
+		"curated_id": "9p66ZrWogVoD2Zrm7PiwZ00JEUhN5Fsa08U4kOGPQM7H6Fp116Iy116gL5SEfSyAtUOZEGQd9ITVSGH6qhu0xW5O5g117117",
+		"title": "Hot off the Press: 18F\u2019s API Standards",
+		"url": "http:\/\/www.digitalgov.gov\/2014\/07\/16\/hot-off-the-press-18fs-api-standards\/",
+		"domain": "www.digitalgov.gov",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-digitalgov-gov20140716hot-off-the-press-18fs-api-standards.png"
+	},
+	{
+		"curated_id": "o8MB0WIB0tfWMoSIJncF123116TcsdBPRpvrjLOa6LV0q6xxJ7mOXzVV0fkxjBuEsAZMyEJsAVjPz7fgRa3ZWbm4TA117117",
+		"title": "The Real World Cup Winner: APIs",
+		"url": "http:\/\/blogs.mulesoft.com\/biz\/api-enable-world-cup-2014\/",
+		"domain": "blogs.mulesoft.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blogs-mulesoft-orgapi-enable-world-cup-2014.png"
+	},
+	{
+		"curated_id": "6MgR1530wM6FPBLq3JOBpjdopMqNLxKDeiYUC6UmFXocnhN6howKlyh1LwhRrUjKdPh094FO0e7sNCowj0STZA117117",
+		"title": "If I Could Design My Perfect API Design Editor ...",
+		"url": "http:\/\/www.scoop.it\/t\/api-mag\/p\/4024015377\/2014\/07\/03\/if-i-could-design-my-perfect-api-design-editor",
+		"domain": "www.scoop.it",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-scoop-ittapi-magp402401537720140703if-i-could-design-my-perfect-api-design-editor.png"
+	},
+	{
+		"curated_id": "FrPpYarryCTmcq8MX3XVsK1fqESi5djfsLwV5gaiehvO4I4IHjSTSxNqjF0LTgGsv7Ao49g7ZLQC1TqO5GYdWQ117117",
+		"title": "The Importance of Analytics and Reporting in API Management",
+		"url": "http:\/\/www.mashery.com\/blog\/importance-analytics-and-reporting-api-management",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-comblogimportance-analytics-and-reporting-api-management.png"
+	},
+	{
+		"curated_id": "nqt1BNycu5BMvE2ce7Ess3liZsOjcRiFnoDTLJTnxsgEYIYgfMX5gsoCiPO0xr1Ah123iDmWNTX116lDgGX7uTJSNA117117",
+		"title": "Hit the Road with Telco APIs",
+		"url": "http:\/\/www.mashery.com\/blog\/hit-road-telco-apis",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-combloghit-road-telco-apis.png"
+	},
+	{
+		"curated_id": "tyCmmlEpldHVUVB3uot116YT6h366gZXeYnVR5fl7k123FHo5LLNMozMyZJ04D8EulgnivLgSqRdpK0123KLp0OWNh2Q117117",
+		"title": "New eBook: APIs and IT Rationalization",
+		"url": "http:\/\/apigee.com\/about\/blog\/technology\/new-ebook-apis-and-it-rationalization",
+		"domain": "apigee.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blog-apigee-comdetailnew_ebook_apis_and_it_rationalization.png"
+	},
+	{
+		"curated_id": "efLlOTIdSVRSM9a7DUsq3rN5wmbCWZCumIT0B4wVUiiV116lg1XjjjjznPRJPD9avfjTd8IbecTfj3116gVKbZoK3Q117117",
+		"title": "Designing Irresistible APIs",
+		"url": "http:\/\/www.princesspolymath.com\/princess_polymath\/\/p=672",
+		"domain": "www.princesspolymath.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-princesspolymath-comprincess_polymathp=672.png"
+	},
+	{
+		"curated_id": "GxLvyNKPN99Wot67UEuJwpw9aq1236pxLVPzcc5B2FOEf116KQsI3jqIpnTKRu8ts2nY9ehHksl0d5hL1yU3VB40Eg117117",
+		"title": "API-Centric Data Architectures - Part II",
+		"url": "http:\/\/apigee.com\/about\/blog\/technology\/api-centric-data-architectures-part-ii",
+		"domain": "apigee.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blog-apigee-comdetailapi_centric_data_architectures_part_ii.png"
+	},
+	{
+		"curated_id": "Y8LZUqthZEVDr116Xuy123oUQX1X199Bxs123qjkP1qu53ujNODQT344G41BM81VdT6YJFhe723y7aDxC3YzDAlJYK1Q117117",
+		"title": "What is a Developer Evangelist?",
+		"url": "http:\/\/www.mashery.com\/blog\/what-developer-evangelist",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-comblogwhat-developer-evangelist.png"
+	},
+	{
+		"curated_id": "8jZNiuf6YvGfcB773VNMLk3iguEvOQcROwKgOr1RUuazw5VH7GNfYhVr9B39TejhPzUb116aSNg1PGQQHCvqq72A117117",
+		"title": "Why You Should Care Netflix is Shuttering Its Public API",
+		"url": "http:\/\/blogs.mulesoft.com\/biz\/api\/netflix-public-api-shutdown\/",
+		"domain": "blogs.mulesoft.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blogs-mulesoft-orgnetflix-public-api-shutdown.png"
+	},
+	{
+		"curated_id": "WNjFrqhprB9nHM5EGhFAsVDHam50g0Hc0GE51CK5C7DIuk7hGU116YGpcoij62WcvWFtwjU5Ba3Z7123L6Ymp5JtiQ117117",
+		"title": "What is the \u201cInternet of Things\u201d and how does it relate to APIs?",
+		"url": "http:\/\/www.mashery.com\/blog\/what-internet-things-and-how-does-it-relate-apis",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-comblogwhat-internet-things-and-how-does-it-relate-apis.png"
+	},
+	{
+		"curated_id": "NJe1eWR6fcJ42zr49b116QiWrsPsF1167a5uRl9pQu45116ZdHG57kgeDpVRsktk4b8EPpjaAGh42ABXJvkru0qghQTg117117",
+		"title": "The Connected K-9",
+		"url": "http:\/\/www.mashery.com\/blog\/connected-k-9",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-comblogconnected-k-9.png"
+	},
+	{
+		"curated_id": "Cg1a9z4Soo8116eYyMBESUQNBwj116FW3Hn9CqcJLoEHFDqxBt4tZ0ewIDGDvqb0bxiZ11Jw8bTwXtRs0CZwOiQeIg117117",
+		"title": "Wearables and Devices Will Drive a New Paradigm in Managing Clinical Data",
+		"url": "http:\/\/www.mashery.com\/blog\/wearables-and-devices-will-drive-new-paradigm-managing-clinical-data",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-comblogwearables-and-devices-will-drive-new-paradigm-managing-clinical-data.png"
+	},
+	{
+		"curated_id": "3vUajztDDgoLL4X6FmOKTLxj9IWiyhdSWo116YQw8NzAAjewmMoMTt218A4kan6l116ov3ARQ8b35GHvnI83dwwGoA117117",
+		"title": "Happiness is a well-designed API | ZDNet",
+		"url": "http:\/\/www.zdnet.com\/article\/happiness-is-a-well-designed-api\/",
+		"domain": "www.zdnet.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-zdnet-comhappiness-is-a-well-designed-api-7000030282.png"
+	},
+	{
+		"curated_id": "q3GoB2MUdKIi3cCtertAeEBOe71OHNyV6uB1160umew5KgXjcsG1zWE116fu5NY0i9mYqRcQVd5rWrFTpVrT9jz116Sg117117",
+		"title": "Toward a Lean API Strategy",
+		"url": "http:\/\/www.apiacademy.co\/blogs\/toward-a-lean-api-strategy\/",
+		"domain": "www.apiacademy.co",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-layer7tech-comblogsindex-phptoward-a-lean-api-strategy.png"
+	},
+	{
+		"curated_id": "XbVb4g81P9fxPY9K6M123sr4XGWGj0s9GMB1233P5gpSzT3ugesG6AusJ54iOwRjbr0TchZqtZ123rwgSxQO13vsFr123A117117",
+		"title": "JSON vs simpleJSON vs ultraJSON",
+		"url": "http:\/\/blog.dataweave.in\/post\/87589606893\/json-vs-simplejson-vs-ultrajson",
+		"domain": "blog.dataweave.in",
+		"image": ""
+	},
+	{
+		"curated_id": "QKDlZfD116CbHUJDVgNSfAMfZW28ndKXuDzuKyUkwkLgLcu0N0123hS7iNx4jMOfx2BFVivoFZq116jvForfW5vYe7ww117117",
+		"title": "API Manager \u2013 Simple JAVA Client Access Example",
+		"url": "http:\/\/blogs.mulesoft.com\/dev\/api-manager-simple-java-client-access-example\/",
+		"domain": "blogs.mulesoft.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blogs-mulesoft-orgapi-manager-simple-java-client-access-example.png"
+	},
+	{
+		"curated_id": "NLonqfUjOmszMsrE1167yADIpnQDocyBxoBtj6duYQwW4jPUQOCvIXyWQ620pKsSoYl1ld8yZ1163ZjHRpQQ8IbxeQ117117",
+		"title": "Introducing Template Libraries",
+		"url": "https:\/\/blog.pidoco.com\/2013\/09\/25\/introducing-template-libraries\/",
+		"domain": "blog.pidoco.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blog-pidoco-com20130925introducing-template-libraries.png"
+	},
+	{
+		"curated_id": "RT1238JEBGds55iMGgwtGuxXO6vnFHUplYG1Mj695yrkqjyAzWE1236zz4KEbemqDDtwJTRwyctpxfEtnYX5c22mMQ117117",
+		"title": "Dinosaurs in the Land of APIs \u2013 Top Integration and API Articles of the Week",
+		"url": "http:\/\/blogs.mulesoft.com\/biz\/top-integration-api-articles-week12\/",
+		"domain": "blogs.mulesoft.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blogs-mulesoft-orgtop-integration-api-articles-week12.png"
+	},
+	{
+		"curated_id": "bF4bCIPJoCgjRzin5A68e1VDyvy8CBKZCzEwDiHNlpOzHnjsd4otkNBnpV9dZ4xwWNcycHk3GaacxVCTXEeAGw117117",
+		"title": "Building APIs around Microsoft Azure SQL Databases",
+		"url": "http:\/\/blogs.mulesoft.com\/dev\/building-apis-around-microsoft-azure-sql-databases\/",
+		"domain": "blogs.mulesoft.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blogs-mulesoft-orgbuilding-apis-around-microsoft-azure-sql-databases.png"
+	},
+	{
+		"curated_id": "D0116GqBPmN1iRJdpq51R7W9AvrRQ04VLYMJ0TDkQEt7L0cYs7yD6rjzZz4fAe0TilOrZu2Y5Mr7NeA1XObcbY2Q117117",
+		"title": "API Security: The Key to Innovating for Better Health",
+		"url": "http:\/\/www.mashery.com\/blog\/api-security-key-innovating-better-health",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-comblogapi-security-key-innovating-better-health.png"
+	},
+	{
+		"curated_id": "ZFJz6QQyN2mYc123Aso9z1f0fXKa6ubRIujULLlFK9MAwRiWoI5w1Zv2D0fPLAg9ZGbJghBWO116JwUm4g0xzbnZRQ117117",
+		"title": "The Internet of This, That, and the Other Thing",
+		"url": "http:\/\/www.mashery.com\/blog\/internet-and-other-thing",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-combloginternet-and-other-thing.png"
+	},
+	{
+		"curated_id": "JvIRAiae8DtENDvwN8Nbwy5XmRVx34znNnO3OmvBOhXaY7B1BnvLrMwQWnXQNdipfv0eCTCR123VUpTzcaYbRS9w117117",
+		"title": "APIs Can Be Copyrighted\u2026 Now What?",
+		"url": "http:\/\/blogs.mulesoft.com\/biz\/api-copyright-fair-use\/",
+		"domain": "blogs.mulesoft.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blogs-mulesoft-orgapi-copyright-fair-use.png"
+	},
+	{
+		"curated_id": "kVDuTN2D4watHZ1161gec8m1MB2UzCl7I0UH2I3smuyxRRH0hSl0GvEUwDQmXzyUx7WNi8VdiX2APWOsZI5oxWAQ117117",
+		"title": "API Gateways:  Preserving the Value of Legacy Healthcare Data",
+		"url": "http:\/\/www.mashery.com\/blog\/api-gateways-preserving-value-legacy-healthcare-data",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-comblogapi-gateways-preserving-value-legacy-healthcare-data.png"
+	},
+	{
+		"curated_id": "RFnxwEaJA4CKrP1UVB2U0VVCjwzess8E9KMWB2123BATa1aZYcf7BkscmsF12316CXOd6MOM0dwgWdLjghwPXMpUkw117117",
+		"title": "Mashery Introduces API Video Briefs",
+		"url": "http:\/\/www.mashery.com\/blog\/mashery-introduces-api-video-briefs",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-comblogmashery-introduces-api-video-briefs.png"
+	},
+	{
+		"curated_id": "VgerqvxLleteli8LELAFAsaGMl5oI7nyWHYNpm2Obq8yveZ6h1164vYCKnhd8Fze1s0VlB7TU123xmVYApNGtbWNmg117117",
+		"title": "Intro to Data Integration Patterns \u2013 Aggregation",
+		"url": "http:\/\/blogs.mulesoft.com\/dev\/data-integration-patterns-aggregation\/",
+		"domain": "blogs.mulesoft.com",
+		"image": ""
+	},
+	{
+		"curated_id": "gERStuxLlC6aWDACqgmxYWvNRwzEFSZzs6VdYIJhJQ5c3HNYa1puy33uGLosokBUttevUNYhEhaPb4Ia123J4bvA117117",
+		"title": "Moving Data Centers with Chef",
+		"url": "https:\/\/medium.com\/behance-network\/dev\/moving-data-centers-with-chef",
+		"domain": "medium.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blog-behance-netdevmoving-data-centers-with-chef.png"
+	},
+	{
+		"curated_id": "GJ1233gmHJJFqVSmbdYZFqWOE1123BaK123vdaa3123IfFooelgAWFRD6dytNZJ88RijWFiHic6otCkRhc3PZ1230J52r3EA117117",
+		"title": "5 (Internet of) Things you can Hack",
+		"url": "http:\/\/blogs.mulesoft.com\/dev\/5-internet-of-things-you-can-hack\/",
+		"domain": "blogs.mulesoft.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blogs-mulesoft-org5-internet-of-things-you-can-hack.png"
+	},
+	{
+		"curated_id": "9deUT116ECaNt4vt3Z4IgmrMyttae0TxVETi4KE9E71165ilbmndsCd4XJ0OgD3dnSZ41232aj1161169eN1164M2K7nvx116cBw117117",
+		"title": "Anatomy of an Anypoint Template",
+		"url": "http:\/\/blogs.mulesoft.com\/dev\/anypoint-template-anatomy\/",
+		"domain": "blogs.mulesoft.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blogs-mulesoft-organypoint-template-anatomy.png"
+	},
+	{
+		"curated_id": "sbODbLzs4mAsr17Fg99yOOyft911pWY3sGlOoLEHtGyWcQj2vF7BG116TQ2Lhf9VkMIPdNETbxNjCSjm4WX6IxbQ117117",
+		"title": "Announcing Hacker League Enterprise Beta",
+		"url": "http:\/\/www.mashery.com\/blog\/announcing-hacker-league-enterprise-beta",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-comblogannouncing-hacker-league-enterprise-beta.png"
+	},
+	{
+		"curated_id": "Axb116twlGa5AAWS45LIKBmLJhw3two5IiAtaWJ9quStTStf7dblgZXht9G266qCX5Rq1fv112oX123jUUYbM9yKSQ117117",
+		"title": "Developer Outreach - Start With Why, Then Ask How",
+		"url": "http:\/\/www.mashery.com\/blog\/developer-outreach-start-why-then-ask-how",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-comblogdeveloper-outreach-start-why-then-ask-how.png"
+	},
+	{
+		"curated_id": "DmOaE11677g8Z7ImQYD116Rs3clKrTlZikcAiwu3116L6SK2ZMkzVcz8SIfLs366NMApWdjRmE123SxnFARo1RjwA7QvnQ117117",
+		"title": "What do the Kiwis really know about APIs?",
+		"url": "http:\/\/blogs.mulesoft.com\/dev\/what-do-the-kiwis-really-know-about-apis\/",
+		"domain": "blogs.mulesoft.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blogs-mulesoft-orgwhat-do-the-kiwis-really-know-about-apis.png"
+	},
+	{
+		"curated_id": "1XAGUHBfS123Og123uCKtzeKFWwBY6ug116lI123g4116oMdfas1CRcjkpMdbZHYu9oZHde4NgLdL8hrYYNqX24wN0DJ2pvg117117",
+		"title": "Pass the salsa \u2013 Top Integration and API Articles of the Week",
+		"url": "http:\/\/blogs.mulesoft.com\/dev\/pass-the-salsa-top-integration-and-api-articles-of-the-week\/",
+		"domain": "blogs.mulesoft.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blogs-mulesoft-orgpass-the-salsa-top-integration-and-api-articles-of-the-week.png"
+	},
+	{
+		"curated_id": "r1eRV8LFHsPGiy1232foHKY35OGQfFx3F8NQx9iK8TP8oulrvNuoRW4U1DjBDd3sTiLuCHqGv35CQx3PydoCeZKw117117",
+		"title": "Smart Farms: Planting the Seeds of the Future",
+		"url": "http:\/\/www.mashery.com\/blog\/smart-farms-planting-seeds-future",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-comblogsmart-farms-planting-seeds-future.png"
+	},
+	{
+		"curated_id": "LlkUpJsgLJYyypUc15L5JGfE9MDR2OhqWOiEGRnxYJllrBlnvHWparq8KdPmcuLnVdb116jBQU123YeGvV0ZrHEOOA117117",
+		"title": "APIs, Connectors and Integration Applications",
+		"url": "http:\/\/blogs.mulesoft.com\/dev\/series-apis-connectors-integration-applications\/",
+		"domain": "blogs.mulesoft.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Y880nnIndN1w63LGUIymE9gXfQ8O116njDY5Bo116nG9wtbdX5123ri18FCm394JU9zIdDlN7Yl1OOusuN1LAoiPuB5g117117",
+		"title": "Our Next Generation of API Documentation",
+		"url": "https:\/\/blog.apiary.io\/2014\/03\/21\/Re-API-Design-for-Humans",
+		"domain": "blog.apiary.io",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blog-apiary-io20140321re-api-design-for-humans.png"
+	},
+	{
+		"curated_id": "ib1kfEGFxXBJfNrzCrg2XvIyJLAPgL123cQ5TqH6uwsoWNHOg6thyZ3Fgg3Gx8l5Sc3mijchcdRPAEdA0trHk9BA117117",
+		"title": "Free Educator 3D Toolkit Coming Soon",
+		"url": "http:\/\/www.3dsystems.com\/shop",
+		"domain": "www.3dsystems.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/cubify-comblogfree-educator-3d-toolkit-coming-soon.png"
+	},
+	{
+		"curated_id": "pzB3v3mEe5vNYp8OJTCwk2WbJrvLStmWV7bn8zsswYiabv0BosUjVU81c7wRuNCN5WHlhwd9l1Li5UrB3Ij5sw117117",
+		"title": "API Design: Mind Maps & Surfing",
+		"url": "https:\/\/blog.apiary.io\/2014\/03\/06\/Surfing-API",
+		"domain": "blog.apiary.io",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blog-apiary-io20140306surfing-api.png"
+	},
+	{
+		"curated_id": "ymMCEz22Okhq9ove2rEe0116lul06U5M2ZsHwrxtduEkgFA1236Pe2kQ2mF2K7PpoAucxsydtJHI8JA6PgsHPei4RQ117117",
+		"title": "A Practical\u2026  by D. Keith Casey Jr",
+		"url": "https:\/\/leanpub.com\/restful-api-design",
+		"domain": "leanpub.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/leanpub-comrestful-api-design.png"
+	},
+	{
+		"curated_id": "9HbyPlA6RIrcp4xQKB16g6t1XDQ123eBQtaCGi123SY116d9cUJ9VR1j3yAv116CuynyjS8jgWPPP116hGYH2Dlitu6hlwdg117117",
+		"title": "API documentation made beautiful with Apiary.io",
+		"url": "http:\/\/www.itworld.com\/article\/2700666\/development\/api-documentation-made-beautiful-with-apiary-io.html",
+		"domain": "www.itworld.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-itworld-comdevelopment407333api-documentation-made-beautiful-apiaryio.png"
+	},
+	{
+		"curated_id": "mtx0ATRfT1gKs0nr1PKHz6wDASlYxIPgas3JbIMS09Lf7pvPdcpmwK0esLLAML3sTu76cwFtDwztEHjr116116NUtA117117",
+		"title": "FloridaSU Expands Innovation Lab with Cube 3D Printers",
+		"url": "http:\/\/www.3dsystems.com\/shop",
+		"domain": "www.3dsystems.com",
+		"image": ""
+	},
+	{
+		"curated_id": "9lp4HfRqd0PRSwQckGWdbHJnM4ZjbVkvgoI4g7oiAqBSsjD3z0sAs59vSLzYrGnaHpGD75x56YRb6bNAv5CdAg117117",
+		"title": "Jakub Nesetril, CEO of Apiary on Web APIs and Developer Experience",
+		"url": "https:\/\/www.infoq.com\/interviews\/jakub-apis-dx",
+		"domain": "www.infoq.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-infoq-cominterviewsjakub-apis-dx.png"
+	},
+	{
+		"curated_id": "T2nH8ttXSBOG1abpPoJ5imyncrdqEYkMQgtwnFQGVR9c116znr248LquC1CWcC6TSaWsQFINrhuEdBXKbZJJ1231236w117117",
+		"title": "Application Programming eXperience: It\u2019s all about *X - Mobile Apps Stuff",
+		"url": "http:\/\/manfredbo.tumblr.com\/post\/74280033341\/application-programming-experience-its-all-about#_=_",
+		"domain": "manfredbo.tumblr.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/manfredbo-tumblr-compost74280033341application-programming-experience-its-all-about-x.png"
+	},
+	{
+		"curated_id": "IGP123i9fsQN6hv1ya8ZtdXBNFV6o3olB2lHDGhKu9QtkrSBfEcDS7hVorjpAuk0Qm77rat27c73s1160KzgXfEbMA117117",
+		"title": "Developer\u2019s Toolkit: Chris Fortier",
+		"url": "https:\/\/medium.com\/behance-network\/dev\/developers-toolkit-chris-fortier",
+		"domain": "medium.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blog-behance-netdevdevelopers-toolkit-chris-fortier.png"
+	},
+	{
+		"curated_id": "q66yaUg36Q7koGYFt1U86bUOqusA116FU9oAC5dobaIE116FCz5wVtz6J8clBZtplJODubI4lKhhvrW9wlYZNy8GWg117117",
+		"title": "Middle School Science Students learn 3D printing",
+		"url": "http:\/\/www.3dsystems.com\/shop",
+		"domain": "www.3dsystems.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/cubify-comblogmiddle-school-science-students-learn-3d-printing.png"
+	},
+	{
+		"curated_id": "zm9UB9Lr8rmFh1YiVocYyV2Pg6we5pPc5m116eLtuBJGNe5siO9e2YMbKAh4kbj3U1DhK0gZWbvsIT5B73X6ByUQ117117",
+		"title": "The Human Aspects of API Design: An Interview with Apiary's Jakub Nesetril",
+		"url": "https:\/\/www.infoq.com\/news\/2013\/11\/apiary-jakub-nesetril-interview",
+		"domain": "www.infoq.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/www-infoq-comnews201311apiary-jakub-nesetril-interview.png"
+	},
+	{
+		"curated_id": "VC3szQlEsjFwLxk8hET9K1g123kZj2PzxtsJPiJY80IYo2116dSgUhPCzYSnp0JWM8AjlW58bnYRyLcnb6XG3os116fw117117",
+		"title": "The Future on Display: 3D Printing at the London Science Museum",
+		"url": "http:\/\/www.3dsystems.com\/shop",
+		"domain": "www.3dsystems.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/cubify-comblogthe-future-on-display-3d-printing-at-the-london-science-museum.png"
+	},
+	{
+		"curated_id": "fnInSyYh7085QZ7WlUDuwICvG3116cTs3vLMUYuTrpFzDal5lhaKCNzjk2jF3HUs4OeY77h8ouSvQNAHiyYMXKiA117117",
+		"title": "How To Test REST API with API Blueprint and Dredd",
+		"url": "https:\/\/blog.apiary.io\/2013\/10\/17\/How-to-test-api-with-api-blueprint-and-dredd",
+		"domain": "blog.apiary.io",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/blog-apiary-io20131017how-to-test-api-with-api-blueprint-and-dredd.png"
+	},
+	{
+		"curated_id": "123oJpqiLYm0ypDTRLrh33brMrYXmW5TPyrHwA0p9NuwDybDrBscVXLMWFl78QMKrZP1rD9RYuFm2gcB1qotJEFQ117117",
+		"title": "APIs At The Heart of your Mobile App Strategy",
+		"url": "https:\/\/blog.akana.com\/apis-at-the-heart-of-your-mobile-app-strategy\/",
+		"domain": "blog.akana.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/blog-soa-comapis-at-the-heart-of-your-mobile-app-strategy.png"
+	},
+	{
+		"curated_id": "wwPaNNQ116Rq7gLnpGbjaeHlNM4Nxff03t33HrwXpFLklr4MX6MwAF116uke7uPee9zdDOdwZUKr3SEZfyJo116ci1Nw117117",
+		"title": "Designing APIs for the Internet of Things (IoT)",
+		"url": "http:\/\/www.apiacademy.co\/blogs\/designing-apis-for-the-internet-of-things-iot\/",
+		"domain": "www.apiacademy.co",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/www-layer7tech-comblogsindex-phpdesigning-apis-for-the-internet-of-things-iot.png"
+	},
+	{
+		"curated_id": "116eaD4Y7r9TKhJD6v3YPEGu30116htjTp4FlXugLD4Ek8ODhgxetYqmgHLe2L47L4jx3lozuYbb116FaQs2v9123jCfXw117117",
+		"title": "More Thoughts on an API Commons",
+		"url": "https:\/\/www.3scale.net\/2013\/11\/towards-api-commons-for-the-api-economy\/",
+		"domain": "www.3scale.net",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/www-3scale-net201311towards-api-commons-for-the-api-economy.png"
+	},
+	{
+		"curated_id": "YsjBSZhJcNSFO59DR6McRRMNqyDq26ma3Bk0MmwybZ14mlyWa27Mo245EXQpcTGQOTV99yDXs3uU1mmM1MKYvA117117",
+		"title": "No more outdated API documentation!",
+		"url": "https:\/\/blog.apiary.io\/2013\/10\/10\/No-more-outdated-API-documentation",
+		"domain": "blog.apiary.io",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/blog-apiary-io20131010no-more-outdated-api-documentation.png"
+	},
+	{
+		"curated_id": "xmwL7qRCYE7oxnziuscar3mX9CRqkMoM8sKsWF0xh8e7An1231uXodGTfXqZ2dQVHsPksncLYSnYC116dM66kWH1Cw117117",
+		"title": "New API Blueprint available at Apiary",
+		"url": "https:\/\/blog.apiary.io\/2013\/10\/02\/New-API-Blueprint-available",
+		"domain": "blog.apiary.io",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/blog-apiary-io20131002new-api-blueprint-available.png"
+	},
+	{
+		"curated_id": "E116b7MXz3trO123YVTpLxsUZz4qbtAi6NKo3fe123JJBFpv4r7ubPpSFHf2Gx51232NWp1236GJXaAYPacazgQjDZ6dz2Aw117117",
+		"title": "RAML - RESTful API modeling language",
+		"url": "http:\/\/raml.org\/node\/1",
+		"domain": "raml.org",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/raml-orgindex-html.png"
+	},
+	{
+		"curated_id": "jUS4f6LGlMTBRNwGUi116bk79GFiWYK1rTh5l4v8zeLy1FhA3KY0E0e8EcevDY6OxQXBMHCVIEcs0bNt5t2Dgz7w117117",
+		"title": "Apiary Is Growing",
+		"url": "https:\/\/blog.apiary.io\/2013\/09\/17\/Apiary-Is-Growing",
+		"domain": "blog.apiary.io",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/blog-apiary-io20130917apiary-is-growing.png"
+	},
+	{
+		"curated_id": "nI1rgY7washUbvvCS9RKpBly29VEjx3hnwCi31Z2FaZzII6Ll116FIR3EgTNhRub123uNchRCWGFtUxQKhMo7xzLBw117117",
+		"title": "JSON and XML",
+		"url": "http:\/\/developer.infoconnect.com\/guide\/json-vs-xml",
+		"domain": "developer.infoconnect.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/developer-infoconnect-comjson-and-xml.png"
+	},
+	{
+		"curated_id": "UFgZLNn7oKW116tAnYKc1SItpwj6fo1GMm1232VefOfM4AsybVv3dJHPQkblJN123Oh875yvOzpa7123xI1116ihSx11645VoA117117",
+		"title": "Learn how to find the Opportunity of Data at the 2013 Business of APIs Conference in San Francisco",
+		"url": "http:\/\/www.mashery.com\/blog\/learn-how-find-opportunity-data-2013-business-apis-conference-san-francisco",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/www-mashery-comblogcontentlearn-how-find-opportunity-data-2013-business-apis-conference-san-francisco.png"
+	},
+	{
+		"curated_id": "Acfc8aalY8N3vzm1TgypYTX116EhGoWgmR123x22y6r1cV8TDoSdV8gJ6NaE5yO1t1161T123X116PBym1p3a1ONoEEPHaqQ117117",
+		"title": "Designing APIs for Asynchrony",
+		"url": "http:\/\/blog.izs.me\/post\/59142742143\/designing-apis-for-asynchrony",
+		"domain": "blog.izs.me",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/blog-izs-mepost59142742143designing-apis-for-asynchrony.png"
+	},
+	{
+		"curated_id": "oQ7k1231aYjF116vFdC9xEoJ0sVXzbUMD2EBKIGPl4GTz4dpNMFBxY6U6cIygzfyIVKLp6fkdEg37mt1Vwe0123IteFA117117",
+		"title": "MASHERY I\/O DOCS - DOCS THAT ROCK",
+		"url": "http:\/\/www.mashery.com\/blog\/mashery-io-docs-docs-rock",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/www-mashery-comblogmashery-io-docs-docs-rock.png"
+	},
+	{
+		"curated_id": "7y0DJareoEVftCZkzrXQcfxrzBN6TyehwIgMicDK7cvW22wVy2iCjNIVp6UPM5ATNHuw56zpThSBEDlp71160qXA117117",
+		"title": "Api Design, Part 2: Design Messaging Styles By Balancing...",
+		"url": "https:\/\/www.forrester.com\/report\/API+Design+Part+2+Design+Messaging+Styles+By+Balancing+Reach+With+Your+Other+Design+Goals\/-\/E-RES102022",
+		"domain": "www.forrester.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/www-forrester-comapi design part 2 design messaging styles by balancing reach with your other design goalsfulltext-e-res102022.png"
+	},
+	{
+		"curated_id": "mBg1239HH0pHBfXWEAo34rMtETNvU8L3xXO016NjdSK3RBxdTk123t6Ti68l0nUyIrb99xEP5CsXJKiGiSS2cXbsbA117117",
+		"title": "Api Design, Part 4: Future-proof And Secure Your Apis...",
+		"url": "https:\/\/www.forrester.com\/report\/API+Design+Part+4+FutureProof+And+Secure+Your+APIs+To+Fit+Your+Usage+Scenarios\/-\/E-RES102024",
+		"domain": "www.forrester.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/www-forrester-comapi design part 4 futureproof and secure your apis to fit your usage scenariosfulltext-e-res102024.png"
+	},
+	{
+		"curated_id": "sRf1efYENYOMyKEpv6fiHifXilqTc116wEjOnkiRzDpJgkBm1emB9Xtds116oj1d9dJGtYxnFPwk64yk4DGl6ANOsw117117",
+		"title": "Api Design, Part 3: Make Transactions And Error Handling...",
+		"url": "https:\/\/www.forrester.com\/report\/API+Design+Part+3+Make+Transactions+And+Error+Handling+Clear+In+Your+API+Designs\/-\/E-RES102023",
+		"domain": "www.forrester.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/www-forrester-comapi design part 3 make transactions and error handling clear in your api designsfulltext-e-res102023.png"
+	},
+	{
+		"curated_id": "yzLc4Bx5Vhxgr2G3LNXwrbc123P2Hxs1163BFC6wSZu116iis6sbP2X2RabLdR3Kr1Ywn7wANaBj3116AMQS7dwjOTzhJg117117",
+		"title": "Api Design, Part 1: Rest Is The Leading But Not Only...",
+		"url": "https:\/\/www.forrester.com\/report\/API+Design+Part+1+REST+Is+The+Leading+But+Not+Only+Option+For+Your+APIs\/-\/E-RES102021",
+		"domain": "www.forrester.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/www-forrester-comapi design part 1 rest is the leading but not only option for your apisfulltext-e-res102021.png"
+	},
+	{
+		"curated_id": "1166pErZUvTtHE9Wzgi9yQR116vEfGnc7hB116C123IGXWkBQcyzycEt97Ob4wh15Jt3VM123Vggd0UB6hzwxo123a0r123MvDCg117117",
+		"title": "The Secrets of Awesome JavaScript API Design",
+		"url": "https:\/\/dzone.com\/articles\/secrets-awesome-javascript-api",
+		"domain": "dzone.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/css-dzone-comarticlessecrets-awesome-javascript-api.png"
+	},
+	{
+		"curated_id": "TZGe0oIWrjuajbXWK8z2HlG9xL3HgLK123PQ8xMx765Dwhbq116OX3oVRfW6GesSDnTp5M123VB0JB50PONElkpLjCVA117117",
+		"title": "The Future of Medical Technology is Already in Your Hands",
+		"url": "http:\/\/www.mashery.com\/blog\/future-medical-technology-already-your-hands",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/www-mashery-comblogcontentfuture-medical-technology-already-your-hands.png"
+	},
+	{
+		"curated_id": "Fl89VMncdGawI5xgXFPMA116u6gw411636p46Zp36kxhsxyM116IfRq3L9jMyACbbzRP8p0Cq0X116sxx8s5nhQBVn08nQ117117",
+		"title": "The Importance of Impermanence in API Design",
+		"url": "http:\/\/www.programmableweb.com\/news\/importance-impermanence-api-design\/2013\/08\/06",
+		"domain": "www.programmableweb.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/blog-programmableweb-com20130806the-importance-of-impermanence-in-api-design.png"
+	},
+	{
+		"curated_id": "P9TaMTD7KRBY8B90rx7dfHWvg7ehED116BUBvmFOmhXGQTxaxvDNZ2Dax1169rxzZ2xHBc9FaO7E5YweyNCxklkz6A117117",
+		"title": "4 Fresh Rotten Tomatoes API Integrations",
+		"url": "http:\/\/www.mashery.com\/blog\/4-fresh-rotten-tomatoes-api-integrations",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/www-mashery-comblogcontent4-fresh-rotten-tomatoes-api-integrations.png"
+	},
+	{
+		"curated_id": "NGfjeu3J2eDzzE0M0sMZfCBttH48FNYF7116UsuGt5aD37jH6Rfc123J6d28RUWMfaLpsVheEDGPdCCSEWUnGPVLtA117117",
+		"title": "The Future of TV and APIs",
+		"url": "http:\/\/www.mashery.com\/blog\/future-tv-and-apis",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/www-mashery-comblogcontentfuture-tv-and-apis.png"
+	},
+	{
+		"curated_id": "xui8VSQSpOgSYXRmLJpJE30LVaS3BFTrw7OIdc0YIfuegxIG8OOC6CuP9nf5KRpf6yZeLEqPkYTtvBOvGG9XaQ117117",
+		"title": "HOW USA TODAYS API POWERS PARTNERSHIPS",
+		"url": "http:\/\/www.mashery.com\/blog\/how-usa-todays-api-powers-partnerships",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/www-mashery-comblogcontenthow-usa-todays-api-powers-partnerships.png"
+	},
+	{
+		"curated_id": "hYp7hKGoBuwjxQqoQbcPaCNeh7adRpHb5JeLu3mnVUBFW5Jo8vBLj9k116nq8UAUFH7xH0EyjqEhBVb3WPg5gvNA117117",
+		"title": "Joshua Bloch: Bumper-Sticker API Design",
+		"url": "https:\/\/www.infoq.com\/articles\/API-Design-Joshua-Bloch",
+		"domain": "www.infoq.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/www-infoq-comarticlesapi-design-joshua-bloch.png"
+	},
+	{
+		"curated_id": "8p6EFBKM123bthogTfsgHtbOjmDiJhOP3YrlQWk3irMX7hB4OPG29123h6ETjc6OkBOdUyYYdlYpJpOEEAYWUCpqsA117117",
+		"title": "HTTP Morning Coffee Episode 1",
+		"url": "https:\/\/blog.apiary.io\/2013\/07\/21\/HTTP-Morning-Coffee-Episode-1",
+		"domain": "blog.apiary.io",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blog-apiary-io20130721http-morning-coffee-episode-1.png"
+	},
+	{
+		"curated_id": "lMzLfrMl4123euJgnog952rMWs123KOT116moU4URsFmclHF4y9n7WrhyuSDRPYDSUSWXtj9wWaosa2TTX6aNgsj2P7A117117",
+		"title": "Back to the roots. Meet HTTP.",
+		"url": "https:\/\/blog.apiary.io\/2013\/07\/22\/Back-to-the-roots",
+		"domain": "blog.apiary.io",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blog-apiary-io20130722back-to-the-roots.png"
+	},
+	{
+		"curated_id": "jaAD5i4hQmoAYnKxaQpPjwS0scIV4KEWF123ZmRYXTtnbsppBT2i8zsoy116Bmt123412321IDKboESK1zj7xsyTOuzeHg117117",
+		"title": "Make Me Monday: Diamond Ring",
+		"url": "http:\/\/www.3dsystems.com\/shop",
+		"domain": "www.3dsystems.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/cubify-comblogmake-me-monday.png"
+	},
+	{
+		"curated_id": "5wro7nZK5jfHPzU4jBhDfzp3bnvba116nAYfmgYcdlp0KCWDUlvZsNTsIeOcSmHsduCmv1169RVV755MwSPJMmuKDw117117",
+		"title": "Scaling for the Digital Age",
+		"url": "http:\/\/www.mashery.com\/blog\/scaling-digital-age",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-comblogscaling-digital-age.png"
+	},
+	{
+		"curated_id": "hxPDh47DsIM123OhNSgezAai1Hd4PNYrzse05IXT8U6123UOSvLBKe7XEmY8bYXVVHs8oZccD116pqr8PHDRnhIt3brQ117117",
+		"title": "The Cube 3D Printer Expands the Vision of Artists and Educators",
+		"url": "http:\/\/www.3dsystems.com\/shop",
+		"domain": "www.3dsystems.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/cubify-comblogthe-cube-3d-printer-expands-the-vision-of-artists-and-educators.png"
+	},
+	{
+		"curated_id": "vUbYgGdZ5wv6E72EPs3wc2VFsZOmmrYOghJULkwgrSAJ7e2Hq9NjePQxjU8dq1aUqB3KADIwXp7PqLbLO96psQ117117",
+		"title": "Empower your business and monetize your data with APIs",
+		"url": "http:\/\/www.mashery.com\/blog\/empower-your-business-and-monetize-your-data-apis",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-comblogempower-your-business-and-monetize-your-data-apis.png"
+	},
+	{
+		"curated_id": "3talUW9xD9oev13CLpEOZfwhyI116y8t4GBZW7q4abU116zJvcliisceoYmjLVR4TzpVai9F123123U12VgjH9SYu1vvzg117117",
+		"title": "Bridge Technology: Packaging the API As A Product",
+		"url": "http:\/\/www.mashery.com\/blog\/bridge-technology-packaging-api-product",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-comblogbridge-technology-packaging-api-product.png"
+	},
+	{
+		"curated_id": "ZjpIdigr5g0HYfqYX2z6CPEhjKGIkPWPlItyqDEui5kvd3rrO11ywevNn3AR0V1166rqOE9Zq8o3E123mSoPCUUNyw117117",
+		"title": "The Importance of An Audience for your API",
+		"url": "http:\/\/www.mashery.com\/blog\/importance-audience-your-api",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-comblogimportance-audience-your-api.png"
+	},
+	{
+		"curated_id": "GZaf65E18W8M9GVqIgPFiNYfhFAEBQ1165kztXXWGS8D75cy4Zf9jk123ntgqhWkWQ37NGbvOJWB9e43VKNPibYEcA117117",
+		"title": "Micro Service Architecture",
+		"url": "https:\/\/yobriefca.se\/blog\/2013\/04\/29\/micro-service-architecture\/",
+		"domain": "yobriefca.se",
+		"image": ""
+	},
+	{
+		"curated_id": "KAG1n7fcxCpbMbCEFHIuPUfreNrN1iRnbFUHClfGw2eOgNJR913JOERkj4K9iSIXE3lJ9uCK4ve8adk116GJeCiQ117117",
+		"title": "Unlock your data's Potential - Treat your APIs as Products",
+		"url": "http:\/\/www.mashery.com\/blog\/unlock-your-datas-potential-treat-your-apis-products",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/www-mashery-comblogcontentunlock-your-datas-potential-treat-your-apis-products.png"
+	},
+	{
+		"curated_id": "3EaOp2VdH123m6mDLd6tSYKeXRiXQL30jSpJSpbnzvlklI6BvJsme1KLliqYBqLG2E116avnN2bw90z66Q4keA116uiw117117",
+		"title": "Treat Your API Users as Customers",
+		"url": "http:\/\/www.mashery.com\/blog\/treat-your-api-users-customers",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/www-mashery-comblogtreat-your-api-users-customers.png"
+	},
+	{
+		"curated_id": "JYrrC9OkzLI5BbYgk4b5EYZIek4Op8AvttAv57yqF2dmH3pOh5VF5EJWo6JQsLutanAeAYmJ0YFjy11232WNB5YQ117117",
+		"title": "Signs you're veering from good API design",
+		"url": "http:\/\/blog.apiaxle.com\/post\/signs-youre-veering-from-good-api-design\/",
+		"domain": "blog.apiaxle.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/blog-apiaxle-compostsigns-youre-veering-from-good-api-design.png"
+	},
+	{
+		"curated_id": "8wcSU116533l5K7HzesX6U4a7qLBSCsU9UoQ123B28Es1e123hC116rk8cJ2xcvxAN9qdgWegjgLrrmZND6QRNpeWmO8tA117117",
+		"title": "API Design: A New Model for Pragmatic REST",
+		"url": "https:\/\/blog.apigee.com\/detail\/api_design_a_new_model_for_pragmatic_rest",
+		"domain": "blog.apigee.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/blog-apigee-comdetailapi_design_a_new_model_for_pragmatic_rest.png"
+	},
+	{
+		"curated_id": "2MhxgmMqeWibFBvlzLyk9MYpQ1DklOiYroQgBR40oLZqKelpvRy123XPPfULY116SQpjWBcEYV712ZoDVNPRJbOc7g117117",
+		"title": "Better Rest API design 1",
+		"url": "http:\/\/hao-deng.blogspot.com\/2013\/06\/better-rest-api-design-1.html",
+		"domain": "hao-deng.blogspot.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/hao-deng-blogspot-com201306better-rest-api-design-1-html.png"
+	},
+	{
+		"curated_id": "aUuwkCqLTX3sEEMH92hNLC3LJrc8wolbqcuGPUiveXwFu1tGKC9z6shbbUSYtBOEXz123QvOPcqFVK4d2ITKmIbQ117117",
+		"title": "Practical API Design: Confessions of a Java Framework Architect",
+		"url": "http:\/\/tinydl.com\/1060908845-practical-api-design-confessions-of-a-java-framework-architect.html",
+		"domain": "tinydl.com",
+		"image": ""
+	},
+	{
+		"curated_id": "o8ghloKsvHnVXiWKcHdUBACm23oQznC6FGvlL9SKeHOdQpOB2jg3116rfwg116lrEEBr123XXs117VpFtyloC6PlHlRg117117",
+		"title": "API Design: Harnessing HATEOAS, Part 2",
+		"url": "https:\/\/blog.apigee.com\/detail\/api_design_harnessing_hateoas_part_2",
+		"domain": "blog.apigee.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/blog-apigee-comdetailapi_design_harnessing_hateoas_part_2.png"
+	},
+	{
+		"curated_id": "HD3DjlyojJTdrIpNU4uJ8zXGbRaqaSIhhDiqNHWi7Q89PVGzJwKkmgsjhx7TjNbEHLXCbkykz5fS3FjSW2pvhw117117",
+		"title": "Presenting your API as a Product \u2013 Designing your API for Data Exchanges",
+		"url": "http:\/\/www.mashery.com\/blog\/presenting-your-api-product-%e2%80%93-designing-your-api-data-exchanges",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/www-mashery-comblogpresenting-your-api-product--designing-your-api-data-exchanges.png"
+	},
+	{
+		"curated_id": "X0iPKI9daOaobkZMc0TWlZbeGXqdR4eaDnyVId6gQeTTw5gWQC6dzvMBxBEDJlaG1Gwa5sOQnf1165rI1n92DpYA117117",
+		"title": "API Crafting Secrets: Into Flightstats APIs",
+		"url": "https:\/\/www.3scale.net\/2013\/07\/api-crafting-secrets-into-flightstats-apis\/",
+		"domain": "www.3scale.net",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/www-3scale-net201307api-crafting-secrets-into-flightstats-apis.png"
+	},
+	{
+		"curated_id": "YR2biEFimTXi116JCXQSG9WXSdGZZebS5uyY7hsl3JwXGCNSaM123ZUS1TsJFyGvtbWVP1HTF2SHZFLM524gKWip0g117117",
+		"title": "Present your API as a Product \u2013 API Portal Presentation Best Practices",
+		"url": "http:\/\/www.mashery.com\/blog\/present-your-api-product-%e2%80%93-api-portal-presentation-best-practices",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/www-mashery-comblogpresent-your-api-product--api-portal-presentation-best-practices.png"
+	},
+	{
+		"curated_id": "d3M12Oc5s0sI9CbRbqD116NSrrBi5P3LiTrz1tF2KndQqb90ujMgPoiCrn8MR5SZRBF3ZC5Mabp77jN0rtZZrxjA117117",
+		"title": "Cube 3D Printers hit retail shelves at Staples",
+		"url": "http:\/\/www.3dsystems.com\/shop",
+		"domain": "www.3dsystems.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/cubify-comblogcube-3d-printers-hit-retails-shelves-at-staples.png"
+	},
+	{
+		"curated_id": "1HH94xazQXFKDaBmVRUKTXkhw123oQuV4bjE4K8zKBnOoiYBIX92FPFNSrC0POSMYnNueZuSakKMnQvOxhRcGRRg117117",
+		"title": "API Design: Honing in on HATEOAS",
+		"url": "http:\/\/apigee.com\/about\/blog\/developer\/api-design-honing-hateoas",
+		"domain": "apigee.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/blog-apigee-comdetailapi_design_honing_in_on_hateoas.png"
+	},
+	{
+		"curated_id": "s37LFYnmE0I116z4tUXLivkZRsS123wADuQKnUa14Jlsp75vtWOariOyXVtGyUoYTSZHsJDKa40VFdAYZ7M10E8YTg117117",
+		"title": "API Design: Harnessing HATEOAS, Part 1",
+		"url": "http:\/\/apigee.com\/about\/blog\/developer\/api-design-harnessing-hateoas-part-1",
+		"domain": "apigee.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/blog-apigee-comdetailapi_design_harnessing_hateoas_part_1.png"
+	},
+	{
+		"curated_id": "CFxoIdaSGDedF6ARfz3T8yY123dAN116123XmOiG8IsrdheztTbbvhg96gX6SdVTd9mEXEDnxSyjEq58oaTkJOznDxjQ117117",
+		"title": "Get packing with Mashery's API Packager",
+		"url": "http:\/\/www.mashery.com\/blog\/get-packing-masherys-api-packager",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/www-mashery-comblogget-packing-masherys-api-packager.png"
+	},
+	{
+		"curated_id": "WRqySolrsKcyApKcfEWwbd6cHTuGhZQ6cdSOmfuaPmD5LVU6116lpCfPH3FGinObhYdlsqq7iWo4mry2pLKZULEQ117117",
+		"title": "RESTful APIs: White House Sets The Standard(s)",
+		"url": "http:\/\/www.programmableweb.com\/news\/restful-apis-white-house-sets-standards\/2013\/06\/17",
+		"domain": "www.programmableweb.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/blog-programmableweb-com20130617restful-apis-white-house-sets-the-standards.png"
+	},
+	{
+		"curated_id": "jcIJ7PQsraUpdkmjMpUPiVWFhTjrMp79JySlya3O5CG116QremFPxyLEmzHEEAl3ihtBXGPKG1BC123rwEXuu7n6Ig117117",
+		"title": "Data-Driven Aesthetics",
+		"url": "http:\/\/www.nytimes.com\/glogin\/URI=http:\/\/bits.blogs.nytimes.com\/2013\/06\/19\/data-driven-aesthetics\/&OQ=_rQ3D0&OP=54867341Q2FfQ3B9Q51fbhXf555fzXJefG7d.",
+		"domain": "www.nytimes.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/9943_www_nytimes_com.png"
+	},
+	{
+		"curated_id": "P3AnxNct3Gr8FGobWZwpf0EPbMDnuWOjSHEEiJX5SjCsxB2zNzTf4iFCER4eMHJSAEtDhukI6iUs116xsWoauPFQ117117",
+		"title": "When Good API Design is a Waste of Time",
+		"url": "http:\/\/www.apiacademy.co\/blogs\/when-good-api-design-is-a-waste-of-time\/",
+		"domain": "www.apiacademy.co",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/9936_www_layer7tech_com.png"
+	},
+	{
+		"curated_id": "eytyOz3k1IinrXXc6xpxispXZLMu123116hx0DVcWRpt9xg2F5zZFklTAclqVxx36Nh0IeXKt2z1SUNMTZm116123k116SRA117117",
+		"title": "Announcing the 2013 Business of APIs Conference Dates",
+		"url": "http:\/\/www.mashery.com\/blog\/announcing-2013-business-apis-conference-dates",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-comblogcontentannouncing-2013-business-apis-conference-dates.png"
+	},
+	{
+		"curated_id": "9ruJu2r5H8aZYdLwz91L2pyCcOIPHvcX79TN123w7noB1OMex123BKm5TnIe9p2yAvRyCP2MLOk0gScPODbT123QI1Aw117117",
+		"title": "The Single Pane of Glass and the Future of API Platforms",
+		"url": "http:\/\/www.mashery.com\/blog\/single-pane-glass-and-future-api-platforms",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/www-mashery-comblogcontentsingle-pane-glass-and-future-api-platforms.png"
+	},
+	{
+		"curated_id": "ILQWb9cPu116QlUZdrRnFaobEITG5Fj8lH5k7254gttUx584jVit123TG8r3ZZcmrN9eUEYvogIc4xoUxTOhXmFQcg117117",
+		"title": "Atlassian REST API Design Guidelines version 1 - Documentation",
+		"url": "https:\/\/developer.atlassian.com\/docs\/atlassian-platform-common-components\/rest-api-development\/atlassian-rest-api-design-guidelines-version-1",
+		"domain": "developer.atlassian.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/developer-atlassian-comdisplaydocsatlassianrestapidesignguidelinesversion1.png"
+	},
+	{
+		"curated_id": "G7oRE123wvFuQ2PUIC0tqKmkKfY0F6pji116T04PtEi0wkC8OGt0txBVsAWhvOzkKS9LH8pmxQtAtOccZbELPksQTw117117",
+		"title": "A Hypermedia API Reading List - Literate Programming",
+		"url": "http:\/\/blog.steveklabnik.com\/posts\/2012-02-27-hypermedia-api-reading-list",
+		"domain": "blog.steveklabnik.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/blog-steveklabnik-composts2012-02-27-hypermedia-api-reading-list.png"
+	},
+	{
+		"curated_id": "enaL116Rx6LbSrnFYG2LFzMPF85a2NpWyFv36f4BT9123Lg66b4AiHGOeyuZ0w116SRAthLAE1aah6Yl18K06kxhrpSQ117117",
+		"title": "Web API Design Cookbook",
+		"url": "http:\/\/www.w3.org\/TR\/api-design\/",
+		"domain": "www.w3.org",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/www-w3-orgtrapi-design.png"
+	},
+	{
+		"curated_id": "kJu9BPX7kbHQ3FSyqG43LiRUVydDkdShku0V18CPzGJ8JchdkxX2AXItTB8L0123jbG8P116HYvWGDyor6vXElKDyA117117",
+		"title": "API Design Wiki",
+		"url": "http:\/\/wiki.apidesign.org\/wiki\/Main_Page",
+		"domain": "wiki.apidesign.org",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/wiki-apidesign-orgwikimain_page.png"
+	},
+	{
+		"curated_id": "S116xyp123ADlifbB2COazYdMhM6E3g1rgXN6OnSKL4VhAJTe7TiwlsMa123ZY5ohkvp0u6IID0F123Fwb0AcGAn226NCg117117",
+		"title": "Designing Hypermedia APIs",
+		"url": "http:\/\/www.designinghypermediaapis.com\/",
+		"domain": "www.designinghypermediaapis.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/www-designinghypermediaapis-com.png"
+	},
+	{
+		"curated_id": "XR9jZH53c9imhBQk4WkbAKatjmUER4hg89SMKdL116iRw1K116116MzVnre0rneyzVRnQUDrJZr7yt1L3CvxFWpiqc0A117117",
+		"title": "APIs vs. The Myth of the Omnichannel Retailer",
+		"url": "http:\/\/www.mashery.com\/blog\/apis-vs-myth-omnichannel-retailer",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/9578_blog_mashery_com.png"
+	},
+	{
+		"curated_id": "5JVnk6hkPn5xWZ2wJaArUGewyOkw2TyD85mvuiKT123AOvJtdpoMoElf3j0dP3yHfCe123zBpgxu8oy9rWCDTfFtfQ117117",
+		"title": "API Management \u2013 The New Black?",
+		"url": "http:\/\/www.mashery.com\/blog\/api-management-new-black",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/9577_blog_mashery_com.png"
+	},
+	{
+		"curated_id": "qPfFc3dPTJ1164KLFdGFLKt6jRvL4rSe7vneBml5SkPduqAGoGuRIrFR9xoQucjfbTOI8uPf5z5116Q9gi4MxtJpvA117117",
+		"title": "Why you should treat your API like a product",
+		"url": "http:\/\/www.mashery.com\/blog\/why-you-should-treat-your-api-product",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/9515_blog_mashery_com.png"
+	},
+	{
+		"curated_id": "wvc74cL6FrD123yW77ecg65TFiwoxqy7MtBFKirbkQEql5xw1v9L3VTd6V6LakruRxItsatlH116lwGGoqTUG59jrA117117",
+		"title": "API Hierarchy of Needs | API UX",
+		"url": "http:\/\/apiux.com\/2013\/05\/29\/api-hierarchy-needs\/",
+		"domain": "apiux.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/apiux-com20130529api-hierarchy-needs.png"
+	},
+	{
+		"curated_id": "V4gMIJg6QKZKoBLSmwbxhJnw0nB7bcgeog01Q7wawn5Uj2FhbdB116NPbDzOqrDz8nyd3jgOfrqe3eSmh116fxt66w117117",
+		"title": "Swagger with WSO2 API Manager",
+		"url": "http:\/\/blog.cobia.net\/cobiacomm\/2013\/05\/31\/swagger-with-wso2-api-manager\/",
+		"domain": "blog.cobia.net",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/blog-cobia-netcobiacomm20130531swagger-with-wso2-api-manager.png"
+	},
+	{
+		"curated_id": "e30BV2116P9Hrc5AEUzqvDBUno1165x4Fea28vm6gvkhWl539PFKz0fYJ5ZTefFzJlwdYdkNRtzRJdDlw3zAKJUq6w117117",
+		"title": "Big Data, IoT, API...Newer technologies protected by older security",
+		"url": "http:\/\/www.mashery.com\/blog\/big-data-iot-apinewer-technologies-protected-older-security",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/www-mashery-comblogcontentbig-data-iot-apinewer-technologies-protected-older-security.png"
+	},
+	{
+		"curated_id": "ZPP9wQWOKTYSkdt21hxKwkv9VrL2RLHbD0vZ1232g4M9xxfEE4J1OjOh7hw4tidAaiMdx116LoF5jBm6qDa3Oz1Z0A117117",
+		"title": "Flying Higher with APIs",
+		"url": "http:\/\/www.mashery.com\/blog\/flying-higher-apis",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/www-mashery-comblogcontentflying-higher-apis.png"
+	},
+	{
+		"curated_id": "gLWpe9STT4123g8esjFRj6toh6kDKKf1SRVqv6Py123hpUK2hFE9R3Qg116ZMWOhjjQmjezKwmPlucBwuOGaTCxY116ODw117117",
+		"title": "Consistency is Key When Designing APIs",
+		"url": "http:\/\/blog.strikeiron.com\/bid\/59732\/Consistency-is-Key-When-Designing-APIs",
+		"domain": "blog.strikeiron.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/blog-strikeiron-combid59732consistency-is-key-when-designing-apis.png"
+	},
+	{
+		"curated_id": "8cb123eyzbYNgqeQNECV7123OUUt116Mf0zDAZQgZQOi2YiyToYL8mhcSBDWgz123jPVcNN116oIMdAyVjUtY123JdgdzmRixw117117",
+		"title": "Omni-channel Explosion: Mashery Signs Strategic Agreement with NetSuite",
+		"url": "http:\/\/www.mashery.com\/blog\/omni-channel-explosion-mashery-signs-strategic-agreement-netsuite",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/www-mashery-comblogomni-channel-explosion-mashery-signs-strategic-agreement-netsuite.png"
+	},
+	{
+		"curated_id": "Y8116d7arsY9hACWLh9wZ116jXzQDwb41235F116wW1s7xymgJZfiKFKaaOSxk09zEFLBULkYuRe116YwOwDzQhRerAbz8ew117117",
+		"title": "Mashery + Intel = The Ultimate Mashup",
+		"url": "http:\/\/www.mashery.com\/blog\/mashery-intel-ultimate-mashup",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/www-mashery-comblogcontentmashery-intel-ultimate-mashup.png"
+	},
+	{
+		"curated_id": "1vUcx6LemcywLR7t5D2i2cWZcnt4tdLQFgoOkRnJaLtg2lXrbVBhCgXjHd4zLuFG7e47JR1lGdlEGtxcuJthzQ117117",
+		"title": "RoboSpartan Robotics Creativity Reimagined",
+		"url": "http:\/\/www.3dsystems.com\/shop",
+		"domain": "www.3dsystems.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/cubify-comblogrobospartan-robotics-creativity-reimagined.png"
+	},
+	{
+		"curated_id": "TTwB2xR9GCwTSgX5TJuERT1mKVPr86HXHh6KbdrqxlLkfLnfaiWgqQvThv2J12389P41Em2116m6RgDdiVwCPE0VKw117117",
+		"title": "3D Printing Goes Mainstream with Staples",
+		"url": "http:\/\/www.3dsystems.com\/shop",
+		"domain": "www.3dsystems.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/cubify-comblog3d-printing-goes-mainstream-with-staples.png"
+	},
+	{
+		"curated_id": "pCFaKCTiY768IiylcB0YCOPlVuDs3FDe1tLDJqUsxPRLNw6gqP3et6sedeU5123vcZXzUcK116C1BJTac2V7B5qNRA117117",
+		"title": "Platform Success Strategies: Communicate the Value of Your API",
+		"url": "http:\/\/www.mashery.com\/blog\/platform-success-strategies-communicate-value-your-api",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/8181_blog_mashery_com.png"
+	},
+	{
+		"curated_id": "cVN5DRP0j1231QOrkKA93oMaHQJNmyyZ8aAIMBkE4UI116yuaT34A75zvNh4ZbWGn6Bs116he123krnJWQCupDhK3h116OOg117117",
+		"title": "Stop Designing Fragile Web APIs by Mathieu Fenniak",
+		"url": "https:\/\/mathieu.fenniak.net\/stop-designing-fragile-web-apis\/",
+		"domain": "mathieu.fenniak.net",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/8105_mathieu_fenniak_net.png"
+	},
+	{
+		"curated_id": "Cjfn1VexrNtT116U90CylAjpwZY9Tk116ciXnX0SUBrMvA9me5123lXhkJeCr116GpW5H4Z6Q116TwjKIlq1ntULsJJhRspg117117",
+		"title": "Want to Attract Developers to your API? Set Them Free",
+		"url": "http:\/\/www.mashery.com\/blog\/want-attract-developers-your-api-set-them-free",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/8048_blog_mashery_com.png"
+	},
+	{
+		"curated_id": "sjStvSDTbNcRRITBtdroMlqChHhfNBO7aIzWIqKgJUD3sFIq5BRKaqYPp116aYiajTh5uZtYwwAyCNHrSZOOr3rg117117",
+		"title": "API Design from Apigee",
+		"url": "http:\/\/apigee.com\/about\/resources",
+		"domain": "apigee.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/7973_apigee_com.png"
+	},
+	{
+		"curated_id": "uITW2cEqp2hywf8DLe123qnpyu8EEUOdN1K2SBpKG88imSW0PnZS123VRgFxb590C3FngNeNAt7GiTSEHHYxc2k4116Q117117",
+		"title": "API Design and Documentation",
+		"url": "http:\/\/www.digitalgov.gov\/about\/lost-and-found-mapping-page\/",
+		"domain": "www.digitalgov.gov",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/7972_www_howto_gov.png"
+	},
+	{
+		"curated_id": "ajQ6PK3cg56Y1zJX20aPvTdJd6DGjBrDAxPBaZz123K116116VTSu6vOl41161KjUZ67wgaq9DAUDyrJHs116Wp0Jm123zbxnA117117",
+		"title": "API Design and Architecture Boot Camp from Layer 7",
+		"url": "http:\/\/www.ca.com\/us\/education-training.html",
+		"domain": "www.ca.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/7971_www_layer7tech_com.png"
+	},
+	{
+		"curated_id": "YYQWEFl1166wF123X2ZtdaR5eHW3O116bvfDCYoNBPXc6E6r7fy123RPz123dHJKnNSMxxCC0AHiWqktSots116GuHm123O6B4CQ117117",
+		"title": "REST API Design Rulebook",
+		"url": "http:\/\/shop.oreilly.com\/product\/0636920021575.do",
+		"domain": "shop.oreilly.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/7969_shop_oreilly_com.png"
+	},
+	{
+		"curated_id": "1yg3rPTWJQBIh2CBNX9CnG5Z70ZKXY7pOQv498uARo8lrJ123pyrzI3JIgnJBcNtoSYi44A8XvjSI0Qf3m5Yfz116Q117117",
+		"title": "Three Ways to Think About API Design",
+		"url": "http:\/\/www.programmableweb.com\/news\/three-ways-to-think-about-api-design\/2012\/02\/14",
+		"domain": "www.programmableweb.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/7968_blog_programmableweb_com.png"
+	},
+	{
+		"curated_id": "WfKBb3KGVLbGpcPGJeE8rGkLs5eQwXagnsqY4f5Qz2pPiUj0qj75Hf5b4bH8V7yy6lp2123zWOYDTf2xsIT116TnNg117117",
+		"title": "White House API Standards",
+		"url": "https:\/\/github.com\/WhiteHouse\/api-standards",
+		"domain": "github.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/7967_github_com.png"
+	},
+	{
+		"curated_id": "GqF1237vBRzq6VLZ91164hSprGk7pe4kEnAVsqDZgD73FBth896TkMDMnmCVqwo8Pmwpw5iyFlQ116jKQeJPptggjpmw117117",
+		"title": "Designing APIs for Humans",
+		"url": "http:\/\/john-sheehan.com\/blog\/designing-apis-for-humans",
+		"domain": "john-sheehan.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/7949_john-sheehan_com.png"
+	},
+	{
+		"curated_id": "MZd9Z123XMAGXN28xW6OH2oVgeH123FYqXaNmrnLuMjW1ltCZzvNnf0RhXFpzV1238X483LaStzSV7aj7Ert6TCs9VSw117117",
+		"title": "APIs are changing the game for data delivery",
+		"url": "http:\/\/www.mashery.com\/blog\/apis-are-changing-game-data-delivery",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/7920_blog_mashery_com.png"
+	},
+	{
+		"curated_id": "vb123wAJqxBgsBfikoXLsc6ta6dau7BwZMwKn2JqSntEDrT0yW7pu6UxEeRbvzFvGiIMVAS123fEZGdzy7ZkTFQL5g117117",
+		"title": "Sports & APIs \u2013 A Perfect Fit",
+		"url": "http:\/\/www.mashery.com\/blog\/sports-apis-%e2%80%93-perfect-fit",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/7875_blog_mashery_com.png"
+	},
+	{
+		"curated_id": "ugtUG4ytcv1WeAh9YPF2FQs8u1P8uXDQ43qYQkaF1237moyJ116V6C116sNd116E116jr0oedi4k8ADQs17CfDqQZC1169yFRg117117",
+		"title": "Machine Sensor Data, APIs and Productivity",
+		"url": "http:\/\/www.mashery.com\/blog\/machine-sensor-data-apis-and-productivity",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/7606_blog_mashery_com.png"
+	},
+	{
+		"curated_id": "8Azy0Q1bOeB123B3eCPRKeatkNKsOHGsMJDpJPHPAb6M123gaFJr1gZMCviMikxMWT0xnKnYBK9116NNl2qUGHp4dv0g117117",
+		"title": "Connecting with APIs",
+		"url": "http:\/\/www.mashery.com\/blog\/connecting-apis",
+		"domain": "www.mashery.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/7546_blog_mashery_com.png"
+	},
+	{
+		"curated_id": "s4YmgJallrsLCgWbuV97VYLf9ZctdBm7fqPceybRAYsYy37ONitEwCbIMHrIRqApYaW8isAsUpVmhseDSTZX8Q117117",
+		"title": "Creative Market Launches Photoshop Extension, Announces Upcoming Release of New API",
+		"url": "http:\/\/www.programmableweb.com\/news\/creative-market-launches-photoshop-extension-announces-upcoming-release-new-api\/2013\/04\/11",
+		"domain": "www.programmableweb.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/7383_blog_programmableweb_com.png"
+	},
+	{
+		"curated_id": "ZediO14I7o5kT8r3U93VWv8abt123u00116iZvp3nbAl7Q80xlNpD5hiofPpQ5YMBYzg65Fz116EojQmzc9DAMI5Ky5Q117117",
+		"title": "Designing A RESTful API That Doesn't Suck",
+		"url": "http:\/\/devo.ps\/blog\/2013\/03\/22\/designing-a-restful-api-that-doesn-t-suck.html",
+		"domain": "devo.ps",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/7025_devo_ps.png"
+	},
+	{
+		"curated_id": "XSnGYmG5c1231HTFLTtb8nxCzT1JgLyi9n116caeB0EeLyQC9MpabYXbcGFxYewWS0j0WZ0whuxl123plbkkfNj9ONpw117117",
+		"title": "New API Blueprint Format Basics\u2014The Apiary Blog",
+		"url": "https:\/\/blog.apiary.io\/2013\/02\/20\/New-API-Blueprint-Format-Basics",
+		"domain": "blog.apiary.io",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/9352_api500_com.png"
+	},
+	{
+		"curated_id": "pFFzDbQLfCL0Fh5hPT3Li2zdAR4oChrz9F8HEepPa86eNgbQjM2I4LGCRwd15FVqqr7z8jE8q123Dw3uf116ejMEwA117117",
+		"title": "API Design & Development Guidelines",
+		"url": "https:\/\/dzone.com\/links\/api_design_amp_development_guidelines_selected_re.html",
+		"domain": "dzone.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/6233_www_dzone_com.png"
+	},
+	{
+		"curated_id": "QkA29dkm095OUUoPMztZtHvcg9oc123lN0fJX7vbNtW45COp123pKevLgVvJqD7uBiVk0tNWIa116q8ex0eocQPxj09g117117",
+		"title": "API Design from Apigee - 3rd Edition",
+		"url": "http:\/\/apigee.com\/about\/blog\/technology\/api-design-third-edition-video-slides",
+		"domain": "apigee.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/5673_blog_apigee_com.png"
+	},
+	{
+		"curated_id": "bOgLEsXCbYYl7MFzzg5vlxnguFHCqsOJ4SqDogzx3To116oyBiIKBd116SiwjLbuVjaYcF123Yw5123mN116HHUgFISyor123A117117",
+		"title": "OData and Impact on API Design (video & slides)",
+		"url": "http:\/\/apigee.com\/about\/blog\/technology\/odata-and-impact-api-design-video-slides",
+		"domain": "apigee.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/3484_blog_apigee_com.png"
+	},
+	{
+		"curated_id": "B646MjtTjSW87q1FK6o3y88hV3yjl1cg3cUWKSMlPZijU3Nd05WpekOArdgJtwx123zbERnrfxlkYyfcHqQpaX3A117117",
+		"title": "Why Startups Need an API",
+		"url": "https:\/\/tune.com\/blog\/startups-need-api\/",
+		"domain": "tune.com",
+		"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/ap-evangelist-site\/curated\/screenshots\/9352_api500_com.png"
+	}
+]
