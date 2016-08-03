@@ -23,7 +23,7 @@
 		"tool_id": "123KEubtan6h5rv5VY116MP123123PiGxuZKxil2E076G123Fy8aG2zUkWekjk8YWSgaakJlHMruIMfRdSRcJZYGvMVjg3ng117117",
 		"name": "API Blueprint",
 		"user": "apiaryio",
-		"details": "API Blueprint is a documentation-oriented API description language. A couple of semantic assumptions over the plain Markdown. API Blueprint is perfect for designing your Web API and its comprehensive documentation but also for quick prototyping and collaboration. It is easy to learn and even easier to read &ndash; after all it is just a form of plain text. API Blueprint, its parser, and most of its tools are completely open sourced so you dont have to worry about vendor lock-in. This also means you can freely integrate API Blueprint into any type of product, commercial or not.",
+		"details": "API Blueprint is a documentation-oriented API description language. A couple of semantic assumptions over the plain Markdown. API Blueprint is perfect for designing your Web API and its comprehensive documentation but also for quick prototyping and collaboration. It is easy to learn and even easier to read; after all,u200b it is just a form of plain text.",
 		"post_date": "2015-05-14 12:42:22",
 		"url": "https://github.com/apiaryio/api-blueprint/",
 		"blog_url": "",
@@ -46,7 +46,7 @@
 		"tool_id": "tM3sCmqkVzJkq8kScyA9ztPm3AnX4shEIiXgiXpZs7NsivokVGH9vq1236whtW60KkMoozrtQXvEgCt1YuysfEpg117117",
 		"name": "API Blueprint Sublime Plugin",
 		"user": "apiaryio",
-		"details": "API Blueprint Sublime Text plugin",
+		"details": "An API Blueprint Sublime editor text plugin.",
 		"post_date": "2015-05-14 12:42:47",
 		"url": "https://github.com/apiaryio/api-blueprint-sublime-plugin/",
 		"blog_url": "",
@@ -70,7 +70,7 @@
 		"tool_id": "PVQ6sFWyjEsqHszCVrjgtt2sL7YvFoUj0zSSCp123bK5P5Qkbf5m2Fa0WCUOyBlsomz4dUCJXYJ116RZHEtGx76iaQ117117",
 		"name": "Atom Editor API Blueprint Preview",
 		"user": "",
-		"details": "The Atom Editor API Blueprint preview is a plugin for the Atom editor that allows you to render HTML representation of API Blueprint in the right of the current open Atom editor using CTRL-SHIFT-A.&nbsp;This plugin requires Agilo&nbsp;to be installed and available in your path.",
+		"details": "The Atom Editor API Blueprint preview is a plugin for the Atom editor that allows you to render HTML representation of API Blueprint in the right of the current open Atom editor using CTRL-SHIFT-A. This plugin requires Agilou to be installed and available in your path.",
 		"post_date": "2014-06-15 13:17:56",
 		"url": "https://atom.io/packages/api-blueprint-preview",
 		"blog_url": "",
@@ -133,7 +133,7 @@
 		"tool_id": "116fyWva116eQRMi54zXjiQk123z7DykRoNc0D8wCPPQgBups1QIHnYfOArbg1b5HGIkq4116Qcfr28etgwIXQU0maSq0Q117117",
 		"name": "Cisco API Design Guide",
 		"user": "",
-		"details": "Several Cisco business units have teamed up to create this RESTful API design guide. Collectively, this includes&nbsp;DevNet,&nbsp;Collaboration, and the Application Platform Group. The objective of this document is to act as a guide to define the future, it does not represent the current state of all REST APIs at Cisco.",
+		"details": "Several Cisco business units have teamed up to create this RESTful API design guide. Collectively, this includes DevNet, Collaboration, and the Application Platform Group. The objective of this document is to act as a guide to define the future, it does not represent the current state of all REST APIs at Cisco.",
 		"post_date": "2015-08-23 15:20:20",
 		"url": "https://github.com/CiscoDevNet/api-design-guide",
 		"blog_url": "",
@@ -237,7 +237,7 @@
 		"tool_id": "BY8jiMqwz2J8oXKAP3i4WadmXLiFc0OJJdiB0V4uPsTG58pFilmFrXR3pFLMlF03LVZfyHmgP2Bct8S8msEMLg117117",
 		"name": "Haufe Group API Design Guide",
 		"user": "",
-		"details": "Purpose of this style guide is to gather a list of rules, best practices, resources and our way of creating REST APIs in Haufe Group. The style guide addresses API Designers, mostly developers and architects, who want to design an API. Intention is to ease the design process by providing helpful rules to create a succesful API that your customers will love.",
+		"details": "Purpose of this style guide is to gather a list of rules, best practices, resources and our way of creating REST APIs in Haufe Group. The style guide addresses API Designers, mostly developers and architects, who want to design an API. Intention is to ease the design process by providing helpful rules to create a successful API that your customers will love.",
 		"post_date": "2015-07-21 19:31:35",
 		"url": "http://haufe-lexware.github.io/api-style-guide/",
 		"blog_url": "",
@@ -319,7 +319,7 @@
 		"tool_id": "12jXk6ZDKDfZka9wOWD19SzCRtJdoatHS8sOjWhGMqLVIkQ30obdpMCgp116Zgge3RxO123FF2C123EUMarJcJFzPU6Q117117",
 		"name": "JSON API",
 		"user": "",
-		"details": "If youve ever argued with your team about the way your JSON responses should be formatted, JSON API is your anti-bikeshedding weapon. By following shared conventions, you can increase productivity, take advantage of generalized tooling, and focus on what matters: your application. Clients built around JSON API are able to take advantage of its features around efficiently caching responses, sometimes eliminating network requests entirely.",
+		"details": "If youveu200b ever argued with your team about the way your JSON responses should be formatted, JSON API is your anti-bikeshedding weapon. By following shared conventions, you can increase productivity, take advantage of generalized tooling, and focus on what matters: your application. Clients built around JSON API are able to take advantage of its features around efficiently caching responses, sometimes eliminating network requests entirely.",
 		"post_date": "2015-07-10 18:54:07",
 		"url": "http://jsonapi.org/",
 		"blog_url": "",
@@ -331,11 +331,9 @@
 		"followers": 0,
 		"watchers": 0,
 		"tags": [
-			"Specification",
 			"Media Type",
 			"Design",
-			"Definitions",
-			"Data Specifications"
+			"Definitions"
 		]
 	},
 	{
@@ -365,7 +363,7 @@
 		"tool_id": "WAfIg8637yn8mZXAMqCYg25BvkMqbXzdClCqd1w116agA2M5N9Lu2OyhqjWzqvcfHB6aLwmq123rTrozY5p4RMI8TQ117117",
 		"name": "Mason",
 		"user": "",
-		"details": "Mason is a JSON format for introducing hypermedia elements to classic JSON data representations. With Mason you get hypermedia elements for linking and modifying data, features for communicating to client developers and standardized error handling. Mason is built on JSON, reads JSON, writes JSON and generally fits well into a JSON based eco-system.",
+		"details": "Mason is a JSON format for introducing hypermedia elements to classic JSON data representations. With Mason, you get hypermedia elements for linking and modifying data, features for communicating to client developers and standardized error handling. Mason is built on JSON, reads JSON, writes JSON and generally fits well into a JSON based eco-system.",
 		"post_date": "2014-12-19 10:59:17",
 		"url": "https://github.com/JornWildt/Mason",
 		"blog_url": "",
@@ -399,16 +397,16 @@
 		"followers": 0,
 		"watchers": 0,
 		"tags": [
-			"Specification",
 			"Design",
-			"Definitions"
+			"Definitions",
+			"Data Specification"
 		]
 	},
 	{
 		"tool_id": "SwNxHJWgQiR6e9bt4Xm1WAe9s1JE529AP5tSPMiwa3fQXVBmuxg5pLOmPDU2QCEAKtBQ116SZaj6u3tHCAazP8jw117117",
-		"name": "OpenAPI-Specification",
+		"name": "OpenAPI Specification",
 		"user": "OAI",
-		"details": "The OpenAPI Specification Repository",
+		"details": "The goal of The OpenAPI Specification is to define a standard, language-agnostic interface to REST APIs which allows both humans and computers to discover and understand the capabilities of the service without access to source code, documentation, or through network traffic inspection. When properly defined via OpenAPI, a consumer can understand and interact with the remote service with a minimal amount of implementation logic. Similar to what interfaces have done for lower-level programming, OpenAPI removes the guesswork in calling the service.",
 		"post_date": "2016-03-11 23:16:54",
 		"url": "https://github.com/OAI/OpenAPI-Specification",
 		"blog_url": "",
@@ -420,6 +418,7 @@
 		"followers": "3107",
 		"watchers": "3107",
 		"tags": [
+			"Specification",
 			"GitHub",
 			"Design",
 			"Definitions"
@@ -551,7 +550,7 @@
 		"tool_id": "OeiX4a2gxt2K12gimiOfETcpsTI03QSaCj9tfMzyDlb7436CzzlG3116TmoYu4dp9Md1WubwPAA123yMFmwBaPPd6g117117",
 		"name": "RESTdesc",
 		"user": "",
-		"details": "Semantic descriptions for hypermedia APIs. RESTdesc allows you to capture the functionality of hypermedia APIs, so automated agents can use them. Despite their powerful capabilities, RESTdesc descriptions are easy to master. Description is not a goal in itself: you want your API to be used. See how RESTdesc opens up your API for discovery, based on its functional characteristics.",
+		"details": "Semantic descriptions for hypermedia APIs. RESTdesc allows you to capture the functionality of hypermedia APIs, so automated agents can use them. Despite their powerful capabilities, RESTdesc descriptions are easy to master. The description is not a goal in itself: you want your API to be used. See how RESTdesc opens up your API for discovery, based on its functional characteristics.",
 		"post_date": "2015-07-31 00:00:13",
 		"url": "http://restdesc.org/",
 		"blog_url": "",
@@ -715,6 +714,26 @@
 		]
 	},
 	{
+		"tool_id": "nyl6hyOF123MeJClwII43liWTetmERxPzgGE2LRxaAHNbLewThIB9VlucogbGlxUstFusCV7T1QFy6Y5JTT123pzpA117117",
+		"name": "W3C Web API Design Cookbook",
+		"user": "",
+		"details": "This document captures common practices in designing APIs that fit well into the Web platform as a whole, using WebIDL.",
+		"post_date": "2016-07-11 18:54:06",
+		"url": "https://www.w3.org/TR/api-design/",
+		"blog_url": "",
+		"blog_rss_url": "",
+		"twitter_url": "",
+		"github_url": "",
+		"logo": "",
+		"forks": 0,
+		"followers": 0,
+		"watchers": 0,
+		"tags": [
+			"Design",
+			"API Design Guide"
+		]
+	},
+	{
 		"tool_id": "J2ljRQEWSDd92YjRYKb2txIqKhxhh4FzBfz3uilwje4DN90rCyiLB6eKXWpDa6NeHQpquqlF83ZB3Wdi0EnvCg117117",
 		"name": "Web Application Description Language (WADL)",
 		"user": "",
@@ -751,6 +770,7 @@
 		"followers": "13",
 		"watchers": "13",
 		"tags": [
+			"Specification",
 			"GitHub",
 			"Design",
 			"Definitions"
