@@ -193,22 +193,25 @@
 	},
 	{
 		"tool_id": "ckhj2ZOpvUDFDOumu1hM3pDBYz8LaCB5oHY7h0JlMCjC7dRwZBHO7mG1smNFz0X4qwzVhvUi2ZjKSUioI24EVg117117",
-		"name": "Deployd",
+		"name": "deployd",
 		"user": "deployd",
-		"details": "Deployd is the simplest way to build realtime APIs for web and mobile apps. Ready-made, configurable Resources add common functionality to a Deployd backend, which can be further customized with JavaScript Events.",
+		"details": "a toolkit for building realtime APIs",
 		"post_date": "2015-06-30 17:09:16",
 		"url": "https://github.com/deployd/deployd",
 		"blog_url": "",
 		"blog_rss_url": "",
 		"twitter_url": "",
 		"github_url": "",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/bw-deployd.png",
-		"forks": "461",
-		"followers": "3342",
-		"watchers": "3342",
+		"logo": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png",
+		"forks": "590",
+		"followers": "4122",
+		"watchers": "4122",
 		"tags": [
+			"Real Time",
+			"GitHub",
 			"Design",
-			"Design"
+			"Design",
+			"Deployment"
 		]
 	},
 	{
