@@ -1,5 +1,27 @@
 [
 	{
+		"id": "ymZoyoVgl7i91hfTDtOHmUTqlfLLhl123jmtH7cuII7jwlX0UdImRoLgogmdktVdYcOR8S5gm9svZHBsUV6gMx7g117117",
+		"name": "API Stylebook",
+		"summary": "Collections Of Resources For API Designers. Publicly available API design guidelines are analyzed to list covered topics and their references within each one. All references to a specific topic throughout all analyzed guidelines are easily accessible. Browse each topic and be inspired by references from different guidelines. Design Guidelines cover different topics in different ways, get easy acce",
+		"details": "Collections Of Resources For API Designers. Publicly available API design guidelines are analyzed to list covered topics and their references within each one. All references to a specific topic throughout all analyzed guidelines are easily accessible. Browse each topic and be inspired by references from different guidelines. Design Guidelines cover different topics in different ways, get easy access to all references on each on",
+		"website": "http://apistylebook.com/",
+		"twitter": "https://twitter.com/apistylebook",
+		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/API_Stylebook.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/API_Stylebook.png",
+		"tags": [
+			"Design"
+		]
+	},
+	{
 		"id": "zYZSdJLklxKeseQOM3EyxcwHtPwF26jBhkta4wkzxC3wae116tUF123YEfalfSZyBEdjhvNiOacwDdF116l123yEV5shXQ117117",
 		"name": "Apiary",
 		"summary": "Apiary jump-started the modern API design movement, by making API definitions more than just about API documentation, allowing API designers to define APIs in the machine readable API definition format API blueprint, then mock, share, and publish documentation via a cloud platform.",
@@ -14,9 +36,9 @@
 		"base_url": "",
 		"blog": "http://blog.apiary.io/",
 		"blogrss": "http://blog.apiary.io/feed.xml",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apiary-logo.png",
-		"logo_width": "150",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apiary-logo.png",
+		"logo": "",
+		"logo_width": "0",
+		"screenshot": "",
 		"tags": [
 			"Virtualization",
 			"Virtualization",
@@ -46,7 +68,7 @@
 			"Virtualization",
 			"Testing",
 			"Design",
-			"Clients"
+			"Client"
 		]
 	},
 	{
@@ -93,7 +115,6 @@
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gelato-io-logo.png",
 		"tags": [
 			"Portal",
-			"Portal",
 			"Management",
 			"Documentation",
 			"Design",
@@ -103,8 +124,8 @@
 	{
 		"id": "TBpTV0A5SNFKuHdkxRxkpuB25u1E3OcYtaZzPPD37clumt1S16W3osEZXDb3nXZTcppTSzYnF4w0eU123DAiGHzg117117",
 		"name": "Goa",
-		"summary": "goa provides a novel approach for developing microservices that saves time when working on independent services and helps with keeping the overall system consistent.",
-		"details": "goa provides a novel approach for developing microservices that saves time when working on independent services and helps with keeping the overall system consistent.",
+		"summary": "goa provides a novel approach for developing microservices that saves time when working on independent services and helps with keeping the overall system consistent.u0026nbsp;",
+		"details": "goa provides a novel approach for developing microservices that saves time when working on independent services and helps with keeping the overall system consistent.u0026nbsp;",
 		"website": "https://goa.design/",
 		"twitter": "https://twitter.com/goadesign",
 		"github": "https://github.com/goadesign",
@@ -147,6 +168,29 @@
 			"Design",
 			"API Management Other",
 			"API LIfeycle"
+		]
+	},
+	{
+		"id": "6ZFqwhmUBohPZhGIT57eLomP1rKGHHH1231162lPrteMjG116KgYcQc4drPYvb4mCU8MmMhjU123rAv5Pqd01hevAi3S1Q117117",
+		"name": "Materia",
+		"summary": "A modern development environment to build advanced mobile and web applications. Materia is an easy-to-use backend to build all kinds of applications (mobile, web, gaming and more). Materia tooling aims to manage the entire development cycle for building enterprise class backends.",
+		"details": "A modern development environment to build advanced mobile and web applications. Materia is an easy-to-use backend to build all kinds of applications (mobile, web, gaming and more). Materia tooling aims to manage the entire development cycle for building enterprise class backends.",
+		"website": "https://getmateria.com/",
+		"twitter": "https://twitter.com/MateriaHQ",
+		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Materia_-_Develop_web_and_mobile_application_at_the_speed_of_light_.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Materia_-_Develop_web_and_mobile_application_at_the_speed_of_light_.png",
+		"tags": [
+			"Design",
+			"Deployment"
 		]
 	},
 	{
@@ -194,7 +238,7 @@
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/reprezen-logo.jpg",
 		"tags": [
 			"Design",
-			"Clients"
+			"Client"
 		]
 	},
 	{
@@ -230,8 +274,8 @@
 	{
 		"id": "Bxp8sOFf123sYzT0VU4Y07frN01bdPrxT1163jE8mF4dQ123h116ujO6vgmJklAAitu8PPbpcV5JD1oIbTXDvqLSl88SGQ117117",
 		"name": "Visual Paradigm",
-		"summary": "Visual Paradigm supports modeling the underlying communication model of REST API, as well as the generation of REST APIs and API documents.",
-		"details": "Visual Paradigm supports modeling the underlying communication model of REST API, as well as the generation of REST APIs and API documents.",
+		"summary": "u0026nbsp;Visual Paradigm supports modeling the underlying communication model of REST API, as well as the generation of REST APIs and API documents.",
+		"details": "u0026nbsp;Visual Paradigm supports modeling the underlying communication model of REST API, as well as the generation of REST APIs and API documents.",
 		"website": "https://www.visual-paradigm.com/",
 		"twitter": "https://twitter.com/visualparadigm",
 		"github": "",
