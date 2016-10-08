@@ -27,8 +27,8 @@
 		"curated_id": "6OVIyn4chl62W7lCApv6ECbdPElg32P6g6alSaHqpFwI4EzPU7bcE116maXRoo0NIF6ioqyCuen3123EOh4V1gddGA117117",
 		"item_date": "2016-10-04 00:00:00",
 		"title": "Why to Prioritize Your API Strategy Before Your API Design",
-		"url": "http://feedproxy.google.com/~r/ProgrammableWeb/~3/c8sETblzSY0/04",
-		"domain": "feedproxy.google.com",
+		"url": "http://www.programmableweb.com/news/why-to-prioritize-your-api-strategy-your-api-design/sponsored-content/2016/10/04",
+		"domain": "www.programmableweb.com",
 		"image": ""
 	},
 	{
@@ -37,6 +37,14 @@
 		"title": "A Web API ecosystem through featurebased reuse",
 		"url": "https://arxiv.org/pdf/1609.07108v1.pdf",
 		"domain": "arxiv.org",
+		"image": ""
+	},
+	{
+		"curated_id": "22vkbl03tCelP3OpsPYPLMYRIBwjRsvlZJuVFt4116uY1166hUcOHF0RWVyzW92ZxuEvuoWr9jh5DDgm0FxnhW7m7w117117",
+		"item_date": "2016-10-03 00:00:00",
+		"title": "Software backward compatibility undocumented APIs and importance of history etc",
+		"url": "http://www.codeproject.com/Articles/1136184/Software-backward-compatibility-undocumented-APIs",
+		"domain": "www.codeproject.com",
 		"image": ""
 	},
 	{
