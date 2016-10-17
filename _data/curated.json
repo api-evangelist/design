@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "44vdNxyBNPAzJRSBd123QsIG2XKmV3lpx4UOUSdie04zJza0NE4xpPjvh7QKNKOOsamZ123qygijuoqxh2z2RabHpQ117117",
+		"item_date": "2016-10-13 10:12:09",
+		"title": "Struggling with code to optimize how you chain APIs for advanced data analytics",
+		"url": "https://community.havenondemand.com/t5/Blog/Getting-started-with-HPE-Haven-OnDemand-Combinations/ba-p/3270",
+		"domain": "community.havenondemand.com",
+		"image": ""
+	},
+	{
 		"curated_id": "FK1its0YZegwnAQZjs4stwccrIREwW1116IJrTyIBrRKEjtsk116ipqK7sKiaxnB123YSFH84TZ116JHY6fVM7FAyxWkBw117117",
 		"item_date": "2016-10-14 10:44:21",
 		"title": "API Best Practices API Design",
@@ -27,8 +35,16 @@
 		"curated_id": "WqTGcKUw3MsC7jalluRA4yGHZ6AnkcECHAZTrnYxbREWTRmskWaxWiAxLl5npLyyOqctWUCabltzh0116J3oSSzA117117",
 		"item_date": "2016-10-12 00:00:00",
 		"title": "Web App Next Stop In Our Software Journey  REST Services Part III",
-		"url": "https://dzone.com/articles/web-app-next-stop-in-our-software-journey-rest-ser-1?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"url": "https://dzone.com/articles/web-app-next-stop-in-our-software-journey-rest-ser-1",
 		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "yeE116VNBLQEeHgFHIVX7TqV46YwRWmAI8Q4PAd3A3HEOBFE123iVi96HfLtmDhvWMMnZuSU9ISkwWEZcTcTerGtqQ117117",
+		"item_date": "2016-10-10 09:40:26",
+		"title": "swaggergistio  Saving and Versioning Swagger definitions",
+		"url": "https://jordwalsh.com/2016/10/10/swagger-gist-io-saving-and-versioning-swagger-definitions/",
+		"domain": "jordwalsh.com",
 		"image": ""
 	},
 	{
