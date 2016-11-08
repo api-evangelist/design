@@ -9,7 +9,6 @@ specificationVersion: "0.14"
 apis: []
 tags:
 - Design
-- Design
 include:
 - name: API Stylebook
   url: https://raw.githubusercontent.com/api-evangelist/design/gh-pages/_data/api-commons/api-stylebook/apis.yaml
