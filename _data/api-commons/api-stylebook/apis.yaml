@@ -1,5 +1,10 @@
 name: API Stylebook
-description: ""
+description: Collections Of Resources For API Designers. Publicly available API design
+  guidelines are analyzed to list covered topics and their references within each
+  one. All references to a specific topic throughout all analyzed guidelines are easily
+  accessible. Browse each topic and be inspired by references from different guidelines.
+  Design Guidelines cover different topics in different ways, get easy access to all
+  references on each on
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/API_Stylebook.png
 tags:
 - Design
