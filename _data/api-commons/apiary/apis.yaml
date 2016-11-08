@@ -17,6 +17,12 @@ apis: []
 x-common:
 - type: x-blog
   url: http://blog.apiary.io/
+- type: x-blog-rss-feed
+  url: http://blog.apiary.io/feed.xml
+- type: x-github
+  url: https://github.com/apiaryio
+- type: x-twitter
+  url: https://twitter.com/apiaryio
 - type: x-website
   url: https://apiary.io
 include: []
