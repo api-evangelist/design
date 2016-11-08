@@ -1,6 +1,6 @@
 name: Visual Paradigm
-description: Visual Paradigm supports modeling the underlying communication model
-  of REST API, as well as the generation of REST APIs and API documents.
+description: '''Visual Paradigm supports modeling the underlying communication model
+  of REST API, as well as the generation of REST APIs and API documents.'''
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/visual-paradigm.png
 tags:
 - Design
