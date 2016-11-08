@@ -1,11 +1,11 @@
 name: APIMATIC
-description: '''APIMATIC is an automatic SDK generator for Hypermedia APIs. Providing
+description: APIMATIC is an automatic SDK generator for Hypermedia APIs. Providing
   SDKs or client libraries not only reduces the time required for your customers to
   begin consuming your API, but also provides competitor advantage by targeting the
   variety of programming languages. While the market pressures you to release early
   and release often, you will often find yourself constrained with respect to time
   and resources. As a result, maintaining SDKs becomes untenable which ends up becoming
-  a support nightmare.'''
+  a support nightmare.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apimatic-logo.png
 tags:
 - Design
