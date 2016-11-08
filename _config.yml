@@ -13,11 +13,11 @@ markdown:     kramdown
 permalink: /:categories/:year/:month/:day/:title/
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "DS_Store"]
 
-paginate: 20
+paginate: 150
 paginate_path: "/blog/page:num"
 
-categories_path : /categories.html
-tags_path : /tags.html
+org: api-evangelist
+repo: design
 
 # Masthead title
 masthead_link: http://design.apievangelist.com
