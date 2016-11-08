@@ -1,0 +1,27 @@
+name: Restlet
+description: APISpark is an cloud API platform that lets you create, host, manage
+  and use web APIs. Using the Restlet Framework at its core, APISpark simplifies the
+  web API experience, the time to market, and the overall cost to get started and
+  to scale you APIs. Restlet is a web API platform vendor, pioneer of RESTful web
+  APIs. APISpark serves our customers around the world, providing software to build
+  web APIs, which includes APISpark, the PaaS version of Restlet. APISpark lets you
+  build and deploy your web APIs, which includes the creation, hosting and management--all
+  in one solution.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Logo-Restlet-Horizontal-800x225.png
+tags:
+- Design
+created: "2016-11-07"
+modified: "2016-11-07"
+url: https://raw.githubusercontent.com/api-evangelist/design/gh-pages/_data/api-commons/restlet/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-blog
+  url: http://restlet.com/blog
+- type: x-website
+  url: https://restlet.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
