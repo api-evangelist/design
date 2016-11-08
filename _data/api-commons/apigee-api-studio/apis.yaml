@@ -1,8 +1,8 @@
 name: Apigee API Studio
-description: Apigee launched their API Studio out of their earlier Apigee-127 product,
+description: '''Apigee launched their API Studio out of their earlier Apigee-127 product,
   their work on the Swagger platform and editor, and their BaaS offering. The new
   studio opens up the ability for developers to design, mock, test and share via their
-  online open source based platform.
+  online open source based platform.'''
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-studio-logo.png
 tags:
 - Design
