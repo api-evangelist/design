@@ -1,12 +1,12 @@
 name: Restlet
-description: APISpark is an cloud API platform that lets you create, host, manage
+description: '''APISpark is an cloud API platform that lets you create, host, manage
   and use web APIs. Using the Restlet Framework at its core, APISpark simplifies the
   web API experience, the time to market, and the overall cost to get started and
   to scale you APIs. Restlet is a web API platform vendor, pioneer of RESTful web
   APIs. APISpark serves our customers around the world, providing software to build
   web APIs, which includes APISpark, the PaaS version of Restlet. APISpark lets you
   build and deploy your web APIs, which includes the creation, hosting and management--all
-  in one solution.
+  in one solution.'''
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Logo-Restlet-Horizontal-800x225.png
 tags:
 - Design
