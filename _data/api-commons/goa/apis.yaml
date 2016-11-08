@@ -1,7 +1,7 @@
 name: Goa
-description: goa provides a novel approach for developing microservices that saves
+description: '''goa provides a novel approach for developing microservices that saves
   time when working on independent services and helps with keeping the overall system
-  consistent.
+  consistent.'''
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/goa-logo.png
 tags:
 - Design
