@@ -1,12 +1,12 @@
 name: MuleSoft
-description: 'MuleSoft provides the most widely used integration platform for connecting
+description: '''MuleSoft provides the most widely used integration platform for connecting
   SaaS and enterprise applications in the cloud and on-premise. With the rise of cloud
   and mobile, enterprises face a choice: get overwhelmed by the resulting explosion
   of end points or seize the opportunity to gain competitive advantage. Founded on
   the idea that connecting applications should not be hard, MuleSoft lets organizations
   harness the power of their applications through integration. MuleSoft&rsquo;s Anypoint&trade;
   technology eliminates costly, time-intensive point-to-point integration, enabling
-  business agility.'
+  business agility.'''
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mulesoft-logo.jpeg
 tags:
 - Design
