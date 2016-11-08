@@ -1,0 +1,23 @@
+name: API Stylebook
+description: Collections Of Resources For API Designers. Publicly available API design
+  guidelines are analyzed to list covered topics and their references within each
+  one. All references to a specific topic throughout all analyzed guidelines are easily
+  accessible. Browse each topic and be inspired by references from different guidelines.
+  Design Guidelines cover different topics in different ways, get easy access to all
+  references on each on
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/API_Stylebook.png
+tags:
+- Design
+created: "2016-11-07"
+modified: "2016-11-07"
+url: https://raw.githubusercontent.com/api-evangelist/design/gh-pages/_data/api-commons/api-stylebook/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: http://apistylebook.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
