@@ -1,11 +1,11 @@
 name: Apiary
-description: '''Apiary.io is a hosted suite of tools that help companies build web
+description: '"Apiary.io is a hosted suite of tools that help companies build web
   APIs quickly, test and monitor them easily and document them effortlessly. It provides
   API owners with necessary infrastructure and helps them build relationship with
   their users. Core of the self-service solution is API Blueprint, an efficient format
   for describing an API, aspiring to define new gold standard for REST API development.
   The product uses this Blueprint to streamline adoption of new services and simplify
-  integration to other systems.'''
+  integration to other systems."'
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apiary-logo.png
 tags:
 - Design
