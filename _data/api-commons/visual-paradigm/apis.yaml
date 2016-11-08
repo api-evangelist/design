@@ -1,0 +1,19 @@
+name: Visual Paradigm
+description: Visual Paradigm supports modeling the underlying communication model
+  of REST API, as well as the generation of REST APIs and API documents.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/visual-paradigm.png
+tags:
+- Design
+created: "2016-11-07"
+modified: "2016-11-07"
+url: https://raw.githubusercontent.com/api-evangelist/design/gh-pages/_data/api-commons/visual-paradigm/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-website
+  url: https://www.visual-paradigm.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
