@@ -1,0 +1,30 @@
+name: APIMATIC
+description: APIMATIC is an automatic SDK generator for Hypermedia APIs. Providing
+  SDKs or client libraries not only reduces the time required for your customers to
+  begin consuming your API, but also provides competitor advantage by targeting the
+  variety of programming languages. While the market pressures you to release early
+  and release often, you will often find yourself constrained with respect to time
+  and resources. As a result, maintaining SDKs becomes untenable which ends up becoming
+  a support nightmare.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apimatic-logo.png
+tags:
+- Design
+created: "2016-11-07"
+modified: "2016-11-07"
+url: https://raw.githubusercontent.com/api-evangelist/design/gh-pages/_data/api-commons/apimatic/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-blog
+  url: https://apimatic.io/blog
+- type: x-github
+  url: https://github.com/apimatic
+- type: x-twitter
+  url: https://twitter.com/apimatic
+- type: x-website
+  url: https://www.apimatic.io/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
