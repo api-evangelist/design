@@ -1,0 +1,288 @@
+- patent_id: KWvgnD1WxSXNryoK4GbO2tqx9ETRb3VVZ2v4Vs116B123Dc117
+  name: Ferroelectric-type nonvolatile semiconductor memory and operation thereof
+  summary: ""
+  abstract: A method of operating a ferroelectric-type nonvolatile semiconductor memory
+    comprising a memory unit having a bit line, a transistor for selection, a sub-memory
+    unit composed of memory cells that are M in number, plate lines that are M in
+    number, and a sense amplifier connected to the bit line; wherein each memory cell
+    comprises a first electrode, a ferroelectric layer and a second electrode; the
+    first electrodes of the memory cells constituting the sub-memory unit are in common
+    with the sub-memory unit; said common first electrode is connected to the bit
+    line through the transistor for selection; and each second electrode is connected
+    to each plate line; said method comprising reading out data stored in the memory
+    cell at a designated address externally designated, latching said data in the
+    sense amplifier, and then outputting said data latched in the sense amplifier.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=06882558&OS=06882558&RS=06882558
+  owner: Sony Corporation
+  publication_number: 06882558
+  publication_date: "2005-04-19"
+  application_number: "10239388"
+  application_date: "2002-01-17"
+  number: 06882558
+  tags:
+  - Schema
+  - Design
+  - Definitions
+- patent_id: KWvgnD1WxSXNryoK4GbO2tqx9ETRb3VVZ2v4Vs116B123Dc117
+  name: Method and computer program product for customized information management
+    by allowing a first habitat to access other habitats to retrieve information from
+    the other habitats
+  summary: ""
+  abstract: A system, method and computer program product are provided for network-based
+    information management. A first habitat is initiated. The first habitat has markers
+    that are utilized for identifying information selected by a user. The information
+    associated with the markers is retrieved and displayed on an information screen
+    of the first habitat utilizing a network. Multiple users are allowed to view the
+    information screen of the first habitat. A second habitat is also allowed to access
+    the first habitat for retrieving information from the first habitat.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=07133892&OS=07133892&RS=07133892
+  owner: NVIDIA International, Inc.
+  publication_number: 07133892
+  publication_date: "2006-11-07"
+  application_number: 09905678
+  application_date: "2001-07-13"
+  number: 07133892
+  tags:
+  - Schema
+  - Design
+  - Definitions
+- patent_id: KWvgnD1WxSXNryoK4GbO2tqx9ETRb3VVZ2v4Vs116B123Dc117
+  name: Debugger causality system and methods
+  summary: ""
+  abstract: A debugger casuality feature is provided. Debugger casuality is the ability
+    of a cooperating debugger to associate an ordered set of casuality related threads,
+    possibly originating from different processes, as a logical thread of execution.
+    In an illustrative implementation, systems and methods are provided allowing for
+    the execution and management of debugger casuality within a computing environment.
+    In the contemplated implementation casuality hooks are provided for integration
+    with calls found in software operating in a computing environment. The hooks help
+    attach a cooperating debugger to be able to step through a call executing in the
+    computing environment. The casuality hooks provide the ability to step between
+    logically related physical threads executing in a given computing environment.
+    The physical threads ranging from single process, multi-threaded applications
+    to multi-machine, multi-process systems. Furthermore, debugger casuality provides
+    the ability to show the relationship between physical threads executing in a given
+    computing environment.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=07293256&OS=07293256&RS=07293256
+  owner: Microsoft Corporation
+  publication_number: 07293256
+  publication_date: "2007-11-06"
+  application_number: "10174359"
+  application_date: "2002-06-18"
+  number: 07293256
+  tags:
+  - Schema
+  - Design
+  - Definitions
+- patent_id: KWvgnD1WxSXNryoK4GbO2tqx9ETRb3VVZ2v4Vs116B123Dc117
+  name: Methods, systems and computer program products for data gathering in a digital
+    and hard copy document environment
+  summary: ""
+  abstract: A system for easily determining viewership of articles or ads in printed
+    publications and using the determined viewership to determine author compensation,
+    ad rates, or other historical or demographic related information is described.
+    The system receives scan information of portions of a number of paper documents
+    that is generated by scanners operated by a number of users. The system searches
+    digital content using the received scan information, and determines a readership
+    value for components of the paper document based upon the search.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=07437023&OS=07437023&RS=07437023
+  owner: Exbiblio B.V.
+  publication_number: "07437023"
+  publication_date: "2008-10-14"
+  application_number: "11208458"
+  application_date: "2005-08-18"
+  number: "07437023"
+  tags:
+  - Schema
+  - Design
+  - Definitions
+- patent_id: KWvgnD1WxSXNryoK4GbO2tqx9ETRb3VVZ2v4Vs116B123Dc117
+  name: Electronic communication control
+  summary: ""
+  abstract: An electronic communication control device suitable for embedding into
+    a network interface card or a line card of a switch or router. The electronic
+    communication control device is capable of communications in multiple protocols.
+    The processing architecture of the electronic communication control device may
+    be adapted for any communications protocol and may be well suited for Internet
+    protocol. The electronic communication control device may perform protocol translation,
+    for example, between IPv4 and IPv6. An exemplary embodiment of the electronic
+    communication control device includes a parallel processing chipset operating
+    on multiple busses with embedded software. The electronic communication control
+    device provides a hardware architecture upon which embedded software may operate
+    to provide services, such as, for example, system control, packet analysis, packet
+    filtering, translation services, switching, routing and/or multiplexing control.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=07599289&OS=07599289&RS=07599289
+  owner: Lockheed Martin Corporation
+  publication_number: 07599289
+  publication_date: "2009-10-06"
+  application_number: "11128168"
+  application_date: "2005-05-13"
+  number: 07599289
+  tags:
+  - Schema
+  - Design
+  - Definitions
+- patent_id: KWvgnD1WxSXNryoK4GbO2tqx9ETRb3VVZ2v4Vs116B123Dc117
+  name: Method and apparatus for toolbox inventory
+  summary: ""
+  abstract: A method and apparatus is provided for electronically inventorying an
+    electronically locked and unlocked toolbox before and after RFID (Radio Frequency
+    IDentified) tagged tools are accessed by an authorized user. A record is generated
+    and stored of tools added and/or removed along with the identity of the accessing
+    user. At anytime it is desired, a record may be generated of tagged tools in the
+    toolbox or, alternatively, a list of tagged tools missing from assigned positions
+    in the toolbox.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=07755482&OS=07755482&RS=07755482
+  owner: Electronic Inventory Solutions, Inc.
+  publication_number: 07755482
+  publication_date: "2010-07-13"
+  application_number: "11468172"
+  application_date: "2006-08-29"
+  number: 07755482
+  tags:
+  - Schema
+  - Design
+  - Definitions
+- patent_id: KWvgnD1WxSXNryoK4GbO2tqx9ETRb3VVZ2v4Vs116B123Dc117
+  name: Estimating remaining use time of a mobile device
+  summary: ""
+  abstract: The present disclosure provides methods and systems for estimating the
+    remaining use time of a battery of a mobile device. In some implementations, the
+    method includes providing a use profile programmed in a memory of the mobile device,
+    and monitoring a rate of change of a state of charge (SOC) of the battery. The
+    rate of change of the SOC and the use profile are processed to affect a comparison
+    therebetween, and the remaining use time is estimated based on the comparison.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=07960945&OS=07960945&RS=07960945
+  owner: Google Inc.
+  publication_number: 07960945
+  publication_date: "2011-06-14"
+  application_number: "12022656"
+  application_date: "2008-01-30"
+  number: 07960945
+  tags:
+  - Schema
+  - Design
+  - Definitions
+- patent_id: KWvgnD1WxSXNryoK4GbO2tqx9ETRb3VVZ2v4Vs116B123Dc117
+  name: System and method for replicating offline scheduling transactions from a client
+    to a server
+  summary: ""
+  abstract: A facility for replicating offline scheduling transactions directed to
+    a server is provided. The facility is implemented as a client-side application
+    that integrates with and utilizes components of a store-and-forward application,
+    which is operable to execute on a client to guarantee that transactions submitted
+    on the client are replicated and carried out on a service hosted on a remote server
+    even in light of intermittent connectivity between the client, the server, and
+    networks. Records describing transactions intended remote service are written
+    to an outbox of the store-and-forward application on the client. When online,
+    the store-and-forward application first invokes the facility, which processes
+    the items in the outbox by iteratively retrieving the items from the outbox and,
+    for each item, determining whether the item is a transaction intended for the
+    scheduling application. If the item is intended for the scheduling application,
+    the facility sends the item to the scheduling application. Otherwise, if the item
+    is not intended for the scheduling application, the facility returns the item
+    to the outbox for processing by other components of the store-and-forward application.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08185590&OS=08185590&RS=08185590
+  owner: Microsoft Corporation
+  publication_number: 08185590
+  publication_date: "2012-05-22"
+  application_number: "11004315"
+  application_date: "2004-12-02"
+  number: 08185590
+  tags:
+  - Schema
+  - Design
+  - Definitions
+- patent_id: KWvgnD1WxSXNryoK4GbO2tqx9ETRb3VVZ2v4Vs116B123Dc117
+  name: API and business language schema design framework for message exchanges
+  summary: ""
+  abstract: A server system facilitates an exchange of messages with a remote client
+    application. The server system includes a plurality of application servers hosting
+    a plurality of applications. A plurality of Application Program Interfaces (APIs)
+    provides programmatic access to the plurality of applications, each of the APIs
+    being configured to receive request messages compiled by the remote client application.
+    First and second request messages, respectively addressed to first and second
+    APIs of the plurality of APIs by a remote client application, each comprise at
+    least one common data component. Further, the first request message includes a
+    first payload specific to the first API, and the second request message includes
+    a payload specific to the second API.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08352968&OS=08352968&RS=08352968
+  owner: eBay Inc.
+  publication_number: 08352968
+  publication_date: "2013-01-08"
+  application_number: "12984461"
+  application_date: "2011-01-04"
+  number: 08352968
+  tags:
+  - Schema
+  - Design
+  - Definitions
+- patent_id: KWvgnD1WxSXNryoK4GbO2tqx9ETRb3VVZ2v4Vs116B123Dc117
+  name: Bipod-mounted mortar fire control system
+  summary: ""
+  abstract: An apparatus for mounting an electronics unit, such as a digital pointing
+    device, to a mortar bipod may include a pair of spaced-apart, generally parallel
+    mounting brackets having respective inner faces. A pair of support rails may be
+    fixed to opposite outer edges of the mounting brackets. A pair of support rods
+    may be fixed between opposite lower portions of the mounting brackets. A lower
+    guide rod housing may be fixed to first ends of the support rails. A pair of fire
+    control guide rods may have first ends fixed to the lower guide rod housing. A
+    plurality of shock mounts may have respective bases and tops. The shock mount
+    bases may be fixed to the respective inner faces of the mounting brackets. The
+    electronics unit may include a top plate fixed thereto. A pair of side plates
+    may be fixed to the top plate. The side plates may extend generally perpendicularly
+    from the top plate. The tops of the shock mounts may be fixed to the side plates.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08661962&OS=08661962&RS=08661962
+  owner: The United States of America as Represented by the Secretary of the Army
+  publication_number: 08661962
+  publication_date: "2014-03-04"
+  application_number: "13197978"
+  application_date: "2011-08-04"
+  number: 08661962
+  tags:
+  - Schema
+  - Design
+  - Definitions
+- patent_id: KWvgnD1WxSXNryoK4GbO2tqx9ETRb3VVZ2v4Vs116B123Dc117
+  name: Methods and systems for simplifying object mapping for external interfaces
+  summary: ""
+  abstract: Methods and systems for simplifying object mapping for external interfaces.
+    At least two client requests for action may be received from an external interface
+    wherein each client request may be evaluated sequentially or concurrently in a
+    governed and non-blocking technique. Each client request may be associated to
+    a logical object in order to minimize a representational gap between the client
+    request and a physical object using the logical object. Each query request may
+    be responded to using the object relational mapping in order to simplify the external
+    interface by minimizing the representational gap between the external interface
+    and the physical object using the logical object.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=08983984&OS=08983984&RS=08983984
+  owner: Catavolt, Inc.
+  publication_number: 08983984
+  publication_date: "2015-03-17"
+  application_number: "14106427"
+  application_date: "2013-12-13"
+  number: 08983984
+  tags:
+  - Schema
+  - Design
+  - Definitions
+- patent_id: 2GsZ7DM5RssFIkfcH116M116DLDNyLYfmpBJDB8SxkrjwEI117
+  name: API notebook tool
+  summary: ""
+  abstract: Techniques for an application programming interface (API) notebook tool
+    are disclosed. In some implementations, an API notebook is a tool, framework,
+    and ecosystem that enables easy exploration of services that expose APIs, creation
+    and documentation of examples, use cases and workflows, and publishing and collaboration
+    of APIs. In some embodiments, systems, processes, and computer program products
+    for an API notebook tool include receiving a request for a client for calling
+    an API for a service, and dynamically generating the client for the API for the
+    service.
+  url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=09442700&OS=09442700&RS=09442700
+  owner: MuleSoft, Inc.
+  publication_number: 09442700
+  publication_date: "2016-09-13"
+  application_number: "14301193"
+  application_date: "2014-06-10"
+  number: 09442700
+  tags:
+  - Design
