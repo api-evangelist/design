@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "uetpzQfUr5fDgx8fVrPMnX8Tolu17U4EIoUOJT1O1epC5pPuY3wljulx116HPDBYeKfj0CPk4s0gw116PAosRzg0VQ117117",
+		"item_date": "2017-01-06 00:00:00",
+		"title": "Building Your API for Longevity Part 1 SpecDriven Development",
+		"url": "https://www.nginx.com/blog/building-api-for-longevity-spec-driven-development/",
+		"domain": "www.nginx.com",
+		"image": ""
+	},
+	{
+		"curated_id": "zW1166KfTF18TZbgNlV0VGXjjeP05wT8exemp5sIEkydETc1iURUF0Ai1lFDV68Orq8Y8gZ4IUWDmA116soeAn4Qrw117117",
+		"item_date": "2017-01-05 14:07:30",
+		"title": "3 Ways to Make Your API Responses Flexible",
+		"url": "https://zapier.com/engineering/flexible-api-responses/",
+		"domain": "zapier.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YVvgkQ2Ic6d5x0OtYsUII8jtV116zI5T8K6B0mN6v123123St123TivfxNHB89QhBILAXkby5Pse116xajj2bQguaos5g1kQ117117",
+		"item_date": "2017-01-03 00:00:00",
+		"title": "Protobuf Alternative to REST for Microservices",
+		"url": "http://www.ensor.cc/2016/12/protobuf-alternative-to-rest-for.html",
+		"domain": "www.ensor.cc",
+		"image": ""
+	},
+	{
+		"curated_id": "HnVUSV6yHT5123B4JryqfSTG422UE123GY2Rje1uGX23y8yPhSaci9eaDyVrAVO8KL0s7mhvevccdr4BKR4RmTVy6Q117117",
+		"item_date": "2017-01-04 00:00:00",
+		"title": "On the Origins of APIFirst Companies",
+		"url": "https://blog.readme.io/on-the-origins-of-api-first-companies/",
+		"domain": "blog.readme.io",
+		"image": ""
+	},
+	{
+		"curated_id": "olaSZPknIQKSEycY1166Oh6TdEApvnupBx3JKVlDurV6fKE4fa12388jYgaNuCtdWerMwcrIupMZFiudOwuigtVgLQ117117",
+		"item_date": "2017-01-05 08:20:07",
+		"title": "GitHub  zalandorestfulapiguidelines A model set of guidelines for RESTful APIs created by Zalando",
+		"url": "https://github.com/zalando/restful-api-guidelines",
+		"domain": "github.com",
+		"image": ""
+	},
+	{
 		"curated_id": "2N3jC2deFyIyhB51237eNJLULnx0FRDIdUsG1169iuCXaC116RwyaUH2tZT123vh0ykY01SpxA7O9GuUZYZ4123DA3Lw3SzQ117117",
 		"item_date": "2017-01-02 06:42:00",
 		"title": "DDD  REST  Domain Driven APIs for the Web",
