@@ -176,11 +176,10 @@
     links: []
     tools: []
     questions: []
-  - building_block_id: 1z9CVaM8WCnc4G3kp85c123n3C116XZzpP005Wq7aTIYgH4117
+  - building_block_id: TqS123poWSGyDAQAtpNgWs3BmGluOV5qcG116yFI2qglh88117
     building_block_category_id: 5qql116lSd2300RvTjmW8pI2WZVUbM0dNehjtzFXJgbyE117
-    name: Use Your Own APIs
-    about: Always use your own APIs, allowing you to understand the challenges with
-      integrating, as well as the pain of operations and outages.
+    name: Naming
+    about: How to name things
     category_id: "188"
     category: Best Practices
     category_about: What are the best practices for API design. Do not confuse this
@@ -198,8 +197,114 @@
     links: []
     tools: []
     questions: []
+  - building_block_id: wljFjVbKVRI3Nx4wqZeLTKEw6D1ooUcAshE6My6hgPA117
+    building_block_category_id: 5qql116lSd2300RvTjmW8pI2WZVUbM0dNehjtzFXJgbyE117
+    name: Case
+    about: Which case (lowercase, camelCase, ...) to use and when
+    category_id: "188"
+    category: Best Practices
+    category_about: What are the best practices for API design. Do not confuse this
+      with behavior when consuming an API. This is about best practices specifically
+      in the world of API design. This should be about having an overarching philosophy,
+      and ethos when it comes to API design, that reflects the technical, and business
+      goals of a company.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "10"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: Kh42DTpVmMwTxUUPlSl406XczbpT123y5XhTILB87dt0U117
+    building_block_category_id: 5qql116lSd2300RvTjmW8pI2WZVUbM0dNehjtzFXJgbyE117
+    name: Global design
+    about: General considerations on API design
+    category_id: "188"
+    category: Best Practices
+    category_about: What are the best practices for API design. Do not confuse this
+      with behavior when consuming an API. This is about best practices specifically
+      in the world of API design. This should be about having an overarching philosophy,
+      and ethos when it comes to API design, that reflects the technical, and business
+      goals of a company.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "11"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: 1z9CVaM8WCnc4G3kp85c123n3C116XZzpP005Wq7aTIYgH4117
+    building_block_category_id: 5qql116lSd2300RvTjmW8pI2WZVUbM0dNehjtzFXJgbyE117
+    name: Use Your Own APIs
+    about: Always use your own APIs, allowing you to understand the challenges with
+      integrating, as well as the pain of operations and outages.
+    category_id: "188"
+    category: Best Practices
+    category_about: What are the best practices for API design. Do not confuse this
+      with behavior when consuming an API. This is about best practices specifically
+      in the world of API design. This should be about having an overarching philosophy,
+      and ethos when it comes to API design, that reflects the technical, and business
+      goals of a company.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "12"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: 123SUkwAQp7Grm9bwGsNpFQwIS0E48UgXxK1235u123DTUcII117
+    building_block_category_id: 5qql116lSd2300RvTjmW8pI2WZVUbM0dNehjtzFXJgbyE117
+    name: Notifying API consumers
+    about: How to send events or notifications to API consumers
+    category_id: "188"
+    category: Best Practices
+    category_about: What are the best practices for API design. Do not confuse this
+      with behavior when consuming an API. This is about best practices specifically
+      in the world of API design. This should be about having an overarching philosophy,
+      and ethos when it comes to API design, that reflects the technical, and business
+      goals of a company.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "13"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
 - category_name: Requests
   building_blocks:
+  - building_block_id: gbKMMBsKzhS123j8lLOJNHpb3wm116BPo5SvCLG5ZsSTW8o117
+    building_block_category_id: O34lRksP7YpvgXXLFLVdeYu2Ekh0BOrBLRj0VCxNPRY117
+    name: HTTP Headers
+    about: The usage of standard or custom HTTP headers
+    category_id: "189"
+    category: Requests
+    category_about: These are the core considerations when you are designing an API.
+      They are extracted from publicly available, and some private API design guides
+      of leading API platforms. They are not meant to be hard fast rules, but the
+      core design elements to consider for organizations to consider along their own
+      API journey.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
   - building_block_id: PRwGvJTGDuRnBrb33123123Ro2oXtDTsNCh9dFqulnp116Fnc117
     building_block_category_id: O34lRksP7YpvgXXLFLVdeYu2Ekh0BOrBLRj0VCxNPRY117
     name: SSL
@@ -562,8 +667,178 @@
     links: []
     tools: []
     questions: []
+- category_name: HTTP Methods
+  building_blocks:
+  - building_block_id: lzjHFcVUeZaYbMfCtOVt8J6AstnaeZ116xVfx1XPsSlYM117
+    building_block_category_id: 8riNWVktVncGtBRcOLGILBweO3KUXWfXgIgXRAGFcS8117
+    name: GET
+    about: The GET method requests a representation of the specified resource. Requests
+      using GET should only retrieve data and should have no other effect.
+    category_id: "398"
+    category: HTTP Methods
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "1"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: 9JgVYcxkjexOrM56OgDvi3hruq116bLo0IMTLtGNEwj70117
+    building_block_category_id: 8riNWVktVncGtBRcOLGILBweO3KUXWfXgIgXRAGFcS8117
+    name: POST
+    about: The POST method requests that the server accept the entity enclosed in
+      the request as a new subordinate of the web resource identified by the URI.
+      The data POSTed might be, for example, an annotation for existing resources;
+      a message for a bulletin board, newsgroup, mailing list, or comment thread;
+      a block of data that is the result of submitting a web form to a data-handling
+      process; or an item to add to a database.
+    category_id: "398"
+    category: HTTP Methods
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "2"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: BUEdPiWGHQbYFIaCQ7v44X4Z0zfGlHvurO8B2Unz1BA117
+    building_block_category_id: 8riNWVktVncGtBRcOLGILBweO3KUXWfXgIgXRAGFcS8117
+    name: PUT
+    about: The PUT method requests that the enclosed entity be stored under the supplied
+      URI. If the URI refers to an already existing resource, it is modified; if the
+      URI does not point to an existing resource, then the server can create the resource
+      with that URI.
+    category_id: "398"
+    category: HTTP Methods
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "3"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: LTTt1169n96vdIQwErJkxIBqyFMgwkEFndpOtHDwcUGqo117
+    building_block_category_id: 8riNWVktVncGtBRcOLGILBweO3KUXWfXgIgXRAGFcS8117
+    name: PATCH
+    about: The PATCH method applies partial modifications to a resource.
+    category_id: "398"
+    category: HTTP Methods
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "4"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: ZmafoaQZ7mLFgQveraPVTzXjiHvdao8BHWrpzze1iHo117
+    building_block_category_id: 8riNWVktVncGtBRcOLGILBweO3KUXWfXgIgXRAGFcS8117
+    name: DELETE
+    about: The DELETE method deletes the specified resource.
+    category_id: "398"
+    category: HTTP Methods
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "5"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: g3urRYlwz9v9skrxgYLrKrqvE4116123WyyrkP9mH34h9Gs117
+    building_block_category_id: 8riNWVktVncGtBRcOLGILBweO3KUXWfXgIgXRAGFcS8117
+    name: OPTIONS
+    about: "The OPTIONS method returns the HTTP methods that the server supports for
+      the specified URL. This can be used to check the functionality of a web server
+      by requesting \u2018*\u2019 instead of a specific resource."
+    category_id: "398"
+    category: HTTP Methods
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "6"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: pmxEGUCKqIkgg116Cqu8tkk80RJfR53wwmqUzHSpbrN0w117
+    building_block_category_id: 8riNWVktVncGtBRcOLGILBweO3KUXWfXgIgXRAGFcS8117
+    name: HEAD
+    about: The HEAD method asks for a response identical to that of a GET request,
+      but without the response body. This is useful for retrieving meta-information
+      written in response headers, without having to transport the entire content.
+    category_id: "398"
+    category: HTTP Methods
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "7"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: GcPF4v123116H2qFTXFXPRK123116brVwq116zdAe8jmDiTE0xLt8117
+    building_block_category_id: 8riNWVktVncGtBRcOLGILBweO3KUXWfXgIgXRAGFcS8117
+    name: Forbidden methods alternatives
+    about: What to do when only possible HTTP methods are POST and GET
+    category_id: "398"
+    category: HTTP Methods
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "8"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
 - category_name: Response
   building_blocks:
+  - building_block_id: KbT116o123lsbEhRO116116X4j116RCRH116IGBgHTgtAp931236AmrOU117
+    building_block_category_id: mcYit03IhbK9uYsuNVq26jYkP964MASAE9TQRSN3DmI117
+    name: HTTP Headers
+    about: The usage of standard or custom HTTP headers
+    category_id: "190"
+    category: Response
+    category_about: What design considerations go into the response an API returns.
+      It can be easy to focus on the request surface are for an API, but a response
+      has a number of things to consider as ewll.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
   - building_block_id: fukni1wfOgkbPjeHPMZFmUWxO123cNpw1gk116wyBjvICoU117
     building_block_category_id: mcYit03IhbK9uYsuNVq26jYkP964MASAE9TQRSN3DmI117
     name: Status Codes
@@ -808,8 +1083,639 @@
     links: []
     tools: []
     questions: []
+  - building_block_id: xfBh3ChSID7Br123vd6BaiAvisAvqsjEIHC0rayLOQ116lA117
+    building_block_category_id: mcYit03IhbK9uYsuNVq26jYkP964MASAE9TQRSN3DmI117
+    name: Collection
+    about: What is a collection (set) of resources
+    category_id: "190"
+    category: Response
+    category_about: What design considerations go into the response an API returns.
+      It can be easy to focus on the request surface are for an API, but a response
+      has a number of things to consider as ewll.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "12"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: 54aEisn123xG7krsFzXgxrPqZ0DGWTZ6V2JymOGMX2e9M117
+    building_block_category_id: mcYit03IhbK9uYsuNVq26jYkP964MASAE9TQRSN3DmI117
+    name: Sorting a collection
+    about: How to sort a collection of resources
+    category_id: "190"
+    category: Response
+    category_about: What design considerations go into the response an API returns.
+      It can be easy to focus on the request surface are for an API, but a response
+      has a number of things to consider as ewll.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "13"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+- category_name: HTTP Status User Error
+  building_blocks:
+  - building_block_id: E9XYvkyl9LnykZ78qJJdkOBEHEgTkU5sSuxWf4gnFJQ117
+    building_block_category_id: y4Bid0ygzKp2t6116123aXDVxkXAhET2ixFQaOe9MIK0mGU117
+    name: 400 Bad Request
+    about: The server cannot or will not process the request due to an apparent client
+      error (e.g., malformed request syntax, too large size, invalid request message
+      framing, or deceptive request routing).
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "1"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: WPkngT1166EtwJ3g123NuiEcHj0UhK5M7Ma6h5dSyHrc5pc117
+    building_block_category_id: y4Bid0ygzKp2t6116123aXDVxkXAhET2ixFQaOe9MIK0mGU117
+    name: 401 Unauthorized
+    about: Similar to 403 Forbidden, but specifically for use when authentication
+      is required and has failed or has not yet been provided. The response must include
+      a WWW-Authenticate header field containing a challenge applicable to the requested
+      resource.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "2"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: JX571230wrxK116HSsr123xJO116poxT21UX1232JvqtvIn6hVWa8117
+    building_block_category_id: y4Bid0ygzKp2t6116123aXDVxkXAhET2ixFQaOe9MIK0mGU117
+    name: 403 Forbidden
+    about: The request was a valid request, but the server is refusing to respond
+      to it. The user might be logged in but does not have the necessary permissions
+      for the resource.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "3"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: UudQAsidv1v4H6SIeM5yR897xEvVFCQmSlX9zGqb9oI117
+    building_block_category_id: y4Bid0ygzKp2t6116123aXDVxkXAhET2ixFQaOe9MIK0mGU117
+    name: 404 Not Found
+    about: The requested resource could not be found but may be available in the future.
+      Subsequent requests by the client are permissible.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "4"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: zpPbH2EYOGW80OAAzjpvnDLYhR59CGq5kHZaRw30s64117
+    building_block_category_id: y4Bid0ygzKp2t6116123aXDVxkXAhET2ixFQaOe9MIK0mGU117
+    name: 405 Method Not Allowed
+    about: A request method is not supported for the requested resource; for example,
+      a GET request on a form which requires data to be presented via POST, or a PUT
+      request on a read-only resource.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "5"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: AkMdPMHtaXbW3no123QKGZ116Av5e9tUtqfO27IisOy123TIE117
+    building_block_category_id: y4Bid0ygzKp2t6116123aXDVxkXAhET2ixFQaOe9MIK0mGU117
+    name: 406 Not Acceptable
+    about: The requested resource is capable of generating only content not acceptable
+      according to the Accept headers sent in the request.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "6"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: 4fcPEfuNGLSTGvePv9GlN4dFBv5tNwx0tQH8diDR9123Y117
+    building_block_category_id: y4Bid0ygzKp2t6116123aXDVxkXAhET2ixFQaOe9MIK0mGU117
+    name: 408 Request Timeout
+    about: 'The server timed out waiting for the request. According to HTTP specifications:
+      The client did not produce a request within the time that the server was prepared
+      to wait. The client MAY repeat the request without modifications at any later
+      time.'
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "7"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: kvIrR9HfdfhLYBw0AeMT7tq4ugKUHqn7dVUeDQ9w8pM117
+    building_block_category_id: y4Bid0ygzKp2t6116123aXDVxkXAhET2ixFQaOe9MIK0mGU117
+    name: 409 Conflict
+    about: Indicates that the request could not be processed because of conflict in
+      the request, such as an edit conflict between multiple simultaneous updates.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "8"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: ZIvAngqeeNDWzDVzWXpQNWmZvWhyBBtagNPiFv01zvM117
+    building_block_category_id: y4Bid0ygzKp2t6116123aXDVxkXAhET2ixFQaOe9MIK0mGU117
+    name: 410 Gone
+    about: Indicates that the resource requested is no longer available and will not
+      be available again. This should be used when a resource has been intentionally
+      removed and the resource should be purged. Upon receiving a 410 status code,
+      the client should not request the resource in the future. Clients such as search
+      engines should remove the resource from their indices. Most use cases do not
+      require clients and search engines to purge the resource, and a 404 Not Found
+      may be used instead.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "9"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: sRNb05RdCdiHIz7FLDQzgvBJNBMVCMbeX8116IjsBdY6I117
+    building_block_category_id: y4Bid0ygzKp2t6116123aXDVxkXAhET2ixFQaOe9MIK0mGU117
+    name: 411 Length Required
+    about: The request did not specify the length of its content, which is required
+      by the requested resource.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "11"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: a89amxIFXTK1tquCOf4YKifjec123YiQ8T0mw8Y4jytHY117
+    building_block_category_id: y4Bid0ygzKp2t6116123aXDVxkXAhET2ixFQaOe9MIK0mGU117
+    name: 412 Precondition Failed
+    about: The server does not meet one of the preconditions that the requester put
+      on the request.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "12"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: azMfYugh6ylzYe3rfhzMxvwG5uoZLrrHjcNyxbnZE123Q117
+    building_block_category_id: y4Bid0ygzKp2t6116123aXDVxkXAhET2ixFQaOe9MIK0mGU117
+    name: 415 Unsupported Media Type
+    about: The request entity has a media type which the server or resource does not
+      support. For example, the client uploads an image as image/svg+xml, but the
+      server requires that images use a different format.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "15"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: FFDC116123t4V3VNS6ixRayoqsW7h1B97x0BX4123NYJJESfQ117
+    building_block_category_id: y4Bid0ygzKp2t6116123aXDVxkXAhET2ixFQaOe9MIK0mGU117
+    name: 422 Unprocessable Entity
+    about: The request was well-formed but was unable to be followed due to semantic
+      errors.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "22"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: trYKEcvJzLu7IUj1gc2lUooiDIb6Ltcsm5PRPzTDv116k117
+    building_block_category_id: y4Bid0ygzKp2t6116123aXDVxkXAhET2ixFQaOe9MIK0mGU117
+    name: 423 Locked
+    about: The resource that is being accessed is locked.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "23"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: VOmPWlALtQO2veCCOPVYsoQPK97kHGvUBCZhBvH5izk117
+    building_block_category_id: y4Bid0ygzKp2t6116123aXDVxkXAhET2ixFQaOe9MIK0mGU117
+    name: 428 Precondition Required
+    about: The user has sent too many requests in a given amount of time. Intended
+      for use with rate-limiting schemes.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "28"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: mAljQd7H9W5IPjTLTbP7xeUvrUchOGFlZo6W116oCNXZI117
+    building_block_category_id: y4Bid0ygzKp2t6116123aXDVxkXAhET2ixFQaOe9MIK0mGU117
+    name: 429 Too Many Requests
+    about: The user has sent too many requests in a given amount of time. Intended
+      for use with rate-limiting schemes.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "29"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+- category_name: HTTP Status Redirection
+  building_blocks:
+  - building_block_id: yGyVpLyke4BeNkIQMdsMcWLqMfTcWOVOftFJJF9hxWc117
+    building_block_category_id: THoYYwrQ4YUBvoRftY2xnv81HEEQgcJpOl2rNAMGm5A117
+    name: 301 Moved Permanently
+    about: This and all future requests should be directed to the given URI.
+    category_id: "400"
+    category: HTTP Status Redirection
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "1"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: AP5Yt6yxp7MnbTE1Daa16vZDz94NgZgSt3ZwFA6DWQQ117
+    building_block_category_id: THoYYwrQ4YUBvoRftY2xnv81HEEQgcJpOl2rNAMGm5A117
+    name: 302 Found
+    about: Common way of performing URL redirection. An HTTP response with this status
+      code will additionally provide a URL in the location header field. The user
+      agent (e.g. a web browser) is invited by a response with this code to make a
+      second, otherwise identical, request to the new URL specified in the location
+      field.
+    category_id: "400"
+    category: HTTP Status Redirection
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "2"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: T7jOzRfeytYAfIyN5NG2O1160LIokWNdpH116CcgTfOisGY117
+    building_block_category_id: THoYYwrQ4YUBvoRftY2xnv81HEEQgcJpOl2rNAMGm5A117
+    name: 303 See Other
+    about: The response to the request can be found under another URI using a GET
+      method. When received in response to a POST (or PUT/DELETE), the client should
+      presume that the server has received the data and should issue a redirect with
+      a separate GET message.
+    category_id: "400"
+    category: HTTP Status Redirection
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "3"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: hxRYAqyjdaSrSGugk0Ids5uWlwMMBKbtofLqpgtcodA117
+    building_block_category_id: THoYYwrQ4YUBvoRftY2xnv81HEEQgcJpOl2rNAMGm5A117
+    name: 304 Not Modified
+    about: Indicates that the resource has not been modified since the version specified
+      by the request headers If-Modified-Since or If-None-Match. In such case, there
+      is no need to retransmit the resource since the client still has a previously-downloaded
+      copy.
+    category_id: "400"
+    category: HTTP Status Redirection
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "4"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+- category_name: HTTP Status Server Error
+  building_blocks:
+  - building_block_id: R4KeJDDyNGmBkGpLqYi83W0q9C1bgLH0Olkvp2IdFeg117
+    building_block_category_id: gnJbKPy81j5tHCOsyxFKiqzNw92njN116YB8CuisLpSXU117
+    name: 500 Internal Server Error
+    about: A generic error message, given when an unexpected condition was encountered
+      and no more specific message is suitable.
+    category_id: "401"
+    category: HTTP Status Server Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "1"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: lB8AV7UVU0u1ayd925yVKEENVxdlo41160GDovXB60LZ0117
+    building_block_category_id: gnJbKPy81j5tHCOsyxFKiqzNw92njN116YB8CuisLpSXU117
+    name: 501 Not Implemented
+    about: The server either does not recognize the request method, or it lacks the
+      ability to fulfill the request. Usually this implies future availability (e.g.,
+      a new feature of a web-service API).
+    category_id: "401"
+    category: HTTP Status Server Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "2"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: 8QzCpIOasjnF0xMM116aUeMHleVR5qvZZpPgbLaQDTxBs117
+    building_block_category_id: gnJbKPy81j5tHCOsyxFKiqzNw92njN116YB8CuisLpSXU117
+    name: 503 Service Unavailable
+    about: The server is currently unavailable (because it is overloaded or down for
+      maintenance). Generally, this is a temporary state.
+    category_id: "401"
+    category: HTTP Status Server Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "3"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+- category_name: HTTP Status Success
+  building_blocks:
+  - building_block_id: pNAxgaSV1DWx0JwvUgENAWcqrfH116J5DqhkYT4xQNZsc117
+    building_block_category_id: m9XVyLOI0aBnvntj9pl4NcNqVG7sdzvlBcWfAzQCphQ117
+    name: 200 OK
+    about: Standard response for successful HTTP requests. The actual response will
+      depend on the request method used. In a GET request, the response will contain
+      an entity corresponding to the requested resource. In a POST request, the response
+      will contain an entity describing or containing the result of the action.
+    category_id: "410"
+    category: HTTP Status Success
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "1"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: wPZwWQ85NEKCgOEhB9116UglaRu90W123f4ER116Akzu0b7QM117
+    building_block_category_id: m9XVyLOI0aBnvntj9pl4NcNqVG7sdzvlBcWfAzQCphQ117
+    name: 201 Created
+    about: The request has been fulfilled, resulting in the creation of a new resource.
+    category_id: "410"
+    category: HTTP Status Success
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "2"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: 3aSrGHJgoYKWBtP4s48ZKNGt7idyfMz123n5FbfgciC123c117
+    building_block_category_id: m9XVyLOI0aBnvntj9pl4NcNqVG7sdzvlBcWfAzQCphQ117
+    name: 202 Accepted
+    about: The request has been accepted for processing, but the processing has not
+      been completed. The request might or might not be eventually acted upon, and
+      may be disallowed when processing occurs.
+    category_id: "410"
+    category: HTTP Status Success
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "3"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: p2Z398h2123UMdniPSePiYeBRYa6123vq9LBreSbKnDEPF8117
+    building_block_category_id: m9XVyLOI0aBnvntj9pl4NcNqVG7sdzvlBcWfAzQCphQ117
+    name: 204 No Content
+    about: The server successfully processed the request and is not returning any
+      content.
+    category_id: "410"
+    category: HTTP Status Success
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "4"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: 0A35123dFmEMDQR116XbA2wpC4jl116L8RqRWRSKbeqxZness117
+    building_block_category_id: m9XVyLOI0aBnvntj9pl4NcNqVG7sdzvlBcWfAzQCphQ117
+    name: 206 Partial Content
+    about: The server is delivering only part of the resource (byte serving) due to
+      a range header sent by the client. The range header is used by HTTP clients
+      to enable resuming of interrupted downloads, or split a download into multiple
+      simultaneous streams.
+    category_id: "410"
+    category: HTTP Status Success
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "5"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+- category_name: Error handling
+  building_blocks:
+  - building_block_id: akQCUu89U6X1161kYr4fmUxMVCxYlO5t32R8EGvdlaJjE117
+    building_block_category_id: ZD5ck5123iEj4nPlc7rYW0myWMjnVDQjNSLsuzgzOYwkg117
+    name: Error format
+    about: How to provide information about errors
+    category_id: "412"
+    category: Error handling
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "22"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: t6SGGdX0g812346nTXarMBZkqiu7MZKGid1G116rv5feqOM117
+    building_block_category_id: ZD5ck5123iEj4nPlc7rYW0myWMjnVDQjNSLsuzgzOYwkg117
+    name: Errors
+    about: How to handle errors
+    category_id: "412"
+    category: Error handling
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "22"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
 - category_name: Media Types
   building_blocks:
+  - building_block_id: 7qdB5EWYYqfsD24KQhw57imvqlUfHIkfPB3Z7aC3wNw117
+    building_block_category_id: 4lYETlzFYz2U6aJ116iKMWzq7sVcbzYykp5i1161168s2OXIc117
+    name: Content negociation and media types
+    about: How to describe your API data format and/or propose different formats (like
+      json, yaml, xml atom, ...)
+    category_id: "191"
+    category: Media Types
+    category_about: A media type (also known as MIME type and content type) is a two-part
+      identifier for file formats and format contents transmitted on the Internet,
+      assigned by he Internet Assigned Numbers Authority (IANA). There are a handful
+      of default media types that every API should consider as part of the API design
+      process.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
   - building_block_id: 1CXGDF9uaUeS2v3Dnyc1N96t9fno6iBnNxigclRJsfY117
     building_block_category_id: 4lYETlzFYz2U6aJ116iKMWzq7sVcbzYykp5i1161168s2OXIc117
     name: application/json
@@ -918,31 +1824,12 @@
     links: []
     tools: []
     questions: []
+- category_name: Hypermedia
+  building_blocks: []
+- category_name: Data
+  building_blocks: []
 - category_name: Open Standards
   building_blocks:
-  - building_block_id: bgU7UQ2116kbb6Ef0T9KJElV8KwkzwHRbtcRYCKYbcsWM117
-    building_block_category_id: a7pXKrI4kZ70NA7iJLBlXsc1xH1kv7dcBMLYIh6wrAQ117
-    name: RFC 7807
-    about: This document defines a problem detail as a way to carry machine-readable
-      details of errors in a HTTP response to avoid the need to define new error response
-      formats for HTTP APIs.
-    category_id: "192"
-    category: Open Standards
-    category_about: There are a number of existing open standards that should be considered
-      as part of the API design process. Designers and architects should resist reinventing
-      the wheel when it comes to many of the aspects of API design, as things have
-      already been done. These are just a handful of the open standards that are used
-      by other companies in their API design.
-    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
-    category_hex: '#0039A6'
-    image: ""
-    image_width: "100"
-    sort_order: "0"
-    organizations: []
-    apis: []
-    links: []
-    tools: []
-    questions: []
   - building_block_id: F6pIuWpBeCVnZy6xSl9uG7F9rcuWR8JCc2rw116KIDxk4117
     building_block_category_id: a7pXKrI4kZ70NA7iJLBlXsc1xH1kv7dcBMLYIh6wrAQ117
     name: JSON Schema
@@ -1273,6 +2160,321 @@
     links: []
     tools: []
     questions: []
+  - building_block_id: bgU7UQ2116kbb6Ef0T9KJElV8KwkzwHRbtcRYCKYbcsWM117
+    building_block_category_id: a7pXKrI4kZ70NA7iJLBlXsc1xH1kv7dcBMLYIh6wrAQ117
+    name: RFC 7807
+    about: This document defines a problem detail as a way to carry machine-readable
+      details of errors in a HTTP response to avoid the need to define new error response
+      formats for HTTP APIs.
+    category_id: "192"
+    category: Open Standards
+    category_about: There are a number of existing open standards that should be considered
+      as part of the API design process. Designers and architects should resist reinventing
+      the wheel when it comes to many of the aspects of API design, as things have
+      already been done. These are just a handful of the open standards that are used
+      by other companies in their API design.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "14"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+- category_name: Resources
+  building_blocks:
+  - building_block_id: 05VR7J4sFhDu116GTxSMSqCZLSoe41162UzwMvsqypDaMPg117
+    building_block_category_id: 7MrF9WGMKHK8lKTPGCGhMipx81JsW1s1wPqontPD0Ls117
+    name: Update resource
+    about: How to update a resource
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "1"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: UBsZjqm4E6JDmQ276lL8C271160Dkd5qFtMwbcyxAJ6WY117
+    building_block_category_id: 7MrF9WGMKHK8lKTPGCGhMipx81JsW1s1wPqontPD0Ls117
+    name: Track change
+    about: How to track change on resources
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "2"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: yFoOA4iu5123d70K2TV0JKLVHg45UDKskrY116y0hgpb5ZQ117
+    building_block_category_id: 7MrF9WGMKHK8lKTPGCGhMipx81JsW1s1wPqontPD0Ls117
+    name: Batch Bulk
+    about: How to handle batch/bulk processing/creation/update/... (e.g. handle multiple
+      resources at conce)
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "3"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: PoaDrrv07Kny1TbXH9ia116116YzbxgW9yxhoAm31231Q9SC0117
+    building_block_category_id: 7MrF9WGMKHK8lKTPGCGhMipx81JsW1s1wPqontPD0Ls117
+    name: Update resource partially
+    about: How to udate partially a resource
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "4"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: qAnIOoofAE8J3CNMFRCq0hTjU95dSfU6I116i5sikU94g117
+    building_block_category_id: 7MrF9WGMKHK8lKTPGCGhMipx81JsW1s1wPqontPD0Ls117
+    name: Delete resource
+    about: How to delete resources
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "5"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: Ee9123Yh123DFJ7MR0cfuEsHiaGTYagbwPU0om1ZOeFT9Ok117
+    building_block_category_id: 7MrF9WGMKHK8lKTPGCGhMipx81JsW1s1wPqontPD0Ls117
+    name: Retrieve resource
+    about: How to retrieve a resource
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "6"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: r123RMj2HeQeDQyMLtVD7cGvcga7ujv116v0ydbYC3HHyrc117
+    building_block_category_id: 7MrF9WGMKHK8lKTPGCGhMipx81JsW1s1wPqontPD0Ls117
+    name: ID with semantic
+    about: Using meaningful ids (like `me`)
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "7"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: H123aucp123BtJXMS00MBGzJRIL8nbfZh1116EkgUS2nfEnnk117
+    building_block_category_id: 7MrF9WGMKHK8lKTPGCGhMipx81JsW1s1wPqontPD0Ls117
+    name: Replace resource
+    about: How to replace (or update fully) a resource
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "8"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: ixuLL2hnZ0J18qBBJGJAX0IF0gRfLQlfJaBd4agRZXo117
+    building_block_category_id: 7MrF9WGMKHK8lKTPGCGhMipx81JsW1s1wPqontPD0Ls117
+    name: Resource
+    about: General informations about resources
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "9"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: 116VAgjQzlgVCMqxiHJVin3CnCRLRfttGwyoOrXtO10yc117
+    building_block_category_id: 7MrF9WGMKHK8lKTPGCGhMipx81JsW1s1wPqontPD0Ls117
+    name: URL format
+    about: How to design URLs
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "10"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: os12311aprjZI9TdHQODbHoUxkM2M5XKFYLMa4l123123JQYk117
+    building_block_category_id: 7MrF9WGMKHK8lKTPGCGhMipx81JsW1s1wPqontPD0Ls117
+    name: Create resource
+    about: How to create resources
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "11"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: aoQRGBucSXYjfydgNtEtSE8TjpqopltAcVwToJa2eNQ117
+    building_block_category_id: 7MrF9WGMKHK8lKTPGCGhMipx81JsW1s1wPqontPD0Ls117
+    name: Resource's state
+    about: How to change a resources state/status (like processed/sent/paid/...)
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "12"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: jxBFlb7xkU116Y1IJ0QD5ZIYvnBhQiJsmU7zpsr6VsWbc117
+    building_block_category_id: 7MrF9WGMKHK8lKTPGCGhMipx81JsW1s1wPqontPD0Ls117
+    name: Resource ID
+    about: What is a resource ID and/or how its built
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "13"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: pQb1FwaOJy3vNEGVpPKcUZ6ue5IS116AAaDZrBvP0MKXY117
+    building_block_category_id: 7MrF9WGMKHK8lKTPGCGhMipx81JsW1s1wPqontPD0Ls117
+    name: Action resource
+    about: How to use action resource (e.g. resources like /cancel or /approve)
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "14"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: dThJ2VHZ61p8PSN116TX0wkWxj116WihZBJ8BWKHgHYs5BY117
+    building_block_category_id: 7MrF9WGMKHK8lKTPGCGhMipx81JsW1s1wPqontPD0Ls117
+    name: Create resource with a specific ID
+    about: How to create resource with a provided id
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "15"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: NyIl7sT3gxFpw1163wwy1M4e543DqPYfKVei2F4B9g3q0117
+    building_block_category_id: 7MrF9WGMKHK8lKTPGCGhMipx81JsW1s1wPqontPD0Ls117
+    name: Relationships
+    about: How to define and use relations between resources
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "16"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: xxrWNHZNSxKpIkE6vk2yq3WoKMXgsRm19me5rc86hIo117
+    building_block_category_id: 7MrF9WGMKHK8lKTPGCGhMipx81JsW1s1wPqontPD0Ls117
+    name: Retrieve resource partially
+    about: How to retrieve partially a resource
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "17"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
 - category_name: Design Process
   building_blocks:
   - building_block_id: 7F39116L61t7d3klmfMZM8FMvvO1pGciSoUROSE15QW5I117
@@ -1561,10 +2763,10 @@
     questions: []
 - category_name: Internationalization
   building_blocks:
-  - building_block_id: QyeabkeK123leip5w1mu2mxzD8ZLDDreXrfAEiLIkDjGM117
+  - building_block_id: BgIzmGc32TIgd1165QyMs123vzJ1poiDXBIHB0jx3U5vF9o117
     building_block_category_id: aykHTzyiNSrM6p123dte116FNPqaAQMut123fbk3GmsEz8GwA117
-    name: Accept-Language
-    about: Set the language the API should be speaking using&nbsp;Accept-Language.d
+    name: Language
+    about: Which language(s) use when designing an API
     category_id: "238"
     category: Internationalization
     category_about: What international considers come into play as part of the API
@@ -1582,56 +2784,35 @@
     links: []
     tools: []
     questions: []
-- category_name: Other
-  building_blocks:
-  - building_block_id: hz116nVQgWLpjkerab123sy1J4116oRoQXEK7DvtQSzDJcAE0117
-    building_block_category_id: FfYGp8SLRmXiiNTByX8Y1231160sZXhliengyR116UkIrJx48117
-    name: Parser
-    about: An API definition parser, available in multiple languages and open up the
-      programmatic generation of API definitions as localized object.
-    category_id: "74"
-    category: Other
-    category_about: What are some of the other nickel and dime items, as part of design
-      process that should be considered? This is my general catch-all bucket for the
-      API design line, where I put links to other lines, stops, and just loose items
-      that will affect API design, and should be thought about.
+  - building_block_id: QyeabkeK123leip5w1mu2mxzD8ZLDDreXrfAEiLIkDjGM117
+    building_block_category_id: aykHTzyiNSrM6p123dte116FNPqaAQMut123fbk3GmsEz8GwA117
+    name: Accept-Language
+    about: "Set the language the API should be speaking using\_Accept-Language."
+    category_id: "238"
+    category: Internationalization
+    category_about: What international considers come into play as part of the API
+      design process? This will not impact all companies and organizations, but remember
+      you are operating your APIs on the World Wide Web, and you may not be considering
+      all of the potential consumers who are using your APIs, or would be, if you
+      took some more steps to internationalize.
     category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
     category_hex: '#0039A6'
-    image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-gears.png
-    image_width: "0"
-    sort_order: "1"
-    organizations: []
-    apis: []
-    links: []
-    tools: []
-    questions: []
-  - building_block_id: 6C7MRPTkFs9R9U1kpWjQ6b0K9TnPnWQv8fF7j4p0orc117
-    building_block_category_id: FfYGp8SLRmXiiNTByX8Y1231160sZXhliengyR116UkIrJx48117
-    name: Interactive Documentation / Console
-    about: Generated API documentation allowing developers to make calls against APIs
-      as they are learning about the interface, turning API education into a hands
-      on experience.
-    category_id: "74"
-    category: Other
-    category_about: What are some of the other nickel and dime items, as part of design
-      process that should be considered? This is my general catch-all bucket for the
-      API design line, where I put links to other lines, stops, and just loose items
-      that will affect API design, and should be thought about.
-    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
-    category_hex: '#0039A6'
-    image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-documentation-interactive.png
-    image_width: "0"
+    image: ""
+    image_width: "100"
     sort_order: "2"
     organizations: []
     apis: []
     links: []
     tools: []
     questions: []
-  - building_block_id: C8OEHq1w4Ex2gQQSd1k123RMQDcq1jRgOznUxIEy9s038117
+- category_name: Miscellaneous
+  building_blocks: []
+- category_name: Other
+  building_blocks:
+  - building_block_id: CB3iMU116fxjsdPko123W0DyO0XZThaXbRI4LQEs8Cr6a3g117
     building_block_category_id: FfYGp8SLRmXiiNTByX8Y1231160sZXhliengyR116UkIrJx48117
-    name: Validator
-    about: Tools for validating API calls, enabling developers to determine which
-      types of calls will be valid, using central API definition and schema.
+    name: Governance
+    about: How to ensure API governance (advertise, consistency, ...)
     category_id: "74"
     category: Other
     category_about: What are some of the other nickel and dime items, as part of design
@@ -1640,19 +2821,18 @@
       that will affect API design, and should be thought about.
     category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
     category_hex: '#0039A6'
-    image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-validation.png
-    image_width: "0"
-    sort_order: "3"
+    image: ""
+    image_width: "100"
+    sort_order: "8"
     organizations: []
     apis: []
     links: []
     tools: []
     questions: []
-  - building_block_id: jltueWS4SfvthNDIuxozAwCRjhmB4w4116IMQWEyUeQMI117
+  - building_block_id: 9dNrVnltHe98SkITI05H116x116OPrVSV123AojO6bwOQhNHo117
     building_block_category_id: FfYGp8SLRmXiiNTByX8Y1231160sZXhliengyR116UkIrJx48117
-    name: Github Sync
-    about: The ability to store and sync API definitions with Github, providing a
-      central public or private repository for the definition of an API resource.
+    name: Retrieve a collection
+    about: How to get a collection or resources
     category_id: "74"
     category: Other
     category_about: What are some of the other nickel and dime items, as part of design
@@ -1661,19 +2841,18 @@
       that will affect API design, and should be thought about.
     category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
     category_hex: '#0039A6'
-    image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-github.jpg
-    image_width: "0"
-    sort_order: "4"
+    image: ""
+    image_width: "100"
+    sort_order: "9"
     organizations: []
     apis: []
     links: []
     tools: []
     questions: []
-  - building_block_id: u8suP123sdhqmEB2hBp123TCiZaX8ir9BhRWjjsbdMSryic117
+  - building_block_id: AhSbD57zInMnpzvdwsGBJhRQDnznKjNx4NNHaKEp116wo117
     building_block_category_id: FfYGp8SLRmXiiNTByX8Y1231160sZXhliengyR116UkIrJx48117
-    name: Command Line
-    about: Command line tooling for use as part of the API design process, allowing
-      developers to use single commands at the prompt.
+    name: Asynchronicity
+    about: How to handle long operations
     category_id: "74"
     category: Other
     category_about: What are some of the other nickel and dime items, as part of design
@@ -1682,9 +2861,29 @@
       that will affect API design, and should be thought about.
     category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
     category_hex: '#0039A6'
-    image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-command-line.png
-    image_width: "0"
-    sort_order: "5"
+    image: ""
+    image_width: "100"
+    sort_order: "10"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: OQ2vGUU9116yh3YH123cqUV4F7Kh3B1SX9ncminjdZ9a4EE117
+    building_block_category_id: FfYGp8SLRmXiiNTByX8Y1231160sZXhliengyR116UkIrJx48117
+    name: Dereference Relationships
+    about: How to load a resource and its linked resources in one call
+    category_id: "74"
+    category: Other
+    category_about: What are some of the other nickel and dime items, as part of design
+      process that should be considered? This is my general catch-all bucket for the
+      API design line, where I put links to other lines, stops, and just loose items
+      that will affect API design, and should be thought about.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "11"
     organizations: []
     apis: []
     links: []
@@ -1705,7 +2904,111 @@
     category_hex: '#0039A6'
     image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-translation.png
     image_width: "0"
-    sort_order: "6"
+    sort_order: "20"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: u8suP123sdhqmEB2hBp123TCiZaX8ir9BhRWjjsbdMSryic117
+    building_block_category_id: FfYGp8SLRmXiiNTByX8Y1231160sZXhliengyR116UkIrJx48117
+    name: Command Line
+    about: Command line tooling for use as part of the API design process, allowing
+      developers to use single commands at the prompt.
+    category_id: "74"
+    category: Other
+    category_about: What are some of the other nickel and dime items, as part of design
+      process that should be considered? This is my general catch-all bucket for the
+      API design line, where I put links to other lines, stops, and just loose items
+      that will affect API design, and should be thought about.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-command-line.png
+    image_width: "0"
+    sort_order: "21"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: jltueWS4SfvthNDIuxozAwCRjhmB4w4116IMQWEyUeQMI117
+    building_block_category_id: FfYGp8SLRmXiiNTByX8Y1231160sZXhliengyR116UkIrJx48117
+    name: Github Sync
+    about: The ability to store and sync API definitions with Github, providing a
+      central public or private repository for the definition of an API resource.
+    category_id: "74"
+    category: Other
+    category_about: What are some of the other nickel and dime items, as part of design
+      process that should be considered? This is my general catch-all bucket for the
+      API design line, where I put links to other lines, stops, and just loose items
+      that will affect API design, and should be thought about.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-github.jpg
+    image_width: "0"
+    sort_order: "22"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: C8OEHq1w4Ex2gQQSd1k123RMQDcq1jRgOznUxIEy9s038117
+    building_block_category_id: FfYGp8SLRmXiiNTByX8Y1231160sZXhliengyR116UkIrJx48117
+    name: Validator
+    about: Tools for validating API calls, enabling developers to determine which
+      types of calls will be valid, using central API definition and schema.
+    category_id: "74"
+    category: Other
+    category_about: What are some of the other nickel and dime items, as part of design
+      process that should be considered? This is my general catch-all bucket for the
+      API design line, where I put links to other lines, stops, and just loose items
+      that will affect API design, and should be thought about.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-validation.png
+    image_width: "0"
+    sort_order: "23"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: iLGy4i5FxCRdkjcmQiFHIgjogdpMqo3XWEHbbOsQsLg117
+    building_block_category_id: FfYGp8SLRmXiiNTByX8Y1231160sZXhliengyR116UkIrJx48117
+    name: API counts
+    about: How many endpoints/resources in an API?
+    category_id: "74"
+    category: Other
+    category_about: What are some of the other nickel and dime items, as part of design
+      process that should be considered? This is my general catch-all bucket for the
+      API design line, where I put links to other lines, stops, and just loose items
+      that will affect API design, and should be thought about.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "24"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: hz116nVQgWLpjkerab123sy1J4116oRoQXEK7DvtQSzDJcAE0117
+    building_block_category_id: FfYGp8SLRmXiiNTByX8Y1231160sZXhliengyR116UkIrJx48117
+    name: Parser
+    about: An API definition parser, available in multiple languages and open up the
+      programmatic generation of API definitions as localized object.
+    category_id: "74"
+    category: Other
+    category_about: What are some of the other nickel and dime items, as part of design
+      process that should be considered? This is my general catch-all bucket for the
+      API design line, where I put links to other lines, stops, and just loose items
+      that will affect API design, and should be thought about.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-gears.png
+    image_width: "0"
+    sort_order: "25"
     organizations: []
     apis: []
     links: []
