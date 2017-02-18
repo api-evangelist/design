@@ -5,7 +5,11 @@ description: Mulesoft provides a cloud, and open source version of their API des
   with other Mulesoft systems.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mulesoft-logo.jpeg
 tags:
+- Studio
+- Management
 - Design
+- API Management Other
+- API LIfeycle
 created: "2017-02-17"
 modified: "2017-02-17"
 url: https://raw.githubusercontent.com/api-evangelist/design/gh-pages/_data/api-commons/mulesoft/apis.yaml
