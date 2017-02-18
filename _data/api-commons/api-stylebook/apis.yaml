@@ -6,6 +6,7 @@ description: A Github hosted, aggregate set of API design topics. The API Styleb
   any API provider looking to establish their own API design guide.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/API_Stylebook.png
 tags:
+- Guides
 - Design
 created: "2017-02-17"
 modified: "2017-02-17"
