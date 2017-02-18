@@ -9,18 +9,7 @@
 
     {% assign index = org %}
 
-    {{ thisurl }} == {{ index[0] }}<br />
     {% if thisurl == index[0] %}
-
-      {% assign tag_match = 0 %}
-      {% for tag in apisjson.tags %}
-        {{ apisjson.name }} - {{ tag }} == {{ display_tag }}<br />
-        {% if tag == display_tag %}
-          {% assign tag_match = 1 %}
-        {% endif %}
-      {% endfor %}
-
-      tag_match: {{ tag_match }}<br />
 
       {% assign apisjson = index[1].apis %}
       {% assign common_api_action_url = '' %}
@@ -58,6 +47,16 @@
       {% else %}
         {% assign website_url = apisjson.humanURL %}
       {% endif %}
+
+      {% assign tag_match = 0 %}
+      {% for tag in apisjson.tags %}
+        {{ apisjson.name }} - {{ tag }} == {{ display_tag }}<br />
+        {% if tag == display_tag %}
+          {% assign tag_match = 1 %}
+        {% endif %}
+      {% endfor %}
+
+      {{ apisjson.name }} - {{ tag_match }}<br />      
 
       <tr>
         <td>
