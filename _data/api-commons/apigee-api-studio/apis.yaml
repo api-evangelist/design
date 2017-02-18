@@ -6,7 +6,11 @@ description: Apigee launched their API Studio out of their earlier Apigee-127 pr
   standalone, open source based studio.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-studio-logo.png
 tags:
+- Virtualization
+- Testing
+- Studio
 - Design
+- Client
 created: "2017-02-17"
 modified: "2017-02-17"
 url: https://raw.githubusercontent.com/api-evangelist/design/gh-pages/_data/api-commons/apigee-api-studio/apis.yaml
