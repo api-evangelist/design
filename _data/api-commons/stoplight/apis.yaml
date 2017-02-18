@@ -5,7 +5,12 @@ description: StopLight provides engineering teams with a new way to document, te
   and accessibility.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stoplight-io-logo.png
 tags:
+- Testing
+- Studio
+- Proxy
 - Design
+- Client
+- API LIfeycle
 created: "2017-02-17"
 modified: "2017-02-17"
 url: https://raw.githubusercontent.com/api-evangelist/design/gh-pages/_data/api-commons/stoplight/apis.yaml
