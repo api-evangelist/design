@@ -5,7 +5,9 @@ description: A modern development environment to build advanced mobile and web a
   building enterprise class backends.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Materia_-_Develop_web_and_mobile_application_at_the_speed_of_light_.png
 tags:
+- Desktop
 - Design
+- Deployment
 created: "2017-02-17"
 modified: "2017-02-17"
 url: https://raw.githubusercontent.com/api-evangelist/design/gh-pages/_data/api-commons/materia/apis.yaml
