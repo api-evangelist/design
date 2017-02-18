@@ -5,7 +5,10 @@ description: APIMINT is an API lifecycle management tool. With our design first 
   your APIs.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Apimint_-_Rapidly_Prototype_APIs.png
 tags:
+- Virtualization
+- Studio
 - Design
+- Deployment
 created: "2017-02-17"
 modified: "2017-02-17"
 url: https://raw.githubusercontent.com/api-evangelist/design/gh-pages/_data/api-commons/apimint/apis.yaml
