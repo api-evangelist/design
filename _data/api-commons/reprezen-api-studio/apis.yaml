@@ -6,7 +6,9 @@ description: 'RepreZens solution focuses specifically on the API design process 
   API description formats including WADL, Swagger, RAML and others.'
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/reprezen-logo.jpg
 tags:
+- Studio
 - Design
+- Client
 created: "2017-02-17"
 modified: "2017-02-17"
 url: https://raw.githubusercontent.com/api-evangelist/design/gh-pages/_data/api-commons/reprezen-api-studio/apis.yaml
