@@ -13,6 +13,7 @@
 
       {% assign tag_match = 0 %}
       {% for tag in apisjson.tags %}
+        {{ api.name }} - {{ tag }} == {{ display_tag }}<br />
         {% if tag == display_tag %}
           {% assign tag_match = 1 %}
         {% endif %}
