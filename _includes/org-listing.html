@@ -9,6 +9,7 @@
 
     {% assign index = org %}
 
+    {{ thisurl }} == {{ index[0] }}<br />
     {% if thisurl == index[0] %}
 
       {% assign tag_match = 0 %}
@@ -18,6 +19,7 @@
           {% assign tag_match = 1 %}
         {% endif %}
       {% endfor %}
+
       tag_match: {{ tag_match }}<br />
 
       {% assign apisjson = index[1].apis %}
