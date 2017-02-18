@@ -1825,26 +1825,273 @@
     tools: []
     questions: []
 - category_name: Hypermedia
-  building_blocks: []
-- category_name: Data
-  building_blocks: []
-- category_name: Open Standards
+  building_blocks:
+  - building_block_id: 19zrRjlODvj1116bhNkj3bAF3Cy8rYIySS76oodxBci98117
+    building_block_category_id: nvaG8pl1FBryfbqY123g8KOCJwVwLIjBQVAVjvKcKGMzM117
+    name: Collection+JSON
+    about: Collection+JSON is a JSON-based read/write hypermedia-type designed to
+      support management and querying of simple collections.
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: 3tJZz3svoFcQ116JtEdfZYA123dIeaRVbPzM123oDxtu116IZuQ117
+    building_block_category_id: nvaG8pl1FBryfbqY123g8KOCJwVwLIjBQVAVjvKcKGMzM117
+    name: Extensible Markup Language (XML)
+    about: Extensible Markup Language (XML) is a simple, very flexible text format
+      derived from SGML (ISO 8879)
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: bRieRiIaZPiTfsMvNbP1zFHxuJT5ndf123UIZztelMB9k117
+    building_block_category_id: nvaG8pl1FBryfbqY123g8KOCJwVwLIjBQVAVjvKcKGMzM117
+    name: Home Documents
+    about: A home document format for non-browser HTTP  clients.
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: JcQ6vbEBXjqiRX5tLLh5vsMNHFyTBnaSZv9VHFfZqmk117
+    building_block_category_id: nvaG8pl1FBryfbqY123g8KOCJwVwLIjBQVAVjvKcKGMzM117
+    name: Hydra
+    about: 'Hydra is an effort to simplify the development of interoperable, hypermedia-driven
+      Web APIs. '
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: c2MdcdxsI8ZPysQ9NYTHETZYiV8zI1123i5buZ0guV79Y117
+    building_block_category_id: nvaG8pl1FBryfbqY123g8KOCJwVwLIjBQVAVjvKcKGMzM117
+    name: Hypertext Application Language (HAL)
+    about: HAL is a simple format that gives a consistent and easy way to hyperlink
+      between resources in your API.
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: YiPS6C6WmIR2Zwlh123AjvyqlOT4116w0xLUKW3HekL6tos117
+    building_block_category_id: nvaG8pl1FBryfbqY123g8KOCJwVwLIjBQVAVjvKcKGMzM117
+    name: JSON API
+    about: A specification for building APIs in JSON, and consistently formatting
+      their responses.
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: MW6ujFAR71230j21pH116UJ6tXruUBoI7ytghWEn1ne5zyk117
+    building_block_category_id: nvaG8pl1FBryfbqY123g8KOCJwVwLIjBQVAVjvKcKGMzM117
+    name: Mason
+    about: 'Mason is a JSON format for introducing hypermedia elements to classic
+      JSON data representations. '
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: kwmnCRLcdmJQ4Au8UuffGOOTsecySv0HOjXmF3AW9Ig117
+    building_block_category_id: nvaG8pl1FBryfbqY123g8KOCJwVwLIjBQVAVjvKcKGMzM117
+    name: Noun As Resource With HyperLinks (NARWHL)
+    about: A framework intended to provide a roadmap for those needing to implement
+      an API using current best practices, but is flexible enough to grow into the
+      future.
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: xIkjUN3IrJnDcyU7xNf8YTumI7Re116zrXvJ2w5oQ9M70117
+    building_block_category_id: nvaG8pl1FBryfbqY123g8KOCJwVwLIjBQVAVjvKcKGMzM117
+    name: Siren
+    about: A hypermedia specification for representing entities in APIs.
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: fIrqSgctmJCOBzZgFf8oRJwvlSnAs4yDr0ErzQUxEAE117
+    building_block_category_id: nvaG8pl1FBryfbqY123g8KOCJwVwLIjBQVAVjvKcKGMzM117
+    name: Uniform Basis for Exchanging Representations (UBER)
+    about: 'The UBER message format is a minimal read/write hypermedia type designed
+      to support simple state transfers and ad-hoc hypermedia-based transitions. '
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: UrqaHRp3V123116sFGzvBEL116Wrop1FdpnBFJuD6rVF08SBs117
+    building_block_category_id: nvaG8pl1FBryfbqY123g8KOCJwVwLIjBQVAVjvKcKGMzM117
+    name: XForms
+    about: XForms is an XML format used for collecting inputs from web forms, and
+      can be used to describe a user interface and a set of common data manipulation
+      tasks.
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: LOybZqZ4tEkWo9eW3Nhz7AqcwtS116z123bAS8CwPmqhldg117
+    building_block_category_id: nvaG8pl1FBryfbqY123g8KOCJwVwLIjBQVAVjvKcKGMzM117
+    name: XML Inclusions (XInclude)
+    about: 'Inclusion is a format to merge a number of XML information sets into a
+      single composite infoset. '
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: os8OK9urSVwy3oXWJoPboiyq5z4sp5zVHp116kSsfX0WM117
+    building_block_category_id: nvaG8pl1FBryfbqY123g8KOCJwVwLIjBQVAVjvKcKGMzM117
+    name: XML Linking Language (XLink)
+    about: Allows elements to be inserted into XML documents in order to create and
+      describe links between resources.
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: RRfyaoKmKzArCZORJ123lKWYdeXvb0yJ1yYPGAzzws4yk117
+    building_block_category_id: nvaG8pl1FBryfbqY123g8KOCJwVwLIjBQVAVjvKcKGMzM117
+    name: xml:id
+    about: An ID attribute in XML documents and defines processing of this attribute
+      to identify IDs in the absence of validation, without fetching external resources,
+      and without relying on an internal subset.
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+- category_name: Schema
   building_blocks:
   - building_block_id: F6pIuWpBeCVnZy6xSl9uG7F9rcuWR8JCc2rw116KIDxk4117
-    building_block_category_id: a7pXKrI4kZ70NA7iJLBlXsc1xH1kv7dcBMLYIh6wrAQ117
+    building_block_category_id: 20P97Tk116y7dhm7RoM5M3bM123iA2u7NZ8h8LhX8EE4vfE117
     name: JSON Schema
     about: JSON Schema, describes your JSON data format. JSON Hyper-Schema, turns
       your JSON data into hyper-text. Use JSON schema when possible to standardize
       and validate your JSON structure.
-    category_id: "192"
-    category: Open Standards
-    category_about: There are a number of existing open standards that should be considered
-      as part of the API design process. Designers and architects should resist reinventing
-      the wheel when it comes to many of the aspects of API design, as things have
-      already been done. These are just a handful of the open standards that are used
-      by other companies in their API design.
-    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
-    category_hex: '#0039A6'
+    category_id: "413"
+    category: Schema
+    category_about: ~
+    category_image: ~
+    category_hex: ~
     image: ""
     image_width: "100"
     sort_order: "1"
@@ -1856,6 +2103,43 @@
       text: The home page for the JSON Schema project.
     tools: []
     questions: []
+  - building_block_id: o9eGdBS89QN7GcYk3xonmJrZsMiT1UK7vPrfw5rvWmk117
+    building_block_category_id: 20P97Tk116y7dhm7RoM5M3bM123iA2u7NZ8h8LhX8EE4vfE117
+    name: Schema.org
+    about: Consider using Schema.org representations for common data elements.
+    category_id: "413"
+    category: Schema
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "12"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+  - building_block_id: P116jBwpKMdC4CaKZfR2IQAPTCNPUhsNpjJ123UZvaf33UU117
+    building_block_category_id: 20P97Tk116y7dhm7RoM5M3bM123iA2u7NZ8h8LhX8EE4vfE117
+    name: Markdown Syntax for Object Notation (MSON)
+    about: |
+      A Markdown syntax compatible with describing JSON and JSON Schema.
+    category_id: "413"
+    category: Schema
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "13"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+    questions: []
+- category_name: Open Standards
+  building_blocks:
   - building_block_id: 67KMVkwWbC5WCUvzk2b5COSO7sYqnbRzutYmraHXQrE117
     building_block_category_id: a7pXKrI4kZ70NA7iJLBlXsc1xH1kv7dcBMLYIh6wrAQ117
     name: iCalendar
@@ -2112,49 +2396,6 @@
     image: ""
     image_width: "100"
     sort_order: "11"
-    organizations: []
-    apis: []
-    links: []
-    tools: []
-    questions: []
-  - building_block_id: o9eGdBS89QN7GcYk3xonmJrZsMiT1UK7vPrfw5rvWmk117
-    building_block_category_id: a7pXKrI4kZ70NA7iJLBlXsc1xH1kv7dcBMLYIh6wrAQ117
-    name: Schema.org
-    about: Consider using Schema.org representations for common data elements.
-    category_id: "192"
-    category: Open Standards
-    category_about: There are a number of existing open standards that should be considered
-      as part of the API design process. Designers and architects should resist reinventing
-      the wheel when it comes to many of the aspects of API design, as things have
-      already been done. These are just a handful of the open standards that are used
-      by other companies in their API design.
-    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
-    category_hex: '#0039A6'
-    image: ""
-    image_width: "100"
-    sort_order: "12"
-    organizations: []
-    apis: []
-    links: []
-    tools: []
-    questions: []
-  - building_block_id: P116jBwpKMdC4CaKZfR2IQAPTCNPUhsNpjJ123UZvaf33UU117
-    building_block_category_id: a7pXKrI4kZ70NA7iJLBlXsc1xH1kv7dcBMLYIh6wrAQ117
-    name: Markdown Syntax for Object Notation (MSON)
-    about: |
-      A Markdown syntax compatible with describing JSON and JSON Schema.
-    category_id: "192"
-    category: Open Standards
-    category_about: There are a number of existing open standards that should be considered
-      as part of the API design process. Designers and architects should resist reinventing
-      the wheel when it comes to many of the aspects of API design, as things have
-      already been done. These are just a handful of the open standards that are used
-      by other companies in their API design.
-    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
-    category_hex: '#0039A6'
-    image: ""
-    image_width: "100"
-    sort_order: "13"
     organizations: []
     apis: []
     links: []
