@@ -7,7 +7,16 @@ description: The Restlet API Platform enables developers and non-developers to d
   an intuitive browser interface.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Logo-Restlet-Horizontal-800x225.png
 tags:
+- Studio
+- Spreadsheets
+- Management
 - Design
+- Deployment
+- API Management Other
+- API LIfeycle
+- API Deployment Spreadsheets
+- API Deployment Frameworks
+- API Deployment Cloud
 created: "2017-02-17"
 modified: "2017-02-17"
 url: https://raw.githubusercontent.com/api-evangelist/design/gh-pages/_data/api-commons/restlet/apis.yaml
