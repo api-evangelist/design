@@ -13,11 +13,13 @@
 
       {% assign tag_match = 0 %}
       {% for tag in apisjson.tags %}
+        {{ tag }} == {{ display_tag }}<br />
         {% if tag == display_tag %}
           {% assign tag_match = 0 %}
         {% endif %}
       {% endfor %}
       tag_match: {{ tag_match }}<br />
+
       {% assign apisjson = index[1].apis %}
       {% assign common_api_action_url = '' %}
 
