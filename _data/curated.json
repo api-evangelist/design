@@ -1,10 +1,42 @@
 [
 	{
+		"curated_id": "Mg4SBDY8XHRBtFD8KAoCaDcAE8tVxlEaZHs87ooQhHNrTOhGcs7x8pRUfJW123cBdhDyZ4b123MGLSdEUPFu3FbMJw117117",
+		"item_date": "2017-02-21 00:00:00",
+		"title": "Designing robust and predictable APIs with idempotency",
+		"url": "https://stripe.com/blog/idempotency",
+		"domain": "stripe.com",
+		"image": ""
+	},
+	{
 		"curated_id": "QrQLtY7ATDgzTBceN4akYV0NZviF96W81234LtN8psyl2uKV9QqysaOdnKxfQ14Jio6116Vp9gu116nuTKhbrXqSF1161g117117",
 		"item_date": "2017-02-24 00:00:00",
 		"title": "API Development DesignFirst or CodeFirst",
-		"url": "https://dzone.com/articles/design-first-or-code-first-whats-the-best-approach?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"url": "https://dzone.com/articles/design-first-or-code-first-whats-the-best-approach",
 		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "FEUtZ8ba116EexWpcNyhTn0WVrkZYv2HtGs1bK4rWroVMJM8povJzxAdLB7rxN0Wp3116CNIpnx7dG1123flemqBIDYg117117",
+		"item_date": "2017-02-22 19:07:59",
+		"title": "API Design Guide  Cloud APIs  Google Cloud Platform",
+		"url": "https://cloud.google.com/apis/design/",
+		"domain": "cloud.google.com",
+		"image": ""
+	},
+	{
+		"curated_id": "dywdTtmTwVnAmqkOeJ123SwFwZmGWBq3fWEPIZV123Rl42fu9KrMIYpQEl3123qoJIsyMtRsCkzEaZTNCImC0mras8Ow117117",
+		"item_date": "2017-02-22 00:00:00",
+		"title": "API update Scroll API Segments and rate limits",
+		"url": "https://medium.com/intercom-developers/api-update-scroll-api-segments-and-rate-limits-77b14c6f946b",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "M6CuMUQGfTtZUdFgWzcBNgYYhfJqMRo4kx116Do0sm4jNzf9x3ts4OcCneLEnLAxQZtZBd6TQCMJTAg2og6A90LA117117",
+		"item_date": "2017-02-19 00:00:00",
+		"title": "Writing OpenAPI Swagger Specification Tutorial  Part 9  Extending the OpenAPI specification",
+		"url": "https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-9-extending-the-openapi-specification/",
+		"domain": "apihandyman.io",
 		"image": ""
 	},
 	{
