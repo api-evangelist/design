@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "en123nOEMnP1yuhXVU1eZHpxUGPdoNFGTMajLnxcLqllMuvdEfCORBEuaEgei0s5ljNnaq116SD20wgnuzgHeE2fYg117117",
+		"item_date": "2017-03-09 00:00:00",
+		"title": "Is GraphQL The End of REST Style APIs",
+		"url": "http://nordicapis.com/is-graphql-the-end-of-rest-style-apis/",
+		"domain": "nordicapis.com",
+		"image": ""
+	},
+	{
+		"curated_id": "q1Nq1168Bcxhx3GzO5iZjXpvvGQiI1dZu7Jz6TNpVb1JutCa673BNVWfZoU116r3Yxl2OvB6MyFoO0VXYYOz116f1116Vg117117",
+		"item_date": "2017-03-08 10:12:12",
+		"title": "Two Forgotten Aspects to an API Design First Approach",
+		"url": "https://blog.hitchhq.com/two-forgotten-aspects-to-an-api-design-first-approach-a0a92722eede#.cffwbgk7y",
+		"domain": "blog.hitchhq.com",
+		"image": ""
+	},
+	{
 		"curated_id": "TSzOK116NnwgOCnue5RlkdWM123T81op71sFN7fX4RpqH6RzzOFAl1230x123b8BdoOYsTWGY4NPSxAc9gSqgxqaCF0R0Q117117",
 		"item_date": "2017-03-05 00:00:00",
 		"title": "Google API Design Guide added to the API Stylebook",
