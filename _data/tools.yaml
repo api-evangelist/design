@@ -171,26 +171,6 @@
   - Specification
   - Design
   - Definitions
-- tool_id: 116fyWva116eQRMi54zXjiQk123z7DykRoNc0D8wCPPQgBups1QIHnYfOArbg1b5HGIkq4116Qcfr28etgwIXQU0maSq0Q117117
-  name: Cisco API Design Guide
-  user: ""
-  details: Several Cisco business units have teamed up to create this RESTful API
-    design guide. Collectively, this includes DevNet, Collaboration, and the Application
-    Platform Group. The objective of this document is to act as a guide to define
-    the future, it does not represent the current state of all REST APIs at Cisco.
-  post_date: "2015-08-23 15:20:20"
-  url: https://github.com/CiscoDevNet/api-design-guide
-  blog_url: ""
-  blog_rss_url: ""
-  twitter_url: ""
-  github_url: ""
-  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/cisco-dev-net.png
-  forks: 0
-  followers: 0
-  watchers: 0
-  tags:
-  - Design
-  - API Design Guide
 - tool_id: 116RdxR2FRb0Ph3njS8ElJy1sPmC8yLv8vHKzPFCsKRVxIg4uuDdcejW123vSwXI2dTxtXKtv2oJNtwwQWs4j116p1kQ117117
   name: Cloud Foundry Cloud Controller API Style Guide
   user: ""
