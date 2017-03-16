@@ -110,11 +110,12 @@
 - tool_id: IiifwCCdkws8aNXeXZU4ZDAdZZrPQvQCklbzwcueG8ht5JfKmggDC66CrJxkVxZzI123BnnclLcbE8siECJb5ANA117117
   name: apiguide
   user: AusDTO
-  details: DRAFT status documentation, guiding Australian Government Agencies how
-    to go about designing Application Programming Interfaces (APIs). Licensed under
-    CC-BY-AU, see copyright.rst for details. read&nbsp;https://apiguide.readthedocs.org/,
-    discus&nbsp;https://github.com/AusDTO/apiguide/issues, kanban&nbsp;https://waffle.io/AusDTO/apiguide,
-    fork&nbsp;https://github.com/AusDTO/apiguide.git. Pull requests welcome!
+  details: The DTO is working to release draft API design guide describing contemporary
+    best practices in API design and developer empathy. The final document will be
+    mandatory policy that all Commonwealth agencies must follow, and that citizens
+    could be entitled to expect. The agency has published a version control version
+    on Github with a public ticket system for issues and support, and invited our
+    users to help make it better.
   post_date: "2017-02-17 22:37:57"
   url: https://github.com/AusDTO/apiguide
   blog_url: ""
@@ -150,28 +151,6 @@
   - Design
   - Design
   - API Blueprint
-- tool_id: qM1bK18l6K740YfeSGZktYr0UVO42NV9KBZkBsUZ4c9BLggPr2y5QP7ZIfJaWZzNVuYRvfwKCSUxdgZPFHzo8g117117
-  name: Australian Government Digital Transformation Office (AusDTO) API Design Guide
-  user: ""
-  details: The DTO is working to release draft API design guide describing contemporary
-    best practices in API design and developer empathy. The final document will be
-    mandatory policy that all Commonwealth agencies must follow, and that citizens
-    could be entitled to expect. The agency has published a version control version
-    on Github with a public ticket system for issues and support, and invited our
-    users to help make it better.
-  post_date: "2015-09-01 18:31:42"
-  url: http://apiguide.readthedocs.org/en/latest/
-  blog_url: ""
-  blog_rss_url: ""
-  twitter_url: ""
-  github_url: ""
-  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/dto-logo.png
-  forks: 0
-  followers: 0
-  watchers: 0
-  tags:
-  - Design
-  - API Design Guide
 - tool_id: aiQ8kH4Rqvw3jw8fSrMi8pTgkvs7MnFysioRZ0uo0f1klPBKoqcMC116zZzQRXH7Gd1JzzB2eSmB0KWTkVFHz1166A117117
   name: Barrister RPC
   user: ""
