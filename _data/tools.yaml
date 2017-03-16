@@ -337,26 +337,6 @@
   tags:
   - Design
   - API Design Guide
-- tool_id: muFeqFlAlzwODaKgyvxvZwDRMiDDe4fmDmG9GxfYPEsnO2bPp116wR58123116ktvHhrjBMGDjrFBZE9K2mwB1cG8bRw117117
-  name: Heroku - API Design Guide
-  user: ""
-  details: Heroku has provide their own set of what they call HTTP+JSON API design
-    practices, which I think describes what we do much better than just web API. The
-    guide is designed for internal and external usage, and looking to provide some
-    consistency in API design, that anyone can follow.
-  post_date: "2014-08-22 12:41:18"
-  url: https://github.com/interagent/http-api-design
-  blog_url: ""
-  blog_rss_url: ""
-  twitter_url: ""
-  github_url: ""
-  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/heroku-logo.png
-  forks: 0
-  followers: 0
-  watchers: 0
-  tags:
-  - Design
-  - API Design Guide
 - tool_id: 85280YOaZtaFJZ6S5idf1QtduuX2Gg1rotNCBUzq6xGZ285aeopIQZ51hcBcrK116LYkH4WbfUxdrCddqP6p0NsQ117117
   name: Home Documents for HTTP APIs
   user: ""
@@ -379,14 +359,20 @@
 - tool_id: 1tvKTweFUY1T8aOTqzl06123z116dSj116lHuDaIEnB1160Qb123ejdGTCBNkWaDtnVOqUQL4uzv9TeoRPXTLmJFjZFOAMmg117117
   name: http-api-design
   user: interagent
-  details: HTTP API design guide extracted from work on the Heroku Platform API
+  details: This guide describes a set of HTTP+JSON API design practices, originally
+    extracted from work on the&nbsp;Heroku Platform API. This guide informs additions
+    to that API and also guides new internal APIs at Heroku. We hope it&rsquo;s also
+    of interest to API designers outside of Heroku. Our goals here are consistency
+    and focusing on business logic while avoiding design bikeshedding. We&rsquo;re
+    looking for&nbsp;a good, consistent, well-documented way&nbsp;to design APIs,
+    not necessarily&nbsp;the only/ideal way.
   post_date: "2017-02-17 22:34:21"
   url: https://github.com/interagent/http-api-design
   blog_url: ""
   blog_rss_url: ""
   twitter_url: ""
   github_url: ""
-  logo: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/heroku-dev-center.png
   forks: "998"
   followers: "12012"
   watchers: "12012"
