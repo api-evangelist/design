@@ -65,6 +65,60 @@
   - Design
   - API Blueprint Core
   - API Blueprint
+- tool_id: 9SiKgn2sr123Eo4C75Ndlc2HXb116aEuB1AHj5K9qqGFhDRGLRguB2VzlcPRF7cb8mzJT7Sq2FxoQ7L7i9wP8TMlVw117117
+  name: api-design-guide
+  user: CiscoDevNet
+  details: Guidelines for designing your REST API
+  post_date: "2017-02-17 22:37:05"
+  url: https://github.com/CiscoDevNet/api-design-guide
+  blog_url: ""
+  blog_rss_url: ""
+  twitter_url: ""
+  github_url: ""
+  logo: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  forks: "5"
+  followers: "26"
+  watchers: "26"
+  tags:
+  - GitHub
+  - Design
+  - API Design Guide
+- tool_id: wBZyaG1231165NYOpnoyoRgxY0fcJ7r4UZP2AnHZUjaxBUZOVe8o7osKtywLFgMti3HKsh0C116oJShJ5qXnfSnlzrcQ117117
+  name: api-guidelines
+  user: Microsoft
+  details: Microsoft REST API Guidelines
+  post_date: "2017-02-17 22:32:21"
+  url: https://github.com/Microsoft/api-guidelines
+  blog_url: ""
+  blog_rss_url: ""
+  twitter_url: ""
+  github_url: ""
+  logo: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  forks: "455"
+  followers: "5531"
+  watchers: "5531"
+  tags:
+  - GitHub
+  - Design
+  - API Design Guide
+- tool_id: IiifwCCdkws8aNXeXZU4ZDAdZZrPQvQCklbzwcueG8ht5JfKmggDC66CrJxkVxZzI123BnnclLcbE8siECJb5ANA117117
+  name: apiguide
+  user: AusDTO
+  details: API Design Guide
+  post_date: "2017-02-17 22:37:57"
+  url: https://github.com/AusDTO/apiguide
+  blog_url: ""
+  blog_rss_url: ""
+  twitter_url: ""
+  github_url: ""
+  logo: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  forks: "14"
+  followers: "18"
+  watchers: "18"
+  tags:
+  - GitHub
+  - Design
+  - API Design Guide
 - tool_id: PVQ6sFWyjEsqHszCVrjgtt2sL7YvFoUj0zSSCp123bK5P5Qkbf5m2Fa0WCUOyBlsomz4dUCJXYJ116RZHEtGx76iaQ117117
   name: Atom Editor API Blueprint Preview
   user: ""
@@ -209,6 +263,46 @@
   - Design
   - Design
   - Deployment
+- tool_id: 8g6j6cAdNsb6jGQsZVAonZwVlmo3GzWooihayMuGeVt116oXapU116zxJigmlzVjzr116etnZUq9VxsypUdg4NnYwJhA117117
+  name: gnostic
+  user: googleapis
+  details: Compile OpenAPI descriptions into equivalent Protocol Buffer representations.
+    Profit.
+  post_date: "2017-03-10 14:19:24"
+  url: https://github.com/googleapis/gnostic
+  blog_url: ""
+  blog_rss_url: ""
+  twitter_url: ""
+  github_url: ""
+  logo: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  forks: "4"
+  followers: "24"
+  watchers: "24"
+  tags:
+  - GitHub
+  - Design
+  - Definitions
+- tool_id: 2gePcGlhrPVHicwP0OSb2YAB6Zqadfeud2yoi123ajUIhYe4y6JEul76116jGp5mYmS3AZuLN13E8JxjeeWQSxt1vg117117
+  name: Google API Design Guide
+  user: ""
+  details: |-
+    This is a general design guide for networked APIs. It has been used inside Google since 2014 and is the guide we follow when designing&nbsp;Cloud APIs&nbsp;and other&nbsp;Google APIs. It is shared here to inform outside developers and to make it easier for us all to work together.
+    Google Cloud Endpoints&nbsp;developers may find this guide particularly useful when designing gRPC APIs, and we strongly recommend such developers use these design principles. However, we dont mandate its use for any non-Google developer and you can use Cloud Endpoints and/or gRPC without following the guide.
+    This guide applies to both REST APIs and RPC APIs, with specific focus on gRPC APIs. gRPC APIs use&nbsp;Protocol Buffers&nbsp;to define their API surface and&nbsp;API Service Configuration&nbsp;to configure their API services, including HTTP mapping, logging, and monitoring. HTTP mapping features are used by Google APIs and Cloud Endpoints gRPC APIs for JSON/HTTP to Protocol Buffers/RPC&nbsp;transcoding.
+    This guide is a living document and additions to it will be made over time as new style and design patterns are adopted and approved. In that spirit, it is never going to be complete and there will always be ample room for the art and craft of API design.
+  post_date: "2017-03-16 10:49:35"
+  url: https://cloud.google.com/apis/design/
+  blog_url: ""
+  blog_rss_url: ""
+  twitter_url: ""
+  github_url: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/google-api-design-guide-screenshot.png
+  forks: 0
+  followers: 0
+  watchers: 0
+  tags:
+  - Design
+  - API Design Guide
 - tool_id: MTtFiPBDgtoqzugDEJUBWdDz8uAbHg6MSAPBa4ryRygrrtP0a123MlurRAIV5LTg0soS0LR2y4WiZaVleoX6IWBg117117
   name: HAL
   user: ""
@@ -294,6 +388,24 @@
   - Specification
   - Design
   - Definitions
+- tool_id: 1tvKTweFUY1T8aOTqzl06123z116dSj116lHuDaIEnB1160Qb123ejdGTCBNkWaDtnVOqUQL4uzv9TeoRPXTLmJFjZFOAMmg117117
+  name: http-api-design
+  user: interagent
+  details: HTTP API design guide extracted from work on the Heroku Platform API
+  post_date: "2017-02-17 22:34:21"
+  url: https://github.com/interagent/http-api-design
+  blog_url: ""
+  blog_rss_url: ""
+  twitter_url: ""
+  github_url: ""
+  logo: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  forks: "998"
+  followers: "12012"
+  watchers: "12012"
+  tags:
+  - GitHub
+  - Design
+  - API Design Guide
 - tool_id: 9gX7JikJblzfmuD50DXX62ooasa35k0vccjVKSvsIM2116D8bQ0ouU5525cci116Ad6NBvZ2CaFo6e3PP5sfnsH123PA117117
   name: Interpol
   user: ""
@@ -737,7 +849,8 @@
   blog_rss_url: ""
   twitter_url: ""
   github_url: ""
-  logo: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/Screen
+    Shot 2017-03-16 at 10.52.07 AM.png
   forks: 0
   followers: 0
   watchers: 0
