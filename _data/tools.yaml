@@ -68,14 +68,18 @@
 - tool_id: 9SiKgn2sr123Eo4C75Ndlc2HXb116aEuB1AHj5K9qqGFhDRGLRguB2VzlcPRF7cb8mzJT7Sq2FxoQ7L7i9wP8TMlVw117117
   name: api-design-guide
   user: CiscoDevNet
-  details: Guidelines for designing your REST API
+  details: Several Cisco business units have teamed up to create this RESTful API
+    design guide. Collectively, this includes&nbsp;DevNet,&nbsp;Collaboration, and
+    the Application Platform Group. The objective of this document is to act as a
+    guide to define the future, it does not represent the current state of all REST
+    APIs at Cisco.
   post_date: "2017-02-17 22:37:05"
   url: https://github.com/CiscoDevNet/api-design-guide
   blog_url: ""
   blog_rss_url: ""
   twitter_url: ""
   github_url: ""
-  logo: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/CiscoDevNetUrl-1-460x210.jpg
   forks: "5"
   followers: "26"
   watchers: "26"
@@ -86,14 +90,16 @@
 - tool_id: wBZyaG1231165NYOpnoyoRgxY0fcJ7r4UZP2AnHZUjaxBUZOVe8o7osKtywLFgMti3HKsh0C116oJShJ5qXnfSnlzrcQ117117
   name: api-guidelines
   user: Microsoft
-  details: Microsoft REST API Guidelines
+  details: |
+    The&nbsp;Microsoft REST API Guidelines, as a design principle, encourages application developers to have resources accessible to them via a RESTful HTTP interface. To provide the smoothest possible experience for developers on platforms following the Microsoft REST API Guidelines, REST APIs SHOULD follow consistent design guidelines to make using them easy and intuitive.
   post_date: "2017-02-17 22:32:21"
   url: https://github.com/Microsoft/api-guidelines
   blog_url: ""
   blog_rss_url: ""
   twitter_url: ""
   github_url: ""
-  logo: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/Screen
+    Shot 2017-03-16 at 10.56.41 AM.png
   forks: "455"
   followers: "5531"
   watchers: "5531"
@@ -104,19 +110,22 @@
 - tool_id: IiifwCCdkws8aNXeXZU4ZDAdZZrPQvQCklbzwcueG8ht5JfKmggDC66CrJxkVxZzI123BnnclLcbE8siECJb5ANA117117
   name: apiguide
   user: AusDTO
-  details: API Design Guide
+  details: DRAFT status documentation, guiding Australian Government Agencies how
+    to go about designing Application Programming Interfaces (APIs). Licensed under
+    CC-BY-AU, see copyright.rst for details. read&nbsp;https://apiguide.readthedocs.org/,
+    discus&nbsp;https://github.com/AusDTO/apiguide/issues, kanban&nbsp;https://waffle.io/AusDTO/apiguide,
+    fork&nbsp;https://github.com/AusDTO/apiguide.git. Pull requests welcome!
   post_date: "2017-02-17 22:37:57"
   url: https://github.com/AusDTO/apiguide
   blog_url: ""
   blog_rss_url: ""
   twitter_url: ""
   github_url: ""
-  logo: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/11763427.png
   forks: "14"
   followers: "18"
   watchers: "18"
   tags:
-  - GitHub
   - Design
   - API Design Guide
 - tool_id: PVQ6sFWyjEsqHszCVrjgtt2sL7YvFoUj0zSSCp123bK5P5Qkbf5m2Fa0WCUOyBlsomz4dUCJXYJ116RZHEtGx76iaQ117117
