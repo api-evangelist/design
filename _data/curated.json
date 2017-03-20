@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "2Ot1p1ihPGHi26Vjq5xpWfARqfZwtSjB92FHv116ZGhtmrQDJU3UxT4rXs0Y5fSqX89aJwYkvgdb5116hPehCQZ70Q117117",
+		"item_date": "2017-03-18 22:42:17",
+		"title": "Introducing Muon",
+		"url": "http://daviddawson.me/blog/2017/02/21/muon-intro.html",
+		"domain": "daviddawson.me",
+		"image": ""
+	},
+	{
+		"curated_id": "HxloJAo72xgUo6aQS116Yzj4V12aeXmDkvd0wMB116qsCGyi25ElXK297iXPDxM4yqHfY116JpmgSm4ZAetLs123JcXtlw117117",
+		"item_date": "2017-03-16 00:00:00",
+		"title": "A Nice API Design Gem Strategy Pattern With Lambdas",
+		"url": "https://blog.jooq.org/2017/03/17/a-nice-api-design-gem-strategy-pattern-with-lambdas/",
+		"domain": "blog.jooq.org",
+		"image": ""
+	},
+	{
 		"curated_id": "1234jI1169sPCFC4v116ii6M8qI5SRtF5bCnrHJ7NI2uYbODv92123m116DkPB8iQujBhZUFkWbABJFaAYIx85123ZGEaW9LSA117117",
 		"item_date": "2017-03-07 13:13:34",
 		"title": "Autocomplete and tooltips for variables are now live",
