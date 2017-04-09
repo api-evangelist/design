@@ -1,5 +1,53 @@
 [
 	{
+		"curated_id": "PBvAQz3VzYLDFYrwrjMbw1A8thhONRm6uIVV4kc116JvJyaqqPjjmaAtmqmaKUNzucyKsWu2V79tboJlWF48G5UA117117",
+		"item_date": "2017-04-05 09:30:38",
+		"title": "You should not try to normalise the vocabulary across all Bounded Contexts  pcalcado",
+		"url": "http://philcalcado.com/2017/03/02/microservices_vs_1st_law_distributed_objects.html",
+		"domain": "philcalcado.com",
+		"image": ""
+	},
+	{
+		"curated_id": "mN123mJEO5pdph123THb123RjJvV9wqqi123K1qLV3juc31236scGa7EWfAzYM1B0IAaQTENCAUuwMhJLAjN7dcabdcomUUg117117",
+		"item_date": "2017-04-05 00:00:00",
+		"title": "Using field masks with Google APIs for partial response",
+		"url": "https://developers.googleblog.com/2017/04/using-field-masks-with-google-apis-for.html",
+		"domain": "developers.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ra123rE6JGtLbZE116mul3tLsTQFjCHNDsE1Q123dcJ0RTKliJS0W1LNl5l1164z9OaeEqReVxx1dhNoUWyk4isg4k6S123A117117",
+		"item_date": "2017-04-07 00:00:00",
+		"title": "API Design Standards With Andy Beier",
+		"url": "http://businessintelligence.com/bi-insights/api-design-standards-andy-beier/",
+		"domain": "businessintelligence.com",
+		"image": ""
+	},
+	{
+		"curated_id": "F2sRe5sAYf8iOdOvOjM3Z3A9lkQexTLJ3Cggk7Xg1I7vV123oRSpsXryFoEwPXInoGw5P116KTLlLaQmElGtrvI9jA117117",
+		"item_date": "2017-04-06 00:00:00",
+		"title": "ALM Rest API posting design steps",
+		"url": "https://community.hpe.com/t5/Quality-Center-ALM-Practitioners/ALM-Rest-API-posting-design-steps/td-p/6954521",
+		"domain": "community.hpe.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Yy0bHmF4NQBaaLs7oGuSiPGsZKouj11Bg123UCW5E4Fsv27n10opofu1162PuIx7l0Q123VyWsIzGRK1FROiuAvtylCg117117",
+		"item_date": "2017-04-05 00:40:41",
+		"title": "7 Tips for Developing Great APIs",
+		"url": "https://www.designnews.com/electronics-test/7-tips-developing-great-apis/58820449056543",
+		"domain": "www.designnews.com",
+		"image": ""
+	},
+	{
+		"curated_id": "gujXXKHxBU6ozhCwpZwtF5awIFCwEUWT331VSMKlzNKSXC1GBZDgb8G4tIsk2DEuJg7q4nFDHreiCj8VHeZ25g117117",
+		"item_date": "2017-04-04 00:00:00",
+		"title": "New eBook Released API Design on the Scale of Decades",
+		"url": "http://nordicapis.com/new-ebook-released-api-design-on-the-scale-of-decades/",
+		"domain": "nordicapis.com",
+		"image": ""
+	},
+	{
 		"curated_id": "5aZEQTZcJk1235sBBL4wRS8GfQpKd123AbMDY5ch8123WGGMw7oP5ITbeSsOGyDIYmITSok92iw4va6I4ddS0BywxoCQ117117",
 		"item_date": "2017-03-21 00:00:00",
 		"title": "BigCommerce uses Postman before a single line of code is written",
