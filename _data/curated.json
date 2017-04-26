@@ -1,10 +1,42 @@
 [
 	{
+		"curated_id": "rLk1167zKcM5ZqN0JvIulYhpCouEXRLnhFGpOhDP116Z4Ly7123YKtyUEyFCBwt5hK3lHLP116pqBmZFULBoMSPYnykb116w117117",
+		"item_date": "2017-04-19 00:00:00",
+		"title": "Building an API  lessons learned the hard way part 2",
+		"url": "https://medium.com/m/global-identity",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ABu4d7a123Thk93UlswkJAXycX6UkiQeRUcAQ116nXtCSqarYYEuAS8Ps1234n9J1P96FoL31KfgR9caoaYWHgQ0l4FQ117117",
+		"item_date": "2017-04-20 00:00:00",
+		"title": "SOAP vs REST A Look at Two Different API Styles",
+		"url": "http://www.business2community.com/brandviews/upwork/soap-vs-rest-look-two-different-api-styles-01827446",
+		"domain": "www.business2community.com",
+		"image": ""
+	},
+	{
+		"curated_id": "21DFk7fxErnKg2QXLJL9U5gBMqhi7JGlBaiVt2IROkM0bUfdSmCKWZ14TBzmBrwqreUi9NKBqDjbzBss8NuMLA117117",
+		"item_date": "2017-04-20 00:00:00",
+		"title": "Is Protobuf 5x Faster Than JSON Part 2",
+		"url": "https://dzone.com/articles/is-protobuf-5x-faster-than-json-part-ii",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "a0BePIzeloh123cbLqqUMw4ourFZckrC93YU8MCRLDX4Q11667beQb6m9bhWZasX1168RzXOY1kJxSKz1x0rWcguA2cA117117",
 		"item_date": "2017-04-21 00:00:00",
 		"title": "Using field masks with update requests to Google APIs",
 		"url": "https://gsuite-developers.googleblog.com/2017/04/using-field-masks-with-update-requests.html",
 		"domain": "gsuite-developers.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "n11651h6Axb4vAX9IXQp4x7YvgBJrHboX6L123vp23Kf7HkQ81JR1D6OQvEz0sRbkn116nlpDuYqMZ1123Z6ydiEkzxg116w117117",
+		"item_date": "2017-04-20 09:37:05",
+		"title": "7 Tips for Designing a Better REST API",
+		"url": "http://www.kennethlange.com/posts/7_tips_for_designing_a_better_rest_api.html",
+		"domain": "www.kennethlange.com",
 		"image": ""
 	},
 	{
