@@ -87,6 +87,26 @@
   - GitHub
   - Design
   - API Design Guide
+- tool_id: xkDzMldAxnc4ouNvOvIEFkgW123Ft6NQmGsdEcyLl1v8Au1wu123or63eFFrrOrNJ123yfinJ9MlYcELHxCENvrrxytw117117
+  name: api-designer
+  user: mulesoft
+  details: API Designer&nbsp;is a standalone/embeddable editor for&nbsp;RAML&nbsp;(RESTful
+    API Modeling Language) written in JavaScript using Angular.JS. By default, the
+    editor uses an in-browser filesystem stored in HTML5 Localstorage.
+  post_date: "2017-03-22 22:09:54"
+  url: https://api.github.com/repos/mulesoft/api-designer
+  blog_url: ""
+  blog_rss_url: ""
+  twitter_url: ""
+  github_url: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/mulesoft-api-designer-screenshot.png
+  forks: "152"
+  followers: "561"
+  watchers: "561"
+  tags:
+  - GitHub
+  - Design Editor
+  - Design
 - tool_id: wBZyaG1231165NYOpnoyoRgxY0fcJ7r4UZP2AnHZUjaxBUZOVe8o7osKtywLFgMti3HKsh0C116oJShJ5qXnfSnlzrcQ117117
   name: api-guidelines
   user: Microsoft
@@ -498,6 +518,26 @@
   - GitHub
   - Design
   - Definitions
+- tool_id: 123VUQyvV9s8NTk3pXejuw86c123ZLtIRPOjIycCVY28us8JAhMvTdt0FNL5g85lLe123ZBDyWW4FGHBzbXfzPG7KmvQ117117
+  name: OpenStack API Design Guide
+  user: ""
+  details: To improve the developer experience of API users by converging the OpenStack
+    API to a consistent and pragmatic RESTful design. The working group creates guidelines
+    that all OpenStack projects should follow for new development, and promotes convergence
+    of new APIs and future versions of existing APIs.
+  post_date: "2017-05-08 13:54:25"
+  url: http://specs.openstack.org/openstack/api-wg/
+  blog_url: ""
+  blog_rss_url: ""
+  twitter_url: ""
+  github_url: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/openstack-logo512.png
+  forks: 0
+  followers: 0
+  watchers: 0
+  tags:
+  - Design
+  - API Design Guide
 - tool_id: rOMdAREnP2xMOTxAY5MxEgwflrI8B0GBJYR1165ybxE123010HUn4Sf1Q1V0L7i3n1239S0cXeaKU123DGJgufzYeEc3Gg117117
   name: Paypal API Design Standards
   user: ""
