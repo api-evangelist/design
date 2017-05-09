@@ -18,9 +18,57 @@
 	{
 		"curated_id": "2RjTXRBxE123A123dHoTRKkDqoz4mvwLLDz13STk2rjWvii1a7y2t1goyw116M123ag9JyZKJSlH123NyfJsRLkkFTiqjUag117117",
 		"item_date": "2017-05-06 11:45:31",
-		"title": "The two perspectives of API design  Restlet  APIFirst Success Made Easy",
+		"title": "The two perspectives of API design",
 		"url": "http://restlet.com/company/blog/2017/05/03/the-two-perspectives-of-api-design/",
 		"domain": "restlet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Hjeb94UAR03xqLCT123OSpCjFvg116saP2gANJbbeigUwyk2k2bhvOwj1239Qoved123VwvCptzrSQ9hvxKkcPZqlblzbg117117",
+		"item_date": "2017-05-04 00:00:00",
+		"title": "Building for Builders Stripe039s 8 Tips for Designing APIs and Supporting Developers",
+		"url": "https://www.programmableweb.com/news/building-builders-stripes-8-tips-designing-apis-and-supporting-developers/analysis/2017/05/04",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "8NbSo6116bEVV5Alxvk0gW123VlIAeQrBNtWytu2MIrvnW0JLMuee116QUvAocbiSqkU7fLs3yXVyE3F0z8SPtlN8SKQ117117",
+		"item_date": "2017-05-05 00:00:00",
+		"title": "Yelp Adds GraphQL Support to Fusion API Introduces Developer Beta Program",
+		"url": "https://www.programmableweb.com/news/yelp-adds-graphql-support-to-fusion-api-introduces-developer-beta-program/brief/2017/05/05",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "W07EnCoRP4i0F3dLBpZku0xDNXV123GLaaPTNhBzIMrDTO2UJd4Tguc116L116n1BFUUCklkzbVJ1V3E4nmsropW116Jdg117117",
+		"item_date": "2017-05-03 00:00:00",
+		"title": "REST API Industry Debate OData vs GraphQL vs ORDS",
+		"url": "https://dzone.com/articles/rest-api-industry-debate-odata-vs-graphql-vs-ords",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YESer1QlB0ywuCcgSxl116JAWB6UjFCPUQNBgRPzGPcD123URPs9tetLeSHqUQbJ886osMMKr1167ctZXYx5h8VafAnA117117",
+		"item_date": "2017-05-03 00:00:00",
+		"title": "The two perspectives of API design",
+		"url": "https://restlet.com/company/blog/2017/05/03/the-two-perspectives-of-api-design/",
+		"domain": "restlet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116UdrLTiRBa0bX70lELaSj1230fFLyKHCwek2fPkvf7mKvRJz3JS6WirvDMpQSEDKp5TNqVxgYTUSs6RDCV6123ky123w117117",
+		"item_date": "2017-05-02 18:29:46",
+		"title": "Little rules for designing with data",
+		"url": "https://github.com/18F/doi-extractives-data/wiki/Little-rules-for-designing-with-data",
+		"domain": "github.com",
+		"image": ""
+	},
+	{
+		"curated_id": "m1163m116H6J123jVjP2ICFSmbaZNHbwmiCvRgl1236FDBuFIC9wZrEfhbJXweWOSA8oi6d4sc1XrtbR9JwYc8WXeRXS8w117117",
+		"item_date": "2017-05-01 00:00:00",
+		"title": "API Mediation Why You Need an API Experience Layer",
+		"url": "http://nordicapis.com/api-mediation-why-you-need-api-experience-layer/",
+		"domain": "nordicapis.com",
 		"image": ""
 	},
 	{
