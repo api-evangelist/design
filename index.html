@@ -1,72 +1,268 @@
 ---
-layout: page
-title: API Design
+layout: default
+title: API Evangelist - Definitions
 ---
-<p style="font-size: 12px; padding:5px;">
-  <img src="{{ site.project_image }}" align="right" width="90" style="padding: 10px;" />
-  {{ site.project_summary }}
-</p>
 
-<center><hr style="padding: 5px 5px 5px 5px; margin: 5px; width: 100%;" /></center>
+<!-- Main -->
+<section id="banner">
+	<div class="content">
+		<header>
+			<h2>I am Kin Lane, the API Evangelist...</h2>
+		</header>
+		<p>This is my online domain where I work to understand the world of the Application Programming Interfaces, also known as APIs. This new way of sharing data using the web is touching almost every aspect of our increasingly digital lives, providing access to the bits and bytes that make our personal and professional worlds go round.</p>
+		<p>API Evangelist is my full time research into how APIs are impacting our worlds (both good and bad), where I work to better understand the technology, business, and politics of the APIs that are driving our websites, mobile, and devices that seem to be everywhere.</p>
+		<p>API Evangelist is a network of data driven projects and APIs which I curate and manage as part of this ongoing research, hoping to provide easy access to the moving parts of my work. Everything you see here runs on Github, making everything forkable, and resuable for both humans and machines.</p>
+	</div>
+	<span class="image object">
+		<img src="/images/kin-lane-api-evangelist-cartoon.png" alt="" width="25%" />
+	</span>
+</section>
 
-<div class="row" style="vertical-align: top; padding: 0px; margin: 0px;" align="center">
+<!-- Partners -->
+<a name="Partners"></a>
+<section>
+	<header>
+		<h2>API Evangelist Partners</h2>
+		<p>These are my partners who invest in API Evangelist each month, helping underwrite my research, and making sure I'm able to keep monitoring the API space as I do.</p>
+	</header>
+	<div class="features">
+		{% assign partners = site.data.partners.index | sort: 'view_sort' %}
+    {% for partner in partners %}
+      {% if partner.type == 'Sponsor' %}
+			<article>
+				<p><a href="{{ partner.url }}" target="_blank"><img src="{{ partner.image }}" width="75%" style="padding: 15px;" align="center" /></a></p>
+				<div class="content">
+					<h3><a href="{{ partner.url }}" target="_blank">{{ partner.name }}</a></h3>
+					<p>{{ partner.description }}</p>
+				</div>
+			</article>
+      {% endif %}
+    {% endfor %}
+	</div>
+</section>
 
-  <div class="span3">
+<!-- Blog Feature -->
+<a name="BlogFeature"></a>
+{% for post in site.posts limit:1 %}
+	<section id="banner">
+		<div class="content">
+			<header>
+				<h2>Latest From Blog on API Definitions: {{ post.title }}</h2>
+				<p><em>{{ post.date | date_to_string }}</em></p>
+			</header>
+			{{ post.content }}
+			<ul class="actions" style="text-align: center;">
+				<li><a href="/blog/" class="button big">Read The Blog</a></li>
+			</ul>
+		</div>
+	</section>
+{% endfor %}
 
-    <center>
-      <p><a href="/guide/" style="font-size: 12px;"><strong>My API Design Research Guide</strong></a></p>
-      <p><a href="/guide/"><img src="https://s3.amazonaws.com/kinlane-productions/whitepapers/design/api-evangelist-api-design-guide-may-2016-cover.png" width="140" aligin="center" /></a></p>
-    </center>
+<!-- News -->
+<a name="News"></a>
+{% assign news_content = site.data.news_content.index[0] %}
+{% assign news = site.data.curated.index %}
+<section>
+	<header>
+		<h2>{{ news_content.title }}</h2>
+	</header>
+	<p>{{ news_content.header }}</p>
+	<div class="table-wrapper" style="height: 500px; overflow: auto;">
+		<table class="alt">
+			<thead>
+				<tr>
+					<th>Title</th>
+					<th>Source</th>
+					<th>Visit</th>
+				</tr>
+			</thead>
+			<tbody>
+				{% for curated in news %}
+				<tr>
+					<td><a href="{{ curated.url }}" title="{{ curated.title }}" style="color:#000; font-size: 12px;">{{ curated.title }}</a> <span style="color:#000; font-size: 12px;">(<i>{{ curated.item_date | date: "%Y-%m-%d" }}</i>)</span></td>
+					<td>{% if curated.domain != null %}<a href="http://{{ curated.domain }}" style="color:#000; font-size: 12px;">{{ curated.domain }}</i></a>{% endif %}</td>
+					<td><a href="{{ curated.url }}" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-forward.png" width="25" /></a></td>
+				</tr>
+				{% endfor %}
+			</tbody>
+		</table>
+	</div>
+	<p>{{ news_content.footer }}</p>
+	<center>
+		<ul class="actions" style="text-align: center;">
+			<li><a href="/news/" class="button big">Read The News</a></li>
+		</ul>
+	</center>
+</section>
 
-  </div>
-  <div class="span3" style="text-align: left;">
-    <p><strong><span style="font-size: 20px;">&#8620;</span>&nbsp;&nbsp;Latest News</strong><a href="/news.xml"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-icon.png" width="15" style="padding-left: 5px;" /></a></p>
-    <ul class="newslist">
-      {% for curated in site.data.curated  limit:5 %}
-        <li><a href="{{ curated.url }}">{{ curated.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </div>
-  <div class="span4" style="text-align: left;">
+<!-- Organizations -->
+<a name="Organizations"></a>
+{% assign organization_content = site.data.organization_content.index[0] %}
+<section>
+	<header>
+		<h2>{{ organization_content.title }}</h2>
+	</header>
+	<p>{{ organization_content.header }}</p>
+	<div class="features">
+		{% assign organizations = site.data.organizations.index %}
+    {% for organization in organizations %}
+			<article>
+				<p><a href="{{ organization.url }}" target="_blank"><img style="padding: 15px; vertical-align: top;" src="{{ organization.image }}" width="175" align="center" /></a></p>
+				<div class="content">
+					<h3><a href="{{ organization.url }}" target="_blank">{{ organization.name }}</a></h3>
+					<p>{{ organization.description }}</p>
+					<ul class="icons">
+						<li><a href="{{ organization.url}}" class="icon fa-home"><span class="label">Home</span></a></li>
+						{% if organization.twitter != '' %}
+						<li><a href="{{ organization.twitter}}" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						{% endif %}
+						{% if organization.blog != '' %}
+						<li><a href="{{ organization.blog }}" class="icon fa-rss"><span class="label">Blog</span></a></li>
+						{% endif %}
+						{% if organization.blog_rss != '' %}
+						<li><a href="{{ organization.blog_rss }}" class="icon fa-rss-square"><span class="label">RSS</span></a></li>
+						{% endif %}
+						{% if organization.github != '' %}
+						<li><a href="{{ organization.github }}" class="icon fa-github"><span class="label">Github</span></a></li>
+						{% endif %}
+					</ul>
+				</div>
+			</article>
+    {% endfor %}
+		<p>{{ organization_content.footer }}</p>
+		<center>
+			<ul class="actions" style="text-align: center;">
+				<li><a href="/organizations/" class="button big">See All Organizaitons</a></li>
+			</ul>
+		</center>
+	</div>
+</section>
 
-    <script type="text/javascript">
-      $url = 'http://apievangelist.com/blog.xml';
-      var $listcount = 0;
-      $.get($url, function (data) {
-          $(data).find("item").each(function () {
-              var el = $(this);
-              $title = el.find("title").text();
-              $link = el.find("link").text();
-              if($listcount<4){
-                $listitem = '<li><a href="' + $link + '">' + $title + '</a></li>';
-                $('#rssNews').append($listitem);
-                }
-              $listcount++;
-          });
-      });
-    </script>
-    <p><strong><span style="font-size: 20px;">&#8620;</span>&nbsp;&nbsp;Latest Analysis</strong><a href="http://apievangelist.com/blog.xml"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-icon.png" width="15" style="padding-left: 5px;" /></a></p>
-    <ul class="newslist" id="rssNews"></ul>
+<!-- Tools -->
+<a name="Tools"></a>
+{% assign approved_tags = 'API Specification,Data Specifications,Semantics,Schema,Hypermedia, Discovery,Data Policy,Encryption,Viewers,Connectors,Clients,Proxy' %}
+{% assign tool_content = site.data.tool_content.index[0] %}
+<section>
+	<header>
+		<h2>{{ tool_content.title }}</h2>
+		<p>{{ tool_content.header }}</p>
+	</header>
+		{% assign tools = site.data.tools.index %}
+		{% assign tagslist = '' %}
+		{% for tool in tools %}
+			{% assign tags = tool.tags %}
+			{% assign tagArray = tags | split: "," %}
+			{% for tag in tagArray %}
+				{% assign tag = tag | strip %}
+				{% if approved_tags contains tag %}
+					{% if tagslist contains tag %}
+					{% else %}
+						{% if tagslist != '' %}
+							{% assign tagslist = tagslist | append:',' %}
+						{% endif %}
+						{% assign tagslist = tagslist | append: tag %}
+					{% endif %}
+				{% endif %}
+			{% endfor %}
+		{% endfor %}
+		{% assign tagArray = tagslist | split: "," %}
+		{% assign tagArray = tagArray | sort: %}
 
-  </div>
-</div>
-<center><hr style="padding: 5px; margin: 5px; width: 100%;" /></center>
-<div class="row" align="center" style="padding-bottom: 20px;">
+		{% for tag in tagArray %}
+			<h3>{{ tag }} ,</h3>
+			<div class="features">
+				{% for tool in tools %}
+					{% if tool.tags contains tag %}
+		        <article>
+		          <p><a href="{{ tool.url }}" target="_blank"><img src="{{ tool.image }}" width="150" style="padding: 15px;" align="center" valign="top" /></a></p>
+		          <div class="content">
+		            <h3><a href="{{ tool.url }}" target="_blank">{{ tool.name }}</a></h3>
+		            <p>{{ tool.description }}</p>
+								<ul class="icons">
+									<li><a href="{{ tool.url}}" class="icon fa-home"><span class="label">Home</span></a></li>
+									{% if tool.twitter != '' %}
+									<li><a href="{{ tool.twitter}}" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+									{% endif %}
+									{% if tool.blog != '' %}
+									<li><a href="{{ tool.blog }}" class="icon fa-rss"><span class="label">Blog</span></a></li>
+									{% endif %}
+									{% if tool.blog_rss != '' %}
+									<li><a href="{{ tool.blog_rss }}" class="icon fa-rss-square"><span class="label">RSS</span></a></li>
+									{% endif %}
+									{% if tool.github != '' %}
+									<li><a href="{{ tool.github }}" class="icon fa-github"><span class="label">Github</span></a></li>
+									{% endif %}
+								</ul>
+		          </div>
+		        </article>
+					{% endif %}
+		    {% endfor %}
+			</div>
+		{% endfor %}
+		<ul class="actions" style="text-align: center;">
+			<li><a href="/tools/" class="button big">See All Tools</a></li>
+		</ul>
+		<p>{{ tool_content.footer }}</p>
+</section>
 
-  <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="left">
+<!-- Building Blocks -->
+<a name="BuildingBlocks"></a>
+{% assign building_block_content = site.data.building_block_content.index[0] %}
+{% assign building_blocks = site.data.building_blocks.index %}
+{% assign categorylist = '' %}
+{% for block in building_blocks %}
+	{% assign category = block.category %}
+	{% if categorylist contains category %}
+	{% else %}
+		{% if categorylist != '' %}
+			{% assign categorylist = categorylist | append:',' %}
+		{% endif %}
+		{% assign categorylist = categorylist | append: category %}
+	{% endif %}
+{% endfor %}
+<section id="banner">
+	<div class="content">
+		<header>
+			<h2>{{ building_block_content.title }}</h2>
+			<p>{{ building_block_content.header }}</p>
+		</header>
+		<ul style="padding: 0px 25px 0px 25px;">
+			{% assign categoryArray = categorylist | split: "," %}
+			{% for category in categoryArray %}
+				<li>
+					<span style="font-size: 18px; font-weight: bold;">{{ category }}</span>
+					<ul style="margin-top: 10px;">
+						{% for block in building_blocks %}
+							{% if block.category == category %}
+							<li><strong>{{ block.name }}</strong> - {{ block.descripion }}</li>
+							{% endif %}
+						{% endfor %}
+					</ul>
+				</li>
+			{% endfor %}
+		</ul>
+		<p>{{ building_block_content.footer }}</p>
+		<center>
+			<ul class="actions" style="text-align: center;">
+				<li><a href="/building-blocks/" class="button big">See The Building Blocks</a></li>
+			</ul>
+		</center>
+	</div>
+</section>
 
-    <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
-      <li><a href="http://history.apievangelist.com"><strong><span style="font-size: 20px;">&#8666;</span>&nbsp;&nbsp;The History of APIs</strong></a></li>
-    </ul>
-
-  </div>
-
-  <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="right">
-
-    <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
-      <li><a href="http://hypermedia.apievangelist.com"><strong>Visit My Research On Hypermedia APIs&nbsp;&nbsp;<span style="font-size: 20px;">&#8667;</span></strong></a></li>
-    </ul>
-
-  </div>
-
-</div>
+<!-- About This Research -->
+<a name="About"></a>
+<section id="banner">
+	<div class="content">
+		<header>
+			<h2>About This Research</h2>
+		</header>
+		<p>As I keep an eye on the space I curate news, bookmark organizations, watch interesting tools, and try to understand what definitions are being applied by leading API providers. I take everything I find and publish here as part of my research.</p>
+		<p>I then take this research, and what I've learned and publish stories on the blog, and more long form content like my industry guides, and white papers for customers. This is one way thtat I generate revenue to keep it all going.</p>
+		<p>If you'd like to see me focus more on API definitions I could use more partners investing in this area, helping me find the time to study more about what is going on. Feel free to contact me directly if you want to talk more about API definitions.</p>
+		<p>Thanks for your support!</p>
+	</div>
+	<span class="image object">
+		<img src="/images/api-evangelist-in-api-we-trust.png" alt="" width="5%" />
+	</span>
+</section>
