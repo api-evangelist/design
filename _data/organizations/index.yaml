@@ -197,23 +197,6 @@
   image: >-
     http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mulesoft-logo.jpeg
   tags: 'Design,Management,API LIfeycle,Studio,Design Editor'
-- slug: osmosis
-  name: Osmosis
-  description: >-
-    Osmosis helps creative professionals cut project start time in half with
-    easy and reusable client questionnaires and proposals. Do fewer revisions,
-    win more work. Gather project requirements using customizable online client
-    questionnaires. Create beautiful winning proposals . Collaborate with your
-    clients more efficiently.
-  url: 'https://www.getosmosis.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/getosmosis'
-  blog: 'https://www.getosmosis.com/blog'
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1670_logo..png
-  tags: 'Design Briefs,Proposals'
 - slug: reprezen-api-studio
   name: RepreZen API Studio
   description: >-
