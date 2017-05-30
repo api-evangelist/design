@@ -467,7 +467,7 @@
   github: ''
   image: >-
     http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/raml-logo.jpg
-  tags: 'Definitions, Design,API Definitions,RAML'
+  tags: 'Definitions, Design,API Specification,RAML'
 - slug: openstack-api-design-guide
   name: OpenStack API Design Guide
   description: >-
