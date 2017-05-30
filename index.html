@@ -248,7 +248,7 @@ title: API Evangelist - Design
 			<p>{{ building_block_content.header }}</p>
 		</header>
 		<ul style="padding: 0px 25px 0px 25px;">
-			{% assign categoryArray = categorylist | split: "," %}
+			{% assign categoryArray = categorylist | split: "," | sort: %}
 			{% for category in categoryArray %}
 				<li>
 					<span style="font-size: 18px; font-weight: bold;">{{ category }}</span>
