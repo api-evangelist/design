@@ -482,5 +482,5 @@
   blogrss: http://www.apicur.io/blog/feed.xml
   github: https://github.com/Apicurio
   image: https://s3.amazonaws.com/kinlane-productions/apicurio/apicurio-studio.png
-  tags: Design,Studio,Open Source
+  tags: Design,Studio,Open Source,Design Editor
 ...
