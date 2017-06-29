@@ -139,27 +139,6 @@
   image: >-
     http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/grpc.png
   tags: Design
-- slug: mashape
-  name: Mashape
-  description: >-
-    Mashape provides tools that enable developers to quickly deliver and consume
-    APIs and offers a marketplace for listing APIs. Mashape provides tools for
-    testing your API, code for generation of custom errors, components for user
-    management and standardized API code language libraries in multiple
-    languages. &nbsp;Once your API is ready for prime time Mashape provides a
-    marketplace for listing your API, letting developers to easily discover and
-    begin hacking with your API, in a social API community environment.
-  url: 'http://mashape.com'
-  short_url: ''
-  twitter: 'https://twitter.com/mashape'
-  blog: 'http://blog.mashape.com/'
-  blog_rss: ''
-  github: 'https://github.com/Mashape'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/mashape-logo.png
-  tags: >-
-    Management,Discovery,Discovery,Design,API Management Other,API
-    LIfeycle,Studio
 - slug: materia
   name: Materia
   description: >-
