@@ -341,8 +341,8 @@
   type: Design
   category: Open Standards
   name: ISO 8601 (Date / Time)
-  description: ISO 8601 Data elements and interchange formats ��� Information interchange
-    ��� Representation of dates and times is an international standard covering the
+  description: ISO 8601 Data elements and interchange formats information interchange
+    representation of dates and times is an international standard covering the
     exchange of date and time-related data. The purpose of this standard is to provide
     an unambiguous and well-defined method of representing dates and times, so as
     to avoid misinterpretation of numeric representations of dates and times, particularly
