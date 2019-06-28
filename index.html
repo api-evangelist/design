@@ -160,6 +160,7 @@ title: API Evangelist - Design
 
 		{% assign tagArray = tagslist | split: "," %}
 		{% assign tagArray = tagArray | sort: %}
+		
 		{% for tag in tagArray %}
 			{% assign tag = tag | replace: '"','' | replace: '[','' | replace: ']','' %}
 			<h3>{{ tag }}</h3>
