@@ -148,6 +148,7 @@ title: API Evangelist - Design
 			{% assign tagArray = tags | split: "," %}
 			{% for tag in tagArray %}
 				{% assign tag = tag | strip %}
+				{% assign tag = tag | replace: '"','' | replace: '[','' | replace: ']','' %}
 				{% if tagslist contains tag %}
 				{% else %}
 					{% if tagslist != '' %}
@@ -160,7 +161,7 @@ title: API Evangelist - Design
 
 		{% assign tagArray = tagslist | split: "," %}
 		{% assign tagArray = tagArray | sort: %}
-		
+
 		{% for tag in tagArray %}
 			{% assign tag = tag | replace: '"','' | replace: '[','' | replace: ']','' %}
 			<h3>{{ tag }}</h3>
