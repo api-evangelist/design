@@ -1,1 +1,38 @@
-[]
+- category_name: Best Practices
+  building_blocks: []
+- category_name: Requests
+  building_blocks: []
+- category_name: HTTP Methods
+  building_blocks: []
+- category_name: Response
+  building_blocks: []
+- category_name: HTTP Status User Error
+  building_blocks: []
+- category_name: HTTP Status Redirection
+  building_blocks: []
+- category_name: HTTP Status Server Error
+  building_blocks: []
+- category_name: HTTP Status Success
+  building_blocks: []
+- category_name: Error handling
+  building_blocks: []
+- category_name: Media Types
+  building_blocks: []
+- category_name: Hypermedia
+  building_blocks: []
+- category_name: Schema
+  building_blocks: []
+- category_name: Open Standards
+  building_blocks: []
+- category_name: Resources
+  building_blocks: []
+- category_name: Design Process
+  building_blocks: []
+- category_name: Organization
+  building_blocks: []
+- category_name: Internationalization
+  building_blocks: []
+- category_name: Miscellaneous
+  building_blocks: []
+- category_name: Other
+  building_blocks: []
