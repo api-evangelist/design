@@ -147,6 +147,7 @@ title: API Evangelist - Design
 			{% assign tags = tool.tags %}
 			{% assign tagArray = tags | split: "," %}
 			{% for tag in tagArray %}
+				tag: {{ tag }}<br>
 				{% assign tag = tag | strip %}
 				{% assign tag = tag | replace: '"','' | replace: '[','' | replace: ']','' %}
 				{% if tagslist contains tag %}
