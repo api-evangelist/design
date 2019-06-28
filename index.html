@@ -19,7 +19,18 @@ title: API Evangelist - Design
 
 <!-- Partners -->
 <section>
-	{% include partner-fma.html %}
+	<div class="features">
+	  {% assign partners = site.data.partners.index | sort: 'view_sort' %}
+	  {% for partner in partners %}
+	    {% if partner.type == 'Sponsor' %}
+	    <article>
+	      <div class="content">
+	        <p align="center"><a href="{{ partner.url }}" target="_blank"><img src="{{ partner.image }}" width="75%" style="padding: 15px; border: 1px solid #000;" /></a></p>
+	      </div>
+	    </article>
+	    {% endif %}
+	  {% endfor %}
+	</div>
 </section>
 
 <!-- Blog Feature -->
@@ -163,7 +174,7 @@ title: API Evangelist - Design
 		          <p><a href="{{ tool.url }}" target="_blank"><img src="{{ tool.image }}" width="150" style="padding: 15px;" align="center" valign="top" /></a></p>
 		          <div class="content">
 		            <h3><a href="{{ tool.url }}" target="_blank">{{ tool.name }}</a></h3>
-		            <p>{{ tool.description }}</p>
+		            <p>{{ tool.details }}</p>
 								<ul class="icons">
 									<li><a href="{{ tool.url}}" class="icon fa-home"><span class="label">Home</span></a></li>
 									{% if tool.twitter != '' %}
