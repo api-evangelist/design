@@ -150,14 +150,12 @@ title: API Evangelist - Design
 			{% for tag in tagArray %}
 				{% assign tag = tag | strip %}
 				tag: {{ tag }}<br>
-				{% if approved_tags contains tag and tag != site.tag %}
-					{% if tagslist contains tag %}
-					{% else %}
-						{% if tagslist != '' %}
-							{% assign tagslist = tagslist | append:',' %}
-						{% endif %}
-						{% assign tagslist = tagslist | append: tag %}
+				{% if tagslist contains tag %}
+				{% else %}
+					{% if tagslist != '' %}
+						{% assign tagslist = tagslist | append:',' %}
 					{% endif %}
+					{% assign tagslist = tagslist | append: tag %}
 				{% endif %}
 			{% endfor %}
 		{% endfor %}
