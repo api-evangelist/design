@@ -213,17 +213,6 @@ title: API Evangelist - Design
 <a name="BuildingBlocks"></a>
 {% assign building_block_content = site.data.building_block_content.index[0] %}
 {% assign building_blocks = site.data.building_blocks.index %}
-{% assign categorylist = '' %}
-{% for block in building_blocks %}
-	{% assign category = block.category %}
-	{% if categorylist contains category %}
-	{% else %}
-		{% if categorylist != '' %}
-			{% assign categorylist = categorylist | append:',' %}
-		{% endif %}
-		{% assign categorylist = categorylist | append: category %}
-	{% endif %}
-{% endfor %}
 <section id="banner">
 	<div class="content">
 		<header>
@@ -231,14 +220,13 @@ title: API Evangelist - Design
 			<p>{{ building_block_content.header }}</p>
 		</header>
 		<ul style="padding: 0px 25px 0px 25px;">
-			{% assign categoryArray = categorylist | split: "," | sort: %}
-			{% for category in categoryArray %}
+			{% for category in building_blocks %}
 				<li>
-					<span style="font-size: 18px; font-weight: bold;">{{ category }}</span>
+					<span style="font-size: 18px; font-weight: bold;">{{ category.category_name }}</span>
 					<ul style="margin-top: 10px;">
-						{% for block in building_blocks %}
+						{% for block in category.building_blocks %}
 							{% if block.category == category %}
-							<li><strong>{{ block.name }}</strong> - {{ block.description }}</li>
+							<li><strong>{{ block.name }}</strong> - {{ block.about }}</li>
 							{% endif %}
 						{% endfor %}
 					</ul>
