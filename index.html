@@ -142,10 +142,8 @@ title: API Evangelist - Design
 	</header>
 		{% assign tools = site.data.tools.index %}
 		{% assign tagslist = '' %}
-
 		{% for tool in tools %}
 			{% for tag in tool.tags %}
-				tag3: {{ tag }}<br>
 				{% if tagslist contains tag %}
 				{% else %}
 					{% if tagslist != '' %}
