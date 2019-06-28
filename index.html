@@ -218,7 +218,7 @@ title: API Evangelist - Design
 					<span style="font-size: 18px; font-weight: bold;">{{ category.category_name }}</span>
 					<ul style="margin-top: 10px;">
 						{% for block in category.building_blocks %}
-							{% if block.category == category %}
+							{% if block.category == category.category_name %}
 							<li><strong>{{ block.name }}</strong> - {{ block.about }}</li>
 							{% endif %}
 						{% endfor %}
