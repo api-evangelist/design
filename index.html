@@ -13,7 +13,7 @@ title: API Evangelist - Design
 		{{ home_content.content }}
 	</div>
 	<span class="image object">
-		<img src="{{ home_content.image }}" alt="" width="25%" />
+		<img src="{{ home_content.image }}" alt="" width="5%" style="padding: 15px;" />
 	</span>
 </section>
 
@@ -38,27 +38,6 @@ title: API Evangelist - Design
       {% endif %}
     {% endfor %}
 	</div>
-</section>
-
-<!-- Guide -->
-<a name="Guide"></a>
-<section id="banner">
-	<div class="content">
-		<header>
-			<h2>API Design Industry Guide</h2>
-		</header>
-
-		<p>In the last couple of years, I've seen the concept of API design go from being something the API elite discuss, to something that involves business users, and something that has spawned a whole ecosystem of service and tooling providers.</p>
-		<p>This API design research covers the concepts people often associate with API design, like REST, and Hypermedia, but also touches on other media types, API definitions, and many of the services, tooling and other solutions that have emerged to serve the space.</p
-		<p>I fund my research through consulting, selling my guides, and the generous support of my sponsors. I appreciate your support in helping me continue with my work and hope you find it relevant in your API journey.</p>
-		<ul class="actions" style="text-align: center;">
-			<li><a href="https://gum.co/mujnIl" class="button big" target="_blank">Purchase Guide</a></li>
-		</ul>
-
-	</div>
-	<span class="image object">
-		<a href="https://gum.co/mujnIl" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/guides/definition/design/api-design-guide-2017-09-25.png" alt="" /></a>
-	</span>
 </section>
 
 <!-- Blog Feature -->
@@ -133,7 +112,7 @@ title: API Evangelist - Design
 				<p><a href="{{ organization.url }}" target="_blank"><img style="padding: 15px; vertical-align: top;" src="{{ organization.image }}" width="175" align="center" /></a></p>
 				<div class="content">
 					<h3><a href="{{ organization.url }}" target="_blank">{{ organization.name }}</a></h3>
-					<p>{{ organization.description }}</p>
+					<p>{{ organization.summary }}</p>
 					<ul class="icons">
 						<li><a href="{{ organization.url}}" class="icon fa-home"><span class="label">Home</span></a></li>
 						{% if organization.twitter != '' %}
