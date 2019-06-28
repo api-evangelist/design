@@ -148,6 +148,7 @@ title: API Evangelist - Design
 			{% assign tagArray = tags | split: "," %}
 			{% for tag in tagArray %}
 				{% assign tag = tag | strip %}
+				tag: {{ tag }}<br>
 				{% if approved_tags contains tag and tag != site.tag %}
 					{% if tagslist contains tag %}
 					{% else %}
