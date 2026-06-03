@@ -1,0 +1,20 @@
+title: Design
+description: A curated index of services, tooling, and open source solutions for API
+  design, specification editing, linting, and governance. This collection covers visual
+  API designers, specification languages, linting and style guide tools, schema registries,
+  governance platforms, and design-first frameworks across the API design lifecycle
+  stop.
+url: https://design.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary

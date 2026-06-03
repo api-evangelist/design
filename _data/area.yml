@@ -1,0 +1,82 @@
+meta:
+  name: Design
+  description: A curated index of services, tooling, and open source solutions for
+    API design, specification editing, linting, and governance. This collection covers
+    visual API designers, specification languages, linting and style guide tools,
+    schema registries, governance platforms, and design-first frameworks across the
+    API design lifecycle stop.
+  tags:
+  - API Design
+  - Governance
+  - Linting
+  - Specification Languages
+  portal: null
+  github: null
+  repo: design
+services_tools:
+- name: API Blueprint
+  repo: https://github.com/api-evangelist/api-blueprint
+  apisio: https://providers.apis.io/providers/api-blueprint/
+- name: Apiary
+  repo: https://github.com/api-evangelist/apiary
+  apisio: https://providers.apis.io/providers/apiary/
+- name: Apicurio
+  repo: https://github.com/api-evangelist/apicurio
+  apisio: https://providers.apis.io/providers/apicurio/
+- name: Apidog
+  repo: https://github.com/api-evangelist/apidog
+  apisio: https://providers.apis.io/providers/apidog/
+- name: AsyncAPI
+  repo: https://github.com/api-evangelist/asyncapi
+  apisio: https://providers.apis.io/providers/asyncapi/
+- name: Buf
+  repo: https://github.com/api-evangelist/buf
+  apisio: https://providers.apis.io/providers/buf/
+- name: Connexion
+  repo: https://github.com/api-evangelist/connexion
+  apisio: https://providers.apis.io/providers/connexion/
+- name: FastAPI
+  repo: https://github.com/api-evangelist/fastapi
+  apisio: https://providers.apis.io/providers/fastapi/
+- name: JSON Schema
+  repo: https://github.com/api-evangelist/json-schema
+  apisio: https://providers.apis.io/providers/json-schema/
+- name: OpenAPI
+  repo: https://github.com/api-evangelist/openapi
+  apisio: https://providers.apis.io/providers/openapi/
+- name: Optic
+  repo: https://github.com/api-evangelist/optic
+  apisio: https://providers.apis.io/providers/optic/
+- name: Prism
+  repo: https://github.com/api-evangelist/prism
+  apisio: https://providers.apis.io/providers/prism/
+- name: RAML
+  repo: https://github.com/api-evangelist/raml
+  apisio: https://providers.apis.io/providers/raml/
+- name: Redocly
+  repo: https://github.com/api-evangelist/redocly
+  apisio: https://providers.apis.io/providers/redocly/
+- name: Smithy
+  repo: https://github.com/api-evangelist/smithy
+  apisio: https://providers.apis.io/providers/smithy/
+- name: Spectral
+  repo: https://github.com/api-evangelist/spectral
+  apisio: https://providers.apis.io/providers/spectral/
+- name: Stoplight
+  repo: https://github.com/api-evangelist/stoplight
+  apisio: https://providers.apis.io/providers/stoplight/
+- name: Swagger
+  repo: https://github.com/api-evangelist/swagger
+  apisio: https://providers.apis.io/providers/swagger/
+- name: TypeSpec
+  repo: https://github.com/api-evangelist/typespec
+  apisio: https://providers.apis.io/providers/typespec/
+- name: Vacuum
+  repo: https://github.com/api-evangelist/vacuum
+  apisio: https://providers.apis.io/providers/vacuum/
+- name: Zally
+  repo: https://github.com/api-evangelist/zally
+  apisio: https://providers.apis.io/providers/zally/
+features: []
+use_cases: []
+integrations: []
