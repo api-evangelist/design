@@ -1,7 +1,7 @@
 ---
-title: API Governance Is 75% People Work
-link: http://apievangelist.com/2026/07/05/api-governance-is-75-percent-people-work/
-published: '2026-07-05'
+title: A Federated API Governance Rule Registry
+link: http://apievangelist.com/2026/07/20/federated-api-governance-rule-registry/
+published: '2026-07-20'
 provider: programmableweb
 repo: https://github.com/api-evangelist/programmableweb
 domain: apievangelist.com
