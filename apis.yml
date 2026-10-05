@@ -1,5 +1,6 @@
 aid: design
 name: Design
+kind: topic
 description: >-
   A curated index of services, tooling, and open source solutions for API
   design, specification editing, linting, and governance. This collection
