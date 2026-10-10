@@ -1,6 +1,6 @@
 ---
-title: API Design As I Use the API, and MCP, and Skills
-link: http://apievangelist.com/2026/07/17/api-design-as-i-use-the-api-and-mcp-and-skills/
+title: Why I Am Doubling Down on API Discovery and Governance
+link: http://apievangelist.com/2026/07/17/doubling-down-on-api-discovery-and-governance/
 published: '2026-07-17'
 provider: api-evangelist
 repo: https://github.com/api-evangelist/api-evangelist

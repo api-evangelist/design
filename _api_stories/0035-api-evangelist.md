@@ -1,6 +1,6 @@
 ---
-title: Tamper-Evident Certificates for API Governance
-link: http://apievangelist.com/2026/07/20/tamper-evident-certificates-for-api-governance/
+title: A Federated API Governance Rule Registry
+link: http://apievangelist.com/2026/07/20/federated-api-governance-rule-registry/
 published: '2026-07-20'
 provider: api-evangelist
 repo: https://github.com/api-evangelist/api-evangelist
