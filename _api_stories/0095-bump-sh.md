@@ -1,7 +1,7 @@
 ---
-title: A Developer's Guide to API Design-First
-link: https://bump.sh/blog/dev-guide-api-design-first/
-published: '2025-01-27'
+title: Leveraging the OpenAPI Specification for API Governance
+link: https://bump.sh/blog/leveraging-openapi-specification-api-governance/
+published: '2025-03-18'
 provider: bump-sh
 repo: https://github.com/api-evangelist/bump-sh
 domain: bump.sh
