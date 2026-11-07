@@ -1,7 +1,7 @@
 ---
-title: Two approaches to API design - Resources vs Workflows
-link: http://redocly.com/blog/api-design-approaches
-published: '2025-10-28'
+title: 'Beat the Invisible Man: Unforced errors in API design'
+link: http://redocly.com/blog/beat-the-invisible-man
+published: '2026-01-29'
 provider: redoc
 repo: https://github.com/api-evangelist/redoc
 domain: redocly.com
